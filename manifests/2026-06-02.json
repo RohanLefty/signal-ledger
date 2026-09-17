@@ -1,0 +1,11 @@
+{
+ "chainLines": {
+  "chain/us.jsonl": "{\"chainHash\":\"45eb2bc63dba464083cd244979fbfd3e6415ae6c9133ac8d7bb16eb3c21729aa\",\"date\":\"2026-06-02\",\"events\":40,\"prevHash\":\"89355ea8c43bb54876a4ab421cd59a6ffaa5c4a740d2441741b8c1754a9faa2e\",\"recordHash\":\"6b552a3be99db71cfa39383ec5ec2d48442002414f72f174bd60a820039e8bbb\",\"themes\":1}"
+ },
+ "date": "2026-06-02",
+ "files": {
+  "chain/us.jsonl": "4c1007c9d6c9bc8be24a0876f1b61c4b2aa5c277177445b73f6a0e2f9575f726",
+  "picks/us/2026-06-02.json": "637bccd17cc82cade779cb8aa1eb261d83a582b9f0e226f9af5ecabe2761ede9"
+ },
+ "prev": "8fa0e1fe963d9c4cab71a7503bd3b444e11ca93e37a89a7db98e4d9e64ab2e9c"
+}

@@ -1,0 +1,19 @@
+{
+ "date": "2026-07-20",
+ "holdings": {
+  "etf-core": {
+   "positions": [],
+   "value": 100000
+  },
+  "single-stocks": {
+   "positions": [],
+   "value": 100000
+  },
+  "suppliers": {
+   "positions": [],
+   "value": 100000
+  }
+ },
+ "region": "ca",
+ "trades": []
+}

@@ -1,0 +1,183 @@
+{
+ "date": "2026-07-25",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 47.1763,
+     "ticker": "ARKW",
+     "weightPct": 6.14
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.73
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.36
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.52
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.16
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 12.1
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.15
+    },
+    {
+     "shares": 57.1729,
+     "ticker": "TIP",
+     "weightPct": 5.86
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 12.99
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 13
+    }
+   ],
+   "value": 104914.79
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 415.4375,
+     "ticker": "CWCO",
+     "weightPct": 11.94
+    },
+    {
+     "shares": 36.8405,
+     "ticker": "HD",
+     "weightPct": 12.03
+    },
+    {
+     "shares": 2.7928,
+     "ticker": "QBTS",
+     "weightPct": 0.04
+    },
+    {
+     "shares": 186.0348,
+     "ticker": "UBER",
+     "weightPct": 12.03
+    },
+    {
+     "shares": 78.1645,
+     "ticker": "XOM",
+     "weightPct": 12.03
+    }
+   ],
+   "value": 101978.53
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 26.4767,
+     "ticker": "ADSK",
+     "weightPct": 5.17
+    },
+    {
+     "shares": 11.1243,
+     "ticker": "AMAT",
+     "weightPct": 5.56
+    },
+    {
+     "shares": 1.8116,
+     "ticker": "ASML",
+     "weightPct": 2.97
+    },
+    {
+     "shares": 13.7422,
+     "ticker": "DELL",
+     "weightPct": 5.6
+    },
+    {
+     "shares": 72.4801,
+     "ticker": "DHR",
+     "weightPct": 12.93
+    },
+    {
+     "shares": 7.8408,
+     "ticker": "GE",
+     "weightPct": 2.58
+    },
+    {
+     "shares": 32.8355,
+     "ticker": "LRCX",
+     "weightPct": 9.34
+    },
+    {
+     "shares": 20.887,
+     "ticker": "MCK",
+     "weightPct": 16.36
+    },
+    {
+     "shares": 13.006,
+     "ticker": "SNPS",
+     "weightPct": 4.53
+    }
+   ],
+   "value": 107326.42
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-25T15:04:59Z",
+   "book": "etf-core",
+   "price": 136.44,
+   "shares": 47,
+   "side": "buy",
+   "ticker": "ARKW"
+  },
+  {
+   "at": "2026-07-25T15:04:59Z",
+   "book": "single-stocks",
+   "price": 65.94,
+   "shares": 186,
+   "side": "buy",
+   "ticker": "UBER"
+  },
+  {
+   "at": "2026-07-25T15:04:59Z",
+   "book": "single-stocks",
+   "price": 332.98,
+   "shares": 37,
+   "side": "buy",
+   "ticker": "HD"
+  },
+  {
+   "at": "2026-07-25T15:04:59Z",
+   "book": "single-stocks",
+   "price": 156.94,
+   "shares": 45,
+   "side": "buy",
+   "ticker": "XOM"
+  },
+  {
+   "at": "2026-07-25T15:04:59Z",
+   "book": "single-stocks",
+   "price": 5.98,
+   "shares": 2110,
+   "side": "sell",
+   "ticker": "AGEN"
+  }
+ ]
+}

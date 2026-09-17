@@ -1,0 +1,196 @@
+{
+ "date": "2026-07-01",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.18
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.54
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.58
+    },
+    {
+     "shares": 34.2093,
+     "ticker": "TIP",
+     "weightPct": 3.43
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 12.96
+    },
+    {
+     "shares": 81.196,
+     "ticker": "XAR",
+     "weightPct": 21.71
+    },
+    {
+     "shares": 145.6672,
+     "ticker": "XBI",
+     "weightPct": 21.14
+    }
+   ],
+   "value": 108143.33
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 4.4855,
+     "ticker": "NVDA",
+     "weightPct": 0.88
+    },
+    {
+     "shares": 37.1949,
+     "ticker": "QBTS",
+     "weightPct": 0.91
+    },
+    {
+     "shares": 66.4962,
+     "ticker": "RTX",
+     "weightPct": 12.69
+    },
+    {
+     "shares": 45.9322,
+     "ticker": "XOM",
+     "weightPct": 6.28
+    }
+   ],
+   "value": 100210.28
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 0.6632,
+     "ticker": "AMAT",
+     "weightPct": 0.42
+    },
+    {
+     "shares": 14.0196,
+     "ticker": "AMD",
+     "weightPct": 7.55
+    },
+    {
+     "shares": 46.9415,
+     "ticker": "ANET",
+     "weightPct": 7.7
+    },
+    {
+     "shares": 0.0328,
+     "ticker": "ASML",
+     "weightPct": 0.06
+    },
+    {
+     "shares": 2.9642,
+     "ticker": "AVGO",
+     "weightPct": 1.07
+    },
+    {
+     "shares": 15.9476,
+     "ticker": "CAT",
+     "weightPct": 15.69
+    },
+    {
+     "shares": 45.8805,
+     "ticker": "GD",
+     "weightPct": 16.32
+    },
+    {
+     "shares": 0.538,
+     "ticker": "KLAC",
+     "weightPct": 0.14
+    },
+    {
+     "shares": 41.0411,
+     "ticker": "LHX",
+     "weightPct": 11.83
+    },
+    {
+     "shares": 0.1586,
+     "ticker": "LRCX",
+     "weightPct": 0.06
+    },
+    {
+     "shares": 11.6397,
+     "ticker": "NOC",
+     "weightPct": 5.96
+    },
+    {
+     "shares": 43.4253,
+     "ticker": "NVDA",
+     "weightPct": 8.36
+    },
+    {
+     "shares": 83.5445,
+     "ticker": "RTX",
+     "weightPct": 15.61
+    },
+    {
+     "shares": 91.8918,
+     "ticker": "UPS",
+     "weightPct": 9.95
+    }
+   ],
+   "value": 102368.82
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-01T10:36:38Z",
+   "book": "suppliers",
+   "price": 190.48,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-07-01T10:36:39Z",
+   "book": "single-stocks",
+   "price": 200.09,
+   "shares": 4,
+   "side": "buy",
+   "ticker": "NVDA"
+  },
+  {
+   "at": "2026-07-01T15:40:25Z",
+   "book": "single-stocks",
+   "price": 24.13,
+   "shares": 37,
+   "side": "buy",
+   "ticker": "QBTS"
+  },
+  {
+   "at": "2026-07-01T15:40:48Z",
+   "book": "suppliers",
+   "price": 101.03,
+   "shares": 3,
+   "side": "buy",
+   "ticker": "DECK"
+  },
+  {
+   "at": "2026-07-01T16:33:46Z",
+   "book": "suppliers",
+   "price": 101.46,
+   "shares": 3,
+   "side": "sell",
+   "ticker": "DECK"
+  },
+  {
+   "at": "2026-07-01T16:47:01Z",
+   "book": "suppliers",
+   "price": 655.08,
+   "shares": 1,
+   "side": "buy",
+   "ticker": "AMAT"
+  }
+ ]
+}

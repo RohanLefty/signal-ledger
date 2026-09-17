@@ -1,0 +1,102 @@
+{
+ "date": "2026-06-03",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 71.9388,
+     "ticker": "ITA",
+     "weightPct": 0
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 0
+    },
+    {
+     "shares": 56.0397,
+     "ticker": "XAR",
+     "weightPct": 0
+    },
+    {
+     "shares": 207.4437,
+     "ticker": "XBI",
+     "weightPct": 0
+    }
+   ],
+   "value": 99988.97
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 60.6813,
+     "ticker": "A",
+     "weightPct": 0
+    },
+    {
+     "shares": 29.4669,
+     "ticker": "CRL",
+     "weightPct": 0
+    },
+    {
+     "shares": 46.3038,
+     "ticker": "DHR",
+     "weightPct": 0
+    },
+    {
+     "shares": 28.6105,
+     "ticker": "HON",
+     "weightPct": 0
+    },
+    {
+     "shares": 55.0618,
+     "ticker": "ILMN",
+     "weightPct": 0
+    },
+    {
+     "shares": 32.6218,
+     "ticker": "IQV",
+     "weightPct": 0
+    },
+    {
+     "shares": 26.3821,
+     "ticker": "LHX",
+     "weightPct": 0
+    },
+    {
+     "shares": 14.4414,
+     "ticker": "LMT",
+     "weightPct": 0
+    },
+    {
+     "shares": 15.2554,
+     "ticker": "NOC",
+     "weightPct": 0
+    },
+    {
+     "shares": 38.3791,
+     "ticker": "RTX",
+     "weightPct": 0
+    },
+    {
+     "shares": 18.5161,
+     "ticker": "TMO",
+     "weightPct": 0
+    },
+    {
+     "shares": 20.0034,
+     "ticker": "WAT",
+     "weightPct": 0
+    },
+    {
+     "shares": 16.6239,
+     "ticker": "WST",
+     "weightPct": 0
+    }
+   ],
+   "value": 100466.05
+  }
+ },
+ "region": "us",
+ "trades": []
+}

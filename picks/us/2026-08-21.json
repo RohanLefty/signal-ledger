@@ -1,0 +1,167 @@
+{
+ "date": "2026-08-21",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 18.744,
+     "ticker": "ARKW",
+     "weightPct": 2.57
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.83
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 18.68
+    },
+    {
+     "shares": 32.4608,
+     "ticker": "NLR",
+     "weightPct": 3.41
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.35
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 11.82
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.87
+    },
+    {
+     "shares": 57.1729,
+     "ticker": "TIP",
+     "weightPct": 5.4
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 15.03
+    },
+    {
+     "shares": 36.2635,
+     "ticker": "XAR",
+     "weightPct": 8.75
+    },
+    {
+     "shares": 45.1463,
+     "ticker": "XTN",
+     "weightPct": 4.3
+    }
+   ],
+   "value": 113397.74
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 1262.9512,
+     "ticker": "AOMR",
+     "weightPct": 10.02
+    },
+    {
+     "shares": 6.8738,
+     "ticker": "ASML",
+     "weightPct": 11.49
+    },
+    {
+     "shares": 55.2545,
+     "ticker": "CRWV",
+     "weightPct": 4.71
+    },
+    {
+     "shares": 98.5853,
+     "ticker": "CWCO",
+     "weightPct": 2.78
+    },
+    {
+     "shares": 27.6303,
+     "ticker": "HD",
+     "weightPct": 8.86
+    },
+    {
+     "shares": 61.5246,
+     "ticker": "SBAC",
+     "weightPct": 10.68
+    },
+    {
+     "shares": 633.39,
+     "ticker": "SPH",
+     "weightPct": 10.57
+    },
+    {
+     "shares": 37.3722,
+     "ticker": "UNP",
+     "weightPct": 10.85
+    },
+    {
+     "shares": 24.7317,
+     "ticker": "XOM",
+     "weightPct": 3.91
+    }
+   ],
+   "value": 105074.89
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 8.3774,
+     "ticker": "ADSK",
+     "weightPct": 1.96
+    },
+    {
+     "shares": 3.5198,
+     "ticker": "AMAT",
+     "weightPct": 1.58
+    },
+    {
+     "shares": 0.5732,
+     "ticker": "ASML",
+     "weightPct": 0.92
+    },
+    {
+     "shares": 4.3481,
+     "ticker": "DELL",
+     "weightPct": 1.74
+    },
+    {
+     "shares": 54.36,
+     "ticker": "DHR",
+     "weightPct": 10.91
+    },
+    {
+     "shares": 1.8607,
+     "ticker": "GE",
+     "weightPct": 0.6
+    },
+    {
+     "shares": 10.3894,
+     "ticker": "LRCX",
+     "weightPct": 2.97
+    },
+    {
+     "shares": 15.6652,
+     "ticker": "MCK",
+     "weightPct": 12.43
+    },
+    {
+     "shares": 4.1152,
+     "ticker": "SNPS",
+     "weightPct": 1.5
+    }
+   ],
+   "value": 108939.9
+  }
+ },
+ "region": "us",
+ "trades": []
+}

@@ -1,0 +1,251 @@
+{
+ "date": "2026-08-23",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 18.744,
+     "ticker": "ARKW",
+     "weightPct": 2.57
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.84
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 18.62
+    },
+    {
+     "shares": 32.4608,
+     "ticker": "NLR",
+     "weightPct": 3.43
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.32
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 11.81
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.91
+    },
+    {
+     "shares": 57.1729,
+     "ticker": "TIP",
+     "weightPct": 5.4
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 15.07
+    },
+    {
+     "shares": 36.2635,
+     "ticker": "XAR",
+     "weightPct": 8.72
+    },
+    {
+     "shares": 45.1463,
+     "ticker": "XTN",
+     "weightPct": 4.31
+    }
+   ],
+   "value": 113393.62
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 21,
+     "ticker": "SMH",
+     "weightPct": 11.77
+    },
+    {
+     "shares": 378,
+     "ticker": "SRVR",
+     "weightPct": 11.98
+    },
+    {
+     "shares": 121,
+     "ticker": "VNQ",
+     "weightPct": 11.92
+    },
+    {
+     "shares": 93,
+     "ticker": "XLP",
+     "weightPct": 8
+    },
+    {
+     "shares": 280,
+     "ticker": "XLU",
+     "weightPct": 11.98
+    },
+    {
+     "shares": 110,
+     "ticker": "XTN",
+     "weightPct": 11.9
+    }
+   ],
+   "value": 100000
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 1262.9512,
+     "ticker": "AOMR",
+     "weightPct": 9.9
+    },
+    {
+     "shares": 6.8738,
+     "ticker": "ASML",
+     "weightPct": 11.54
+    },
+    {
+     "shares": 55.2545,
+     "ticker": "CRWV",
+     "weightPct": 4.62
+    },
+    {
+     "shares": 98.5853,
+     "ticker": "CWCO",
+     "weightPct": 2.76
+    },
+    {
+     "shares": 27.6303,
+     "ticker": "HD",
+     "weightPct": 8.83
+    },
+    {
+     "shares": 61.5246,
+     "ticker": "SBAC",
+     "weightPct": 10.69
+    },
+    {
+     "shares": 633.39,
+     "ticker": "SPH",
+     "weightPct": 10.64
+    },
+    {
+     "shares": 37.3722,
+     "ticker": "UNP",
+     "weightPct": 10.96
+    },
+    {
+     "shares": 24.7317,
+     "ticker": "XOM",
+     "weightPct": 3.89
+    }
+   ],
+   "value": 105074.89
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 8.3774,
+     "ticker": "ADSK",
+     "weightPct": 1.95
+    },
+    {
+     "shares": 3.5198,
+     "ticker": "AMAT",
+     "weightPct": 1.59
+    },
+    {
+     "shares": 0.5732,
+     "ticker": "ASML",
+     "weightPct": 0.93
+    },
+    {
+     "shares": 4.3481,
+     "ticker": "DELL",
+     "weightPct": 1.76
+    },
+    {
+     "shares": 54.36,
+     "ticker": "DHR",
+     "weightPct": 10.92
+    },
+    {
+     "shares": 1.8607,
+     "ticker": "GE",
+     "weightPct": 0.6
+    },
+    {
+     "shares": 10.3894,
+     "ticker": "LRCX",
+     "weightPct": 2.99
+    },
+    {
+     "shares": 15.6652,
+     "ticker": "MCK",
+     "weightPct": 12.35
+    },
+    {
+     "shares": 4.1152,
+     "ticker": "SNPS",
+     "weightPct": 1.5
+    }
+   ],
+   "value": 108939.9
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-08-23T10:33:43Z",
+   "book": "long-hold",
+   "price": 108.14,
+   "shares": 37,
+   "side": "buy",
+   "ticker": "XTN"
+  },
+  {
+   "at": "2026-08-23T10:33:43Z",
+   "book": "long-hold",
+   "price": 98.5,
+   "shares": 40,
+   "side": "buy",
+   "ticker": "VNQ"
+  },
+  {
+   "at": "2026-08-23T10:33:43Z",
+   "book": "long-hold",
+   "price": 42.77,
+   "shares": 93,
+   "side": "buy",
+   "ticker": "XLU"
+  },
+  {
+   "at": "2026-08-23T10:33:43Z",
+   "book": "long-hold",
+   "price": 31.68,
+   "shares": 126,
+   "side": "buy",
+   "ticker": "SRVR"
+  },
+  {
+   "at": "2026-08-23T10:33:43Z",
+   "book": "long-hold",
+   "price": 560.42,
+   "shares": 7,
+   "side": "buy",
+   "ticker": "SMH"
+  },
+  {
+   "at": "2026-08-23T10:33:43Z",
+   "book": "long-hold",
+   "price": 85.99,
+   "shares": 93,
+   "side": "buy",
+   "ticker": "XLP"
+  }
+ ]
+}

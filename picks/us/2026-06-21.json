@@ -1,0 +1,197 @@
+{
+ "date": "2026-06-21",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.72
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.62
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.44
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 12.1
+    },
+    {
+     "shares": 81.196,
+     "ticker": "XAR",
+     "weightPct": 22.5
+    },
+    {
+     "shares": 145.6672,
+     "ticker": "XBI",
+     "weightPct": 19.98
+    }
+   ],
+   "value": 102589.3
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 1.2573,
+     "ticker": "AMAT",
+     "weightPct": 0.75
+    },
+    {
+     "shares": 0.4369,
+     "ticker": "ASML",
+     "weightPct": 0.82
+    },
+    {
+     "shares": 95.8279,
+     "ticker": "BA",
+     "weightPct": 20.69
+    },
+    {
+     "shares": 13.1144,
+     "ticker": "CW",
+     "weightPct": 9.81
+    },
+    {
+     "shares": 7.8884,
+     "ticker": "DHR",
+     "weightPct": 1.35
+    },
+    {
+     "shares": 29.0179,
+     "ticker": "GD",
+     "weightPct": 9.84
+    },
+    {
+     "shares": 3.8108,
+     "ticker": "ILMN",
+     "weightPct": 0.6
+    },
+    {
+     "shares": 18.8523,
+     "ticker": "IQV",
+     "weightPct": 3.07
+    },
+    {
+     "shares": 7.1658,
+     "ticker": "KLAC",
+     "weightPct": 1.8
+    },
+    {
+     "shares": 41.0411,
+     "ticker": "LHX",
+     "weightPct": 11.73
+    },
+    {
+     "shares": 39.2092,
+     "ticker": "LMT",
+     "weightPct": 19.42
+    },
+    {
+     "shares": 2.1125,
+     "ticker": "LRCX",
+     "weightPct": 0.8
+    },
+    {
+     "shares": 30.7029,
+     "ticker": "RTX",
+     "weightPct": 5.52
+    },
+    {
+     "shares": 8.1982,
+     "ticker": "TDG",
+     "weightPct": 10.56
+    },
+    {
+     "shares": 1.7607,
+     "ticker": "TER",
+     "weightPct": 0.75
+    },
+    {
+     "shares": 2.6866,
+     "ticker": "TMO",
+     "weightPct": 1.21
+    },
+    {
+     "shares": 3.7247,
+     "ticker": "WAT",
+     "weightPct": 1.28
+    }
+   ],
+   "value": 103166.19
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-21T04:05:47Z",
+   "book": "suppliers",
+   "price": 285.43,
+   "shares": 48,
+   "side": "sell",
+   "ticker": "HII"
+  },
+  {
+   "at": "2026-06-21T04:05:47Z",
+   "book": "suppliers",
+   "price": 521.5,
+   "shares": 29,
+   "side": "sell",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-21T04:05:49Z",
+   "book": "etf-core",
+   "price": 126.94,
+   "shares": 5,
+   "side": "buy",
+   "ticker": "NLR"
+  },
+  {
+   "at": "2026-06-21T04:05:49Z",
+   "book": "suppliers",
+   "price": 294.82,
+   "shares": 41,
+   "side": "buy",
+   "ticker": "LHX"
+  },
+  {
+   "at": "2026-06-21T04:05:49Z",
+   "book": "suppliers",
+   "price": 1328.31,
+   "shares": 8,
+   "side": "buy",
+   "ticker": "TDG"
+  },
+  {
+   "at": "2026-06-21T04:05:50Z",
+   "book": "suppliers",
+   "price": 771.93,
+   "shares": 13,
+   "side": "buy",
+   "ticker": "CW"
+  },
+  {
+   "at": "2026-06-21T18:23:56Z",
+   "book": "suppliers",
+   "price": 437.92,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "TER"
+  },
+  {
+   "at": "2026-06-21T18:23:57Z",
+   "book": "suppliers",
+   "price": 355.44,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "WAT"
+  }
+ ]
+}

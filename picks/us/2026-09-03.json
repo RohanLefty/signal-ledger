@@ -1,0 +1,431 @@
+{
+ "date": "2026-09-03",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 18.744,
+     "ticker": "ARKW",
+     "weightPct": 2.7
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.83
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 17.87
+    },
+    {
+     "shares": 32.4608,
+     "ticker": "NLR",
+     "weightPct": 3.47
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.83
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 11.79
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.6
+    },
+    {
+     "shares": 68,
+     "ticker": "SRVR",
+     "weightPct": 1.86
+    },
+    {
+     "shares": 17.1729,
+     "ticker": "TIP",
+     "weightPct": 1.65
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 15.82
+    },
+    {
+     "shares": 36.2635,
+     "ticker": "XAR",
+     "weightPct": 8.16
+    },
+    {
+     "shares": 65.1463,
+     "ticker": "XTN",
+     "weightPct": 6.07
+    }
+   ],
+   "value": 111501.3
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 1424,
+     "ticker": "AOMR",
+     "weightPct": 11.94
+    },
+    {
+     "shares": 6,
+     "ticker": "ASML",
+     "weightPct": 10.05
+    },
+    {
+     "shares": 65,
+     "ticker": "SBAC",
+     "weightPct": 12.73
+    },
+    {
+     "shares": 21,
+     "ticker": "SMH",
+     "weightPct": 11.78
+    },
+    {
+     "shares": 508,
+     "ticker": "SPH",
+     "weightPct": 9.07
+    },
+    {
+     "shares": 378,
+     "ticker": "SRVR",
+     "weightPct": 11.73
+    },
+    {
+     "shares": 38,
+     "ticker": "UNP",
+     "weightPct": 11.28
+    },
+    {
+     "shares": 68,
+     "ticker": "XLP",
+     "weightPct": 5.93
+    },
+    {
+     "shares": 84,
+     "ticker": "XLU",
+     "weightPct": 3.69
+    },
+    {
+     "shares": 110,
+     "ticker": "XTN",
+     "weightPct": 11.66
+    }
+   ],
+   "value": 98014.33
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 990,
+     "ticker": "AOMR",
+     "weightPct": 7.81
+    },
+    {
+     "shares": 5.8738,
+     "ticker": "ASML",
+     "weightPct": 9.25
+    },
+    {
+     "shares": 142,
+     "ticker": "AVT",
+     "weightPct": 12.28
+    },
+    {
+     "shares": 55.2545,
+     "ticker": "CRWV",
+     "weightPct": 4.41
+    },
+    {
+     "shares": 98.5853,
+     "ticker": "CWCO",
+     "weightPct": 2.76
+    },
+    {
+     "shares": 27.6303,
+     "ticker": "HD",
+     "weightPct": 8.48
+    },
+    {
+     "shares": 237,
+     "ticker": "JEF",
+     "weightPct": 12.11
+    },
+    {
+     "shares": 61.5246,
+     "ticker": "SBAC",
+     "weightPct": 11.33
+    },
+    {
+     "shares": 41.39,
+     "ticker": "SPH",
+     "weightPct": 0.7
+    },
+    {
+     "shares": 28.3722,
+     "ticker": "UNP",
+     "weightPct": 7.92
+    }
+   ],
+   "value": 104200.27
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 16,
+     "ticker": "AMAT",
+     "weightPct": 6.3
+    },
+    {
+     "shares": 3920,
+     "ticker": "CNDT",
+     "weightPct": 6.85
+    },
+    {
+     "shares": 67,
+     "ticker": "CSCO",
+     "weightPct": 6.64
+    },
+    {
+     "shares": 162,
+     "ticker": "FIS",
+     "weightPct": 6.17
+    },
+    {
+     "shares": 32,
+     "ticker": "GATX",
+     "weightPct": 5.13
+    },
+    {
+     "shares": 51,
+     "ticker": "GLW",
+     "weightPct": 6.72
+    },
+    {
+     "shares": 79,
+     "ticker": "GPN",
+     "weightPct": 6.61
+    },
+    {
+     "shares": 46,
+     "ticker": "ICE",
+     "weightPct": 6.75
+    },
+    {
+     "shares": 140,
+     "ticker": "JEF",
+     "weightPct": 6.75
+    },
+    {
+     "shares": 43,
+     "ticker": "KLAC",
+     "weightPct": 6.66
+    },
+    {
+     "shares": 25,
+     "ticker": "LRCX",
+     "weightPct": 6.48
+    },
+    {
+     "shares": 77,
+     "ticker": "NDAQ",
+     "weightPct": 6.82
+    },
+    {
+     "shares": 39,
+     "ticker": "SBAC",
+     "weightPct": 6.78
+    },
+    {
+     "shares": 198,
+     "ticker": "TRN",
+     "weightPct": 5.02
+    },
+    {
+     "shares": 20,
+     "ticker": "WAB",
+     "weightPct": 5.05
+    }
+   ],
+   "value": 110382.76
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 279.81,
+   "shares": 26,
+   "side": "buy",
+   "ticker": "WAB"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 175.78,
+   "shares": 42,
+   "side": "buy",
+   "ticker": "GATX"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 28,
+   "shares": 264,
+   "side": "buy",
+   "ticker": "TRN"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 172.26,
+   "shares": 43,
+   "side": "buy",
+   "ticker": "KLAC"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 438.46,
+   "shares": 16,
+   "side": "buy",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 186.42,
+   "shares": 39,
+   "side": "buy",
+   "ticker": "SBAC"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 288.32,
+   "shares": 25,
+   "side": "buy",
+   "ticker": "LRCX"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 109.46,
+   "shares": 67,
+   "side": "buy",
+   "ticker": "CSCO"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 144.13,
+   "shares": 51,
+   "side": "buy",
+   "ticker": "GLW"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 95.72,
+   "shares": 77,
+   "side": "buy",
+   "ticker": "NDAQ"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 92.81,
+   "shares": 79,
+   "side": "buy",
+   "ticker": "GPN"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 52.9,
+   "shares": 140,
+   "side": "buy",
+   "ticker": "JEF"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 157.85,
+   "shares": 46,
+   "side": "buy",
+   "ticker": "ICE"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 1.89,
+   "shares": 3920,
+   "side": "buy",
+   "ticker": "CNDT"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 209.91,
+   "shares": 54.36003882116657,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 924.78,
+   "shares": 15.665249342158692,
+   "side": "sell",
+   "ticker": "MCK"
+  },
+  {
+   "at": "2026-09-03T10:57:31Z",
+   "book": "suppliers",
+   "price": 329.5,
+   "shares": 1.8606564168353024,
+   "side": "sell",
+   "ticker": "GE"
+  },
+  {
+   "at": "2026-09-03T13:51:46Z",
+   "book": "suppliers",
+   "price": 42,
+   "shares": 162,
+   "side": "buy",
+   "ticker": "FIS"
+  },
+  {
+   "at": "2026-09-04T01:40:29Z",
+   "book": "suppliers",
+   "price": 280.83,
+   "shares": 20,
+   "side": "sell",
+   "ticker": "WAB"
+  },
+  {
+   "at": "2026-09-04T01:40:29Z",
+   "book": "suppliers",
+   "price": 28.11,
+   "shares": 198,
+   "side": "sell",
+   "ticker": "TRN"
+  },
+  {
+   "at": "2026-09-04T01:40:30Z",
+   "book": "suppliers",
+   "price": 177.31,
+   "shares": 32,
+   "side": "sell",
+   "ticker": "GATX"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "date": "2026-07-29",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 47.1763,
+     "ticker": "ARKW",
+     "weightPct": 6.04
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.72
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.01
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.49
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.44
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 12.47
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 6.77
+    },
+    {
+     "shares": 57.1729,
+     "ticker": "TIP",
+     "weightPct": 5.82
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 14.1
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 12.48
+    }
+   ],
+   "value": 105727.32
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 112.9292,
+     "ticker": "BG",
+     "weightPct": 12.25
+    },
+    {
+     "shares": 105.2466,
+     "ticker": "CRWV",
+     "weightPct": 6.45
+    },
+    {
+     "shares": 175.2627,
+     "ticker": "CWCO",
+     "weightPct": 5.12
+    },
+    {
+     "shares": 650.2081,
+     "ticker": "ERAS",
+     "weightPct": 11.19
+    },
+    {
+     "shares": 36.8405,
+     "ticker": "HD",
+     "weightPct": 12.44
+    },
+    {
+     "shares": 186.0348,
+     "ticker": "UBER",
+     "weightPct": 12.92
+    },
+    {
+     "shares": 43.9675,
+     "ticker": "XOM",
+     "weightPct": 6.88
+    }
+   ],
+   "value": 100944.89
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 14.8931,
+     "ticker": "ADSK",
+     "weightPct": 3.46
+    },
+    {
+     "shares": 6.2574,
+     "ticker": "AMAT",
+     "weightPct": 2.63
+    },
+    {
+     "shares": 1.019,
+     "ticker": "ASML",
+     "weightPct": 1.48
+    },
+    {
+     "shares": 7.73,
+     "ticker": "DELL",
+     "weightPct": 2.7
+    },
+    {
+     "shares": 72.4801,
+     "ticker": "DHR",
+     "weightPct": 13.83
+    },
+    {
+     "shares": 3.3078,
+     "ticker": "GE",
+     "weightPct": 1.1
+    },
+    {
+     "shares": 18.47,
+     "ticker": "LRCX",
+     "weightPct": 4.45
+    },
+    {
+     "shares": 20.887,
+     "ticker": "MCK",
+     "weightPct": 17.84
+    },
+    {
+     "shares": 7.3159,
+     "ticker": "SNPS",
+     "weightPct": 2.62
+    }
+   ],
+   "value": 105960.81
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-29T15:08:51Z",
+   "book": "single-stocks",
+   "price": 108.37,
+   "shares": 113,
+   "side": "buy",
+   "ticker": "BG"
+  }
+ ]
+}

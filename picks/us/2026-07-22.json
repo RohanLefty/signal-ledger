@@ -1,0 +1,166 @@
+{
+ "date": "2026-07-22",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.87
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.54
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.41
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.66
+    },
+    {
+     "shares": 78.2719,
+     "ticker": "TIP",
+     "weightPct": 8.12
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.04
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 12.98
+    },
+    {
+     "shares": 7.121,
+     "ticker": "XBI",
+     "weightPct": 1.05
+    }
+   ],
+   "value": 103982.19
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 6.6199,
+     "ticker": "QBTS",
+     "weightPct": 0.11
+    },
+    {
+     "shares": 67.2135,
+     "ticker": "XOM",
+     "weightPct": 10.2
+    }
+   ],
+   "value": 101407.63
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 54.034,
+     "ticker": "ADSK",
+     "weightPct": 10.33
+    },
+    {
+     "shares": 22.7026,
+     "ticker": "AMAT",
+     "weightPct": 11.9
+    },
+    {
+     "shares": 11.8207,
+     "ticker": "ASML",
+     "weightPct": 19.97
+    },
+    {
+     "shares": 28.0452,
+     "ticker": "DELL",
+     "weightPct": 11.62
+    },
+    {
+     "shares": 72.4801,
+     "ticker": "DHR",
+     "weightPct": 12.11
+    },
+    {
+     "shares": 9.6151,
+     "ticker": "IDXX",
+     "weightPct": 4.93
+    },
+    {
+     "shares": 0.0023,
+     "ticker": "KLAC",
+     "weightPct": 0
+    },
+    {
+     "shares": 67.0113,
+     "ticker": "LRCX",
+     "weightPct": 20
+    },
+    {
+     "shares": 26.5428,
+     "ticker": "SNPS",
+     "weightPct": 9.46
+    }
+   ],
+   "value": 106904.58
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-22T14:31:54Z",
+   "book": "suppliers",
+   "price": 64.17,
+   "shares": 290,
+   "side": "sell",
+   "ticker": "FCX"
+  },
+  {
+   "at": "2026-07-22T14:32:23Z",
+   "book": "suppliers",
+   "price": 22.05,
+   "shares": 571,
+   "side": "buy",
+   "ticker": "ASIX"
+  },
+  {
+   "at": "2026-07-22T14:32:24Z",
+   "book": "suppliers",
+   "price": 173.78,
+   "shares": 72,
+   "side": "buy",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-07-22T15:31:31Z",
+   "book": "suppliers",
+   "price": 21.91,
+   "shares": 571,
+   "side": "sell",
+   "ticker": "ASIX"
+  },
+  {
+   "at": "2026-07-22T15:32:02Z",
+   "book": "suppliers",
+   "price": 561.41,
+   "shares": 23,
+   "side": "buy",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-07-22T15:32:03Z",
+   "book": "suppliers",
+   "price": 549.71,
+   "shares": 10,
+   "side": "buy",
+   "ticker": "IDXX"
+  }
+ ]
+}

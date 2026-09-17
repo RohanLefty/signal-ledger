@@ -1,0 +1,146 @@
+{
+ "date": "2026-07-24",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.74
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.47
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.53
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.27
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 12.11
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.25
+    },
+    {
+     "shares": 81.4531,
+     "ticker": "TIP",
+     "weightPct": 8.36
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 12.94
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 13.12
+    },
+    {
+     "shares": 0.4451,
+     "ticker": "XBI",
+     "weightPct": 0.06
+    }
+   ],
+   "value": 104914.79
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 2109.5312,
+     "ticker": "AGEN",
+     "weightPct": 12.62
+    },
+    {
+     "shares": 415.4375,
+     "ticker": "CWCO",
+     "weightPct": 11.94
+    },
+    {
+     "shares": 3.7237,
+     "ticker": "QBTS",
+     "weightPct": 0.06
+    },
+    {
+     "shares": 47.0495,
+     "ticker": "XOM",
+     "weightPct": 7.24
+    }
+   ],
+   "value": 101978.46
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 37.8238,
+     "ticker": "ADSK",
+     "weightPct": 7.49
+    },
+    {
+     "shares": 15.8918,
+     "ticker": "AMAT",
+     "weightPct": 8.16
+    },
+    {
+     "shares": 2.588,
+     "ticker": "ASML",
+     "weightPct": 4.31
+    },
+    {
+     "shares": 19.6317,
+     "ticker": "DELL",
+     "weightPct": 8.13
+    },
+    {
+     "shares": 72.4801,
+     "ticker": "DHR",
+     "weightPct": 12.95
+    },
+    {
+     "shares": 7.8408,
+     "ticker": "GE",
+     "weightPct": 2.6
+    },
+    {
+     "shares": 46.9079,
+     "ticker": "LRCX",
+     "weightPct": 13.81
+    },
+    {
+     "shares": 20.887,
+     "ticker": "MCK",
+     "weightPct": 16.4
+    },
+    {
+     "shares": 18.58,
+     "ticker": "SNPS",
+     "weightPct": 6.5
+    }
+   ],
+   "value": 107326.42
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-24T11:18:53Z",
+   "book": "etf-core",
+   "price": 54.9,
+   "shares": 4,
+   "side": "buy",
+   "ticker": "GNOM"
+  }
+ ]
+}

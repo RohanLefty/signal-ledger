@@ -1,0 +1,196 @@
+{
+ "date": "2026-06-25",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.43
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.57
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.36
+    },
+    {
+     "shares": 34.2093,
+     "ticker": "TIP",
+     "weightPct": 3.62
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 11.82
+    },
+    {
+     "shares": 81.196,
+     "ticker": "XAR",
+     "weightPct": 21.45
+    },
+    {
+     "shares": 145.6672,
+     "ticker": "XBI",
+     "weightPct": 21.32
+    }
+   ],
+   "value": 103682.72
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 0.3978,
+     "ticker": "AMAT",
+     "weightPct": 0.25
+    },
+    {
+     "shares": 14.0196,
+     "ticker": "AMD",
+     "weightPct": 7.2
+    },
+    {
+     "shares": 46.9415,
+     "ticker": "ANET",
+     "weightPct": 7.77
+    },
+    {
+     "shares": 0.1382,
+     "ticker": "ASML",
+     "weightPct": 0.25
+    },
+    {
+     "shares": 2.9642,
+     "ticker": "AVGO",
+     "weightPct": 1.12
+    },
+    {
+     "shares": 95.8279,
+     "ticker": "BA",
+     "weightPct": 20.84
+    },
+    {
+     "shares": 46.0825,
+     "ticker": "BWXT",
+     "weightPct": 9.27
+    },
+    {
+     "shares": 91.6993,
+     "ticker": "CCJ",
+     "weightPct": 9.31
+    },
+    {
+     "shares": 2.4959,
+     "ticker": "DHR",
+     "weightPct": 0.48
+    },
+    {
+     "shares": 1.2058,
+     "ticker": "ILMN",
+     "weightPct": 0.21
+    },
+    {
+     "shares": 5.965,
+     "ticker": "IQV",
+     "weightPct": 1.1
+    },
+    {
+     "shares": 2.2673,
+     "ticker": "KLAC",
+     "weightPct": 0.57
+    },
+    {
+     "shares": 35.3007,
+     "ticker": "LEU",
+     "weightPct": 5.95
+    },
+    {
+     "shares": 41.0411,
+     "ticker": "LHX",
+     "weightPct": 11.63
+    },
+    {
+     "shares": 0.6684,
+     "ticker": "LRCX",
+     "weightPct": 0.25
+    },
+    {
+     "shares": 43.4253,
+     "ticker": "NVDA",
+     "weightPct": 8.39
+    },
+    {
+     "shares": 30.7029,
+     "ticker": "RTX",
+     "weightPct": 5.65
+    },
+    {
+     "shares": 0.85,
+     "ticker": "TMO",
+     "weightPct": 0.43
+    },
+    {
+     "shares": 893.0677,
+     "ticker": "UEC",
+     "weightPct": 9.28
+    }
+   ],
+   "value": 101348.86
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-25T14:24:09Z",
+   "book": "suppliers",
+   "price": 510.6,
+   "shares": 39,
+   "side": "sell",
+   "ticker": "LMT"
+  },
+  {
+   "at": "2026-06-25T14:24:09Z",
+   "book": "suppliers",
+   "price": 350.87,
+   "shares": 29,
+   "side": "sell",
+   "ticker": "GD"
+  },
+  {
+   "at": "2026-06-25T14:24:11Z",
+   "book": "suppliers",
+   "price": 104.89,
+   "shares": 92,
+   "side": "buy",
+   "ticker": "CCJ"
+  },
+  {
+   "at": "2026-06-25T14:24:12Z",
+   "book": "suppliers",
+   "price": 10.77,
+   "shares": 893,
+   "side": "buy",
+   "ticker": "UEC"
+  },
+  {
+   "at": "2026-06-25T14:24:12Z",
+   "book": "suppliers",
+   "price": 208.72,
+   "shares": 46,
+   "side": "buy",
+   "ticker": "BWXT"
+  },
+  {
+   "at": "2026-06-25T14:24:12Z",
+   "book": "suppliers",
+   "price": 170.09,
+   "shares": 35,
+   "side": "buy",
+   "ticker": "LEU"
+  }
+ ]
+}

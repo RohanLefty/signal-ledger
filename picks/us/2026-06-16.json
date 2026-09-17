@@ -1,0 +1,92 @@
+{
+ "date": "2026-06-16",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.97
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.55
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 12.58
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 14.12
+    },
+    {
+     "shares": 145.6672,
+     "ticker": "XBI",
+     "weightPct": 19.46
+    }
+   ],
+   "value": 101955.14
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 3.9737,
+     "ticker": "AMAT",
+     "weightPct": 2.16
+    },
+    {
+     "shares": 1.3809,
+     "ticker": "ASML",
+     "weightPct": 2.38
+    },
+    {
+     "shares": 24.9313,
+     "ticker": "DHR",
+     "weightPct": 4.26
+    },
+    {
+     "shares": 12.044,
+     "ticker": "ILMN",
+     "weightPct": 1.88
+    },
+    {
+     "shares": 59.5827,
+     "ticker": "IQV",
+     "weightPct": 10.06
+    },
+    {
+     "shares": 22.6476,
+     "ticker": "KLAC",
+     "weightPct": 5.14
+    },
+    {
+     "shares": 6.6766,
+     "ticker": "LRCX",
+     "weightPct": 2.34
+    },
+    {
+     "shares": 5.5648,
+     "ticker": "TER",
+     "weightPct": 2.21
+    },
+    {
+     "shares": 8.4909,
+     "ticker": "TMO",
+     "weightPct": 3.78
+    },
+    {
+     "shares": 11.7717,
+     "ticker": "WAT",
+     "weightPct": 4.02
+    }
+   ],
+   "value": 106337.9
+  }
+ },
+ "region": "us",
+ "trades": []
+}

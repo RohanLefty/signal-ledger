@@ -1,0 +1,250 @@
+{
+ "date": "2026-08-24",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 18.744,
+     "ticker": "ARKW",
+     "weightPct": 2.58
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.83
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 18.51
+    },
+    {
+     "shares": 32.4608,
+     "ticker": "NLR",
+     "weightPct": 3.43
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.4
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 11.89
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.85
+    },
+    {
+     "shares": 68,
+     "ticker": "SRVR",
+     "weightPct": 1.9
+    },
+    {
+     "shares": 17.1729,
+     "ticker": "TIP",
+     "weightPct": 1.64
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 15.11
+    },
+    {
+     "shares": 36.2635,
+     "ticker": "XAR",
+     "weightPct": 8.6
+    },
+    {
+     "shares": 65.1463,
+     "ticker": "XTN",
+     "weightPct": 6.21
+    }
+   ],
+   "value": 112378.73
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 6,
+     "ticker": "ASML",
+     "weightPct": 10.49
+    },
+    {
+     "shares": 65,
+     "ticker": "SBAC",
+     "weightPct": 12.02
+    },
+    {
+     "shares": 21,
+     "ticker": "SMH",
+     "weightPct": 11.47
+    },
+    {
+     "shares": 340,
+     "ticker": "SPH",
+     "weightPct": 6.01
+    },
+    {
+     "shares": 378,
+     "ticker": "SRVR",
+     "weightPct": 11.86
+    },
+    {
+     "shares": 38,
+     "ticker": "UNP",
+     "weightPct": 11.7
+    },
+    {
+     "shares": 280,
+     "ticker": "XLU",
+     "weightPct": 12.09
+    },
+    {
+     "shares": 110,
+     "ticker": "XTN",
+     "weightPct": 11.78
+    }
+   ],
+   "value": 100013.66
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 6.8738,
+     "ticker": "ASML",
+     "weightPct": 11.38
+    },
+    {
+     "shares": 55.2545,
+     "ticker": "CRWV",
+     "weightPct": 4.5
+    },
+    {
+     "shares": 98.5853,
+     "ticker": "CWCO",
+     "weightPct": 2.81
+    },
+    {
+     "shares": 27.6303,
+     "ticker": "HD",
+     "weightPct": 8.8
+    },
+    {
+     "shares": 61.5246,
+     "ticker": "SBAC",
+     "weightPct": 10.78
+    },
+    {
+     "shares": 633.39,
+     "ticker": "SPH",
+     "weightPct": 10.61
+    },
+    {
+     "shares": 37.3722,
+     "ticker": "UNP",
+     "weightPct": 10.9
+    }
+   ],
+   "value": 105550.02
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 54.36,
+     "ticker": "DHR",
+     "weightPct": 10.78
+    },
+    {
+     "shares": 1.8607,
+     "ticker": "GE",
+     "weightPct": 0.59
+    },
+    {
+     "shares": 15.6652,
+     "ticker": "MCK",
+     "weightPct": 12.52
+    }
+   ],
+   "value": 108762.39
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-08-24T15:05:45Z",
+   "book": "long-hold",
+   "price": 308.92,
+   "shares": 38,
+   "side": "buy",
+   "ticker": "UNP"
+  },
+  {
+   "at": "2026-08-24T15:05:45Z",
+   "book": "long-hold",
+   "price": 17.61,
+   "shares": 340,
+   "side": "buy",
+   "ticker": "SPH"
+  },
+  {
+   "at": "2026-08-24T15:05:45Z",
+   "book": "long-hold",
+   "price": 183.17,
+   "shares": 65,
+   "side": "buy",
+   "ticker": "SBAC"
+  },
+  {
+   "at": "2026-08-24T15:05:45Z",
+   "book": "long-hold",
+   "price": 1736.52,
+   "shares": 6,
+   "side": "buy",
+   "ticker": "ASML"
+  },
+  {
+   "at": "2026-08-24T15:05:45Z",
+   "book": "long-hold",
+   "price": 98.6,
+   "shares": 121,
+   "side": "sell",
+   "ticker": "VNQ"
+  },
+  {
+   "at": "2026-08-24T15:05:45Z",
+   "book": "long-hold",
+   "price": 87.27,
+   "shares": 93,
+   "side": "sell",
+   "ticker": "XLP"
+  },
+  {
+   "at": "2026-08-24T15:05:45Z",
+   "book": "single-stocks",
+   "price": 8.56,
+   "shares": 1262.95120649672,
+   "side": "sell",
+   "ticker": "AOMR"
+  },
+  {
+   "at": "2026-08-24T17:22:43Z",
+   "book": "etf-core",
+   "price": 107.14,
+   "shares": 20,
+   "side": "buy",
+   "ticker": "XTN"
+  },
+  {
+   "at": "2026-08-24T17:22:43Z",
+   "book": "etf-core",
+   "price": 31.38,
+   "shares": 68,
+   "side": "buy",
+   "ticker": "SRVR"
+  }
+ ]
+}

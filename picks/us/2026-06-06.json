@@ -1,0 +1,127 @@
+{
+ "date": "2026-06-06",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.39
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.66
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.51
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 13.8
+    },
+    {
+     "shares": 207.4526,
+     "ticker": "XBI",
+     "weightPct": 26.67
+    }
+   ],
+   "value": 100095.41
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 115.8128,
+     "ticker": "A",
+     "weightPct": 15.71
+    },
+    {
+     "shares": 8.9457,
+     "ticker": "ASML",
+     "weightPct": 14.67
+    },
+    {
+     "shares": 5.2512,
+     "ticker": "BAH",
+     "weightPct": 0.42
+    },
+    {
+     "shares": 18.9661,
+     "ticker": "DHR",
+     "weightPct": 3.49
+    },
+    {
+     "shares": 17.6638,
+     "ticker": "ILMN",
+     "weightPct": 2.85
+    },
+    {
+     "shares": 4.5475,
+     "ticker": "KLAC",
+     "weightPct": 8.76
+    },
+    {
+     "shares": 2.9917,
+     "ticker": "LHX",
+     "weightPct": 0.92
+    },
+    {
+     "shares": 2.2518,
+     "ticker": "LMT",
+     "weightPct": 1.18
+    },
+    {
+     "shares": 44.1363,
+     "ticker": "LRCX",
+     "weightPct": 14.17
+    },
+    {
+     "shares": 30.3426,
+     "ticker": "NOC",
+     "weightPct": 16.5
+    },
+    {
+     "shares": 7.5842,
+     "ticker": "TMO",
+     "weightPct": 3.58
+    },
+    {
+     "shares": 37.66,
+     "ticker": "WAT",
+     "weightPct": 13.74
+    }
+   ],
+   "value": 100129.56
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-06T15:38:35Z",
+   "book": "suppliers",
+   "price": 307.83,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "LHX"
+  },
+  {
+   "at": "2026-06-06T15:38:36Z",
+   "book": "etf-core",
+   "price": 128.67,
+   "shares": 33,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-06T15:49:11Z",
+   "book": "suppliers",
+   "price": 79.48,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "BAH"
+  }
+ ]
+}

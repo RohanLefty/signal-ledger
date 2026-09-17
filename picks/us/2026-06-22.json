@@ -1,0 +1,181 @@
+{
+ "date": "2026-06-22",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.56
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.62
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.34
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 11.8
+    },
+    {
+     "shares": 81.196,
+     "ticker": "XAR",
+     "weightPct": 22.1
+    },
+    {
+     "shares": 145.6672,
+     "ticker": "XBI",
+     "weightPct": 20.74
+    }
+   ],
+   "value": 102263.74
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 0.943,
+     "ticker": "AMAT",
+     "weightPct": 0.58
+    },
+    {
+     "shares": 14.0196,
+     "ticker": "AMD",
+     "weightPct": 7.39
+    },
+    {
+     "shares": 46.9415,
+     "ticker": "ANET",
+     "weightPct": 7.75
+    },
+    {
+     "shares": 0.3277,
+     "ticker": "ASML",
+     "weightPct": 0.61
+    },
+    {
+     "shares": 2.9642,
+     "ticker": "AVGO",
+     "weightPct": 1.15
+    },
+    {
+     "shares": 95.8279,
+     "ticker": "BA",
+     "weightPct": 20.82
+    },
+    {
+     "shares": 5.9163,
+     "ticker": "DHR",
+     "weightPct": 1.03
+    },
+    {
+     "shares": 29.0179,
+     "ticker": "GD",
+     "weightPct": 9.82
+    },
+    {
+     "shares": 2.8581,
+     "ticker": "ILMN",
+     "weightPct": 0.45
+    },
+    {
+     "shares": 14.1392,
+     "ticker": "IQV",
+     "weightPct": 2.28
+    },
+    {
+     "shares": 5.3744,
+     "ticker": "KLAC",
+     "weightPct": 1.39
+    },
+    {
+     "shares": 41.0411,
+     "ticker": "LHX",
+     "weightPct": 11.52
+    },
+    {
+     "shares": 39.2092,
+     "ticker": "LMT",
+     "weightPct": 19.02
+    },
+    {
+     "shares": 1.5844,
+     "ticker": "LRCX",
+     "weightPct": 0.61
+    },
+    {
+     "shares": 43.4253,
+     "ticker": "NVDA",
+     "weightPct": 8.91
+    },
+    {
+     "shares": 30.7029,
+     "ticker": "RTX",
+     "weightPct": 5.48
+    },
+    {
+     "shares": 2.0149,
+     "ticker": "TMO",
+     "weightPct": 0.91
+    }
+   ],
+   "value": 102097.65
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-22T16:00:40Z",
+   "book": "suppliers",
+   "price": 1303.27,
+   "shares": 8,
+   "side": "sell",
+   "ticker": "TDG"
+  },
+  {
+   "at": "2026-06-22T16:00:41Z",
+   "book": "suppliers",
+   "price": 783.6,
+   "shares": 13,
+   "side": "sell",
+   "ticker": "CW"
+  },
+  {
+   "at": "2026-06-22T16:00:44Z",
+   "book": "suppliers",
+   "price": 168.58,
+   "shares": 47,
+   "side": "buy",
+   "ticker": "ANET"
+  },
+  {
+   "at": "2026-06-22T16:00:44Z",
+   "book": "suppliers",
+   "price": 209.46,
+   "shares": 43,
+   "side": "buy",
+   "ticker": "NVDA"
+  },
+  {
+   "at": "2026-06-22T16:00:44Z",
+   "book": "suppliers",
+   "price": 538.5,
+   "shares": 14,
+   "side": "buy",
+   "ticker": "AMD"
+  },
+  {
+   "at": "2026-06-22T16:00:45Z",
+   "book": "suppliers",
+   "price": 396.43,
+   "shares": 3,
+   "side": "buy",
+   "ticker": "AVGO"
+  }
+ ]
+}

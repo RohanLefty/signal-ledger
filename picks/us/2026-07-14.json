@@ -1,0 +1,124 @@
+{
+ "date": "2026-07-14",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.72
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.53
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.69
+    },
+    {
+     "shares": 110.8444,
+     "ticker": "REMX",
+     "weightPct": 8.17
+    },
+    {
+     "shares": 78.2719,
+     "ticker": "TIP",
+     "weightPct": 7.91
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.78
+    },
+    {
+     "shares": 50.8139,
+     "ticker": "XAR",
+     "weightPct": 12.75
+    },
+    {
+     "shares": 113.9365,
+     "ticker": "XBI",
+     "weightPct": 16.58
+    }
+   ],
+   "value": 106792.88
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 37.1949,
+     "ticker": "QBTS",
+     "weightPct": 0.7
+    },
+    {
+     "shares": 67.2135,
+     "ticker": "XOM",
+     "weightPct": 9.66
+    }
+   ],
+   "value": 100852.05
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 65.1666,
+     "ticker": "ADBE",
+     "weightPct": 13.48
+    },
+    {
+     "shares": 115.6197,
+     "ticker": "ALB",
+     "weightPct": 13.89
+    },
+    {
+     "shares": 0.001,
+     "ticker": "ASML",
+     "weightPct": 0
+    },
+    {
+     "shares": 37.936,
+     "ticker": "CDNS",
+     "weightPct": 13.47
+    },
+    {
+     "shares": 0.017,
+     "ticker": "KLAC",
+     "weightPct": 0
+    },
+    {
+     "shares": 990.7443,
+     "ticker": "LTHM",
+     "weightPct": 15.3
+    },
+    {
+     "shares": 40.528,
+     "ticker": "TER",
+     "weightPct": 13.5
+    }
+   ],
+   "value": 106879.85
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-14T13:01:36Z",
+   "book": "suppliers",
+   "price": 427.11,
+   "shares": 37,
+   "side": "sell",
+   "ticker": "DELL"
+  },
+  {
+   "at": "2026-07-14T13:01:54Z",
+   "book": "etf-core",
+   "price": 76.27,
+   "shares": 90,
+   "side": "buy",
+   "ticker": "REMX"
+  }
+ ]
+}

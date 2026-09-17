@@ -1,0 +1,192 @@
+{
+ "date": "2026-08-07",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 18.744,
+     "ticker": "ARKW",
+     "weightPct": 2.45
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.72
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.67
+    },
+    {
+     "shares": 32.4608,
+     "ticker": "NLR",
+     "weightPct": 3.38
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.21
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 12.04
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.56
+    },
+    {
+     "shares": 57.1729,
+     "ticker": "TIP",
+     "weightPct": 5.42
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 14.44
+    },
+    {
+     "shares": 36.2635,
+     "ticker": "XAR",
+     "weightPct": 9.14
+    },
+    {
+     "shares": 30.0525,
+     "ticker": "XTN",
+     "weightPct": 2.99
+    }
+   ],
+   "value": 112852.35
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 84.6969,
+     "ticker": "BG",
+     "weightPct": 8.7
+    },
+    {
+     "shares": 55.2545,
+     "ticker": "CRWV",
+     "weightPct": 4.61
+    },
+    {
+     "shares": 98.5853,
+     "ticker": "CWCO",
+     "weightPct": 2.81
+    },
+    {
+     "shares": 487.6561,
+     "ticker": "ERAS",
+     "weightPct": 8.21
+    },
+    {
+     "shares": 27.6303,
+     "ticker": "HD",
+     "weightPct": 9.09
+    },
+    {
+     "shares": 57.6047,
+     "ticker": "LEU",
+     "weightPct": 10.08
+    },
+    {
+     "shares": 15.6223,
+     "ticker": "NOC",
+     "weightPct": 8.28
+    },
+    {
+     "shares": 37.3722,
+     "ticker": "UNP",
+     "weightPct": 10.33
+    },
+    {
+     "shares": 24.7317,
+     "ticker": "XOM",
+     "weightPct": 3.54
+    }
+   ],
+   "value": 106905.2
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 8.3774,
+     "ticker": "ADSK",
+     "weightPct": 1.92
+    },
+    {
+     "shares": 3.5198,
+     "ticker": "AMAT",
+     "weightPct": 1.74
+    },
+    {
+     "shares": 0.5732,
+     "ticker": "ASML",
+     "weightPct": 0.91
+    },
+    {
+     "shares": 4.3481,
+     "ticker": "DELL",
+     "weightPct": 1.77
+    },
+    {
+     "shares": 54.36,
+     "ticker": "DHR",
+     "weightPct": 10.09
+    },
+    {
+     "shares": 1.8607,
+     "ticker": "GE",
+     "weightPct": 0.64
+    },
+    {
+     "shares": 10.3894,
+     "ticker": "LRCX",
+     "weightPct": 2.96
+    },
+    {
+     "shares": 15.6652,
+     "ticker": "MCK",
+     "weightPct": 12.73
+    },
+    {
+     "shares": 4.1152,
+     "ticker": "SNPS",
+     "weightPct": 1.56
+    }
+   ],
+   "value": 108591.48
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-08-07T10:57:15Z",
+   "book": "single-stocks",
+   "price": 178.03,
+   "shares": 3,
+   "side": "buy",
+   "ticker": "LEU"
+  },
+  {
+   "at": "2026-08-07T16:01:44Z",
+   "book": "etf-core",
+   "price": 117.66,
+   "shares": 27,
+   "side": "buy",
+   "ticker": "NLR"
+  },
+  {
+   "at": "2026-08-07T16:01:44Z",
+   "book": "etf-core",
+   "price": 112.16,
+   "shares": 30,
+   "side": "buy",
+   "ticker": "XTN"
+  }
+ ]
+}

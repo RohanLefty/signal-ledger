@@ -1,0 +1,148 @@
+{
+ "date": "2026-07-21",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.61
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.52
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.12
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.6
+    },
+    {
+     "shares": 78.2719,
+     "ticker": "TIP",
+     "weightPct": 8.05
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.56
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 12.83
+    },
+    {
+     "shares": 28.4841,
+     "ticker": "XBI",
+     "weightPct": 4.16
+    }
+   ],
+   "value": 104919.78
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 8.8265,
+     "ticker": "QBTS",
+     "weightPct": 0.16
+    },
+    {
+     "shares": 67.2135,
+     "ticker": "XOM",
+     "weightPct": 10.03
+    }
+   ],
+   "value": 101226.91
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 54.034,
+     "ticker": "ADSK",
+     "weightPct": 10.85
+    },
+    {
+     "shares": 11.8207,
+     "ticker": "ASML",
+     "weightPct": 20.18
+    },
+    {
+     "shares": 28.0452,
+     "ticker": "DELL",
+     "weightPct": 10.68
+    },
+    {
+     "shares": 290.2895,
+     "ticker": "FCX",
+     "weightPct": 16.96
+    },
+    {
+     "shares": 0.003,
+     "ticker": "KLAC",
+     "weightPct": 0
+    },
+    {
+     "shares": 67.0113,
+     "ticker": "LRCX",
+     "weightPct": 20.22
+    },
+    {
+     "shares": 26.5428,
+     "ticker": "SNPS",
+     "weightPct": 9.62
+    }
+   ],
+   "value": 106183.13
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-21T10:56:13Z",
+   "book": "suppliers",
+   "price": 69.85,
+   "shares": 157,
+   "side": "sell",
+   "ticker": "REMX"
+  },
+  {
+   "at": "2026-07-21T10:56:14Z",
+   "book": "suppliers",
+   "price": 45.7,
+   "shares": 155,
+   "side": "sell",
+   "ticker": "MP"
+  },
+  {
+   "at": "2026-07-21T10:56:14Z",
+   "book": "suppliers",
+   "price": 118.2,
+   "shares": 116,
+   "side": "sell",
+   "ticker": "ALB"
+  },
+  {
+   "at": "2026-07-21T10:56:37Z",
+   "book": "suppliers",
+   "price": 1739.02,
+   "shares": 12,
+   "side": "buy",
+   "ticker": "ASML"
+  },
+  {
+   "at": "2026-07-21T10:56:37Z",
+   "book": "suppliers",
+   "price": 306.76,
+   "shares": 67,
+   "side": "buy",
+   "ticker": "LRCX"
+  }
+ ]
+}

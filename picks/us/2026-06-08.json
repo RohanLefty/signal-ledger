@@ -1,0 +1,151 @@
+{
+ "date": "2026-06-08",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.54
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.81
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.61
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 13.91
+    },
+    {
+     "shares": 246.093,
+     "ticker": "XBI",
+     "weightPct": 31.87
+    }
+   ],
+   "value": 99365.64
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 86.8596,
+     "ticker": "A",
+     "weightPct": 12.66
+    },
+    {
+     "shares": 8.9457,
+     "ticker": "ASML",
+     "weightPct": 15.8
+    },
+    {
+     "shares": 1.2461,
+     "ticker": "BAH",
+     "weightPct": 0.11
+    },
+    {
+     "shares": 14.2245,
+     "ticker": "DHR",
+     "weightPct": 2.82
+    },
+    {
+     "shares": 13.2478,
+     "ticker": "ILMN",
+     "weightPct": 2.31
+    },
+    {
+     "shares": 4.5475,
+     "ticker": "KLAC",
+     "weightPct": 9.44
+    },
+    {
+     "shares": 0.71,
+     "ticker": "LHX",
+     "weightPct": 0.24
+    },
+    {
+     "shares": 0.5344,
+     "ticker": "LMT",
+     "weightPct": 0.3
+    },
+    {
+     "shares": 44.1363,
+     "ticker": "LRCX",
+     "weightPct": 14.4
+    },
+    {
+     "shares": 12.8008,
+     "ticker": "NOC",
+     "weightPct": 7.5
+    },
+    {
+     "shares": 5.6881,
+     "ticker": "TMO",
+     "weightPct": 2.89
+    },
+    {
+     "shares": 28.245,
+     "ticker": "WAT",
+     "weightPct": 11.1
+    }
+   ],
+   "value": 92949.84
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-08T18:31:02Z",
+   "book": "etf-core",
+   "price": 128.67,
+   "shares": 80,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-08T18:31:02Z",
+   "book": "suppliers",
+   "price": 79.48,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "BAH"
+  },
+  {
+   "at": "2026-06-08T18:31:02Z",
+   "book": "suppliers",
+   "price": 544.4,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-08T18:31:03Z",
+   "book": "etf-core",
+   "price": 128.67,
+   "shares": 65,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-08T18:31:04Z",
+   "book": "suppliers",
+   "price": 472.8,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-08T18:31:36Z",
+   "book": "suppliers",
+   "price": 365.36,
+   "shares": 9,
+   "side": "sell",
+   "ticker": "WAT"
+  }
+ ]
+}

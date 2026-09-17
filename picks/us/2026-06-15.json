@@ -1,0 +1,133 @@
+{
+ "date": "2026-06-15",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.77
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.49
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 12.65
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 14.1
+    },
+    {
+     "shares": 145.6672,
+     "ticker": "XBI",
+     "weightPct": 19.27
+    }
+   ],
+   "value": 102323.12
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 5.2983,
+     "ticker": "AMAT",
+     "weightPct": 2.91
+    },
+    {
+     "shares": 1.8412,
+     "ticker": "ASML",
+     "weightPct": 3.27
+    },
+    {
+     "shares": 33.2417,
+     "ticker": "DHR",
+     "weightPct": 5.59
+    },
+    {
+     "shares": 16.0587,
+     "ticker": "ILMN",
+     "weightPct": 2.45
+    },
+    {
+     "shares": 79.4435,
+     "ticker": "IQV",
+     "weightPct": 13.13
+    },
+    {
+     "shares": 30.1967,
+     "ticker": "KLAC",
+     "weightPct": 7.12
+    },
+    {
+     "shares": 8.9022,
+     "ticker": "LRCX",
+     "weightPct": 3.23
+    },
+    {
+     "shares": 7.4197,
+     "ticker": "TER",
+     "weightPct": 2.98
+    },
+    {
+     "shares": 11.3212,
+     "ticker": "TMO",
+     "weightPct": 4.98
+    },
+    {
+     "shares": 15.6957,
+     "ticker": "WAT",
+     "weightPct": 5.21
+    }
+   ],
+   "value": 107296.3
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-15T12:24:33Z",
+   "book": "suppliers",
+   "price": 468.87,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-15T12:24:33Z",
+   "book": "suppliers",
+   "price": 180.1,
+   "shares": 11,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-15T12:24:33Z",
+   "book": "suppliers",
+   "price": 160.97,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-15T12:24:34Z",
+   "book": "suppliers",
+   "price": 181.46,
+   "shares": 106,
+   "side": "buy",
+   "ticker": "IQV"
+  },
+  {
+   "at": "2026-06-15T12:24:34Z",
+   "book": "suppliers",
+   "price": 355.53,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "WAT"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "date": "2026-07-31",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 356.2341,
+     "ticker": "ZFL.TO",
+     "weightPct": 4.16
+    }
+   ],
+   "value": 99960.81
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 357.9952,
+     "ticker": "AQN.TO",
+     "weightPct": 2.96
+    }
+   ],
+   "value": 99935.56
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 101.474,
+     "ticker": "AIF.TO",
+     "weightPct": 4.76
+    },
+    {
+     "shares": 34.2047,
+     "ticker": "CIGI.TO",
+     "weightPct": 4.74
+    },
+    {
+     "shares": 33.8633,
+     "ticker": "EQB.TO",
+     "weightPct": 4.8
+    },
+    {
+     "shares": 23.5125,
+     "ticker": "FSV.TO",
+     "weightPct": 4.66
+    },
+    {
+     "shares": 51.7035,
+     "ticker": "GWO.TO",
+     "weightPct": 4.82
+    },
+    {
+     "shares": 76.1218,
+     "ticker": "MFC.TO",
+     "weightPct": 4.79
+    },
+    {
+     "shares": 91.8407,
+     "ticker": "X.TO",
+     "weightPct": 4.85
+    }
+   ],
+   "value": 99921.02
+  }
+ },
+ "region": "ca",
+ "trades": [
+  {
+   "at": "2026-07-31T11:31:28Z",
+   "book": "etf-core",
+   "price": 11.79,
+   "shares": 356,
+   "side": "buy",
+   "ticker": "ZFL.TO"
+  },
+  {
+   "at": "2026-07-31T11:31:28Z",
+   "book": "single-stocks",
+   "price": 8.38,
+   "shares": 358,
+   "side": "buy",
+   "ticker": "AQN.TO"
+  },
+  {
+   "at": "2026-07-31T11:31:28Z",
+   "book": "suppliers",
+   "price": 46.81,
+   "shares": 101,
+   "side": "buy",
+   "ticker": "AIF.TO"
+  },
+  {
+   "at": "2026-07-31T11:31:28Z",
+   "book": "suppliers",
+   "price": 138.87,
+   "shares": 34,
+   "side": "buy",
+   "ticker": "CIGI.TO"
+  },
+  {
+   "at": "2026-07-31T11:31:28Z",
+   "book": "suppliers",
+   "price": 140.27,
+   "shares": 34,
+   "side": "buy",
+   "ticker": "EQB.TO"
+  },
+  {
+   "at": "2026-07-31T11:31:28Z",
+   "book": "suppliers",
+   "price": 91.87,
+   "shares": 52,
+   "side": "buy",
+   "ticker": "GWO.TO"
+  },
+  {
+   "at": "2026-07-31T11:31:28Z",
+   "book": "suppliers",
+   "price": 202.02,
+   "shares": 24,
+   "side": "buy",
+   "ticker": "FSV.TO"
+  },
+  {
+   "at": "2026-07-31T11:31:28Z",
+   "book": "suppliers",
+   "price": 51.72,
+   "shares": 92,
+   "side": "buy",
+   "ticker": "X.TO"
+  },
+  {
+   "at": "2026-07-31T11:31:28Z",
+   "book": "suppliers",
+   "price": 62.4,
+   "shares": 76,
+   "side": "buy",
+   "ticker": "MFC.TO"
+  }
+ ]
+}

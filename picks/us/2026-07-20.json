@@ -1,0 +1,129 @@
+{
+ "date": "2026-07-20",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.54
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.51
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.29
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.44
+    },
+    {
+     "shares": 78.2719,
+     "ticker": "TIP",
+     "weightPct": 8.1
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 14.03
+    },
+    {
+     "shares": 50.6949,
+     "ticker": "XAR",
+     "weightPct": 12.6
+    },
+    {
+     "shares": 113.9365,
+     "ticker": "XBI",
+     "weightPct": 16.48
+    }
+   ],
+   "value": 104356.83
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 11.7687,
+     "ticker": "QBTS",
+     "weightPct": 0.19
+    },
+    {
+     "shares": 67.2135,
+     "ticker": "XOM",
+     "weightPct": 9.87
+    }
+   ],
+   "value": 100992.21
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 54.034,
+     "ticker": "ADSK",
+     "weightPct": 11.45
+    },
+    {
+     "shares": 115.6197,
+     "ticker": "ALB",
+     "weightPct": 13.3
+    },
+    {
+     "shares": 28.0452,
+     "ticker": "DELL",
+     "weightPct": 10.42
+    },
+    {
+     "shares": 290.2895,
+     "ticker": "FCX",
+     "weightPct": 16.6
+    },
+    {
+     "shares": 0.004,
+     "ticker": "KLAC",
+     "weightPct": 0
+    },
+    {
+     "shares": 154.5706,
+     "ticker": "MP",
+     "weightPct": 6.87
+    },
+    {
+     "shares": 156.7305,
+     "ticker": "REMX",
+     "weightPct": 10.65
+    },
+    {
+     "shares": 26.5428,
+     "ticker": "SNPS",
+     "weightPct": 9.77
+    }
+   ],
+   "value": 102781.92
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-20T10:18:05Z",
+   "book": "suppliers",
+   "price": 6.47,
+   "shares": 1862,
+   "side": "sell",
+   "ticker": "HBI"
+  },
+  {
+   "at": "2026-07-20T10:18:28Z",
+   "book": "suppliers",
+   "price": 16.51,
+   "shares": 730,
+   "side": "buy",
+   "ticker": "LTHM"
+  }
+ ]
+}

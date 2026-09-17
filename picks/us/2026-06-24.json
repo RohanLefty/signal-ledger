@@ -1,0 +1,137 @@
+{
+ "date": "2026-06-24",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.45
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.59
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.98
+    },
+    {
+     "shares": 34.2093,
+     "ticker": "TIP",
+     "weightPct": 3.62
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 12.08
+    },
+    {
+     "shares": 81.196,
+     "ticker": "XAR",
+     "weightPct": 21.69
+    },
+    {
+     "shares": 145.6672,
+     "ticker": "XBI",
+     "weightPct": 21.24
+    }
+   ],
+   "value": 103315.48
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 0.5304,
+     "ticker": "AMAT",
+     "weightPct": 0.31
+    },
+    {
+     "shares": 14.0196,
+     "ticker": "AMD",
+     "weightPct": 7.26
+    },
+    {
+     "shares": 46.9415,
+     "ticker": "ANET",
+     "weightPct": 7.67
+    },
+    {
+     "shares": 0.1843,
+     "ticker": "ASML",
+     "weightPct": 0.32
+    },
+    {
+     "shares": 2.9642,
+     "ticker": "AVGO",
+     "weightPct": 1.13
+    },
+    {
+     "shares": 95.8279,
+     "ticker": "BA",
+     "weightPct": 21.02
+    },
+    {
+     "shares": 3.3279,
+     "ticker": "DHR",
+     "weightPct": 0.62
+    },
+    {
+     "shares": 29.0179,
+     "ticker": "GD",
+     "weightPct": 9.97
+    },
+    {
+     "shares": 1.6077,
+     "ticker": "ILMN",
+     "weightPct": 0.28
+    },
+    {
+     "shares": 7.9533,
+     "ticker": "IQV",
+     "weightPct": 1.45
+    },
+    {
+     "shares": 3.0231,
+     "ticker": "KLAC",
+     "weightPct": 0.72
+    },
+    {
+     "shares": 41.0411,
+     "ticker": "LHX",
+     "weightPct": 11.92
+    },
+    {
+     "shares": 39.2092,
+     "ticker": "LMT",
+     "weightPct": 19.23
+    },
+    {
+     "shares": 0.8912,
+     "ticker": "LRCX",
+     "weightPct": 0.33
+    },
+    {
+     "shares": 43.4253,
+     "ticker": "NVDA",
+     "weightPct": 8.67
+    },
+    {
+     "shares": 30.7029,
+     "ticker": "RTX",
+     "weightPct": 5.67
+    },
+    {
+     "shares": 1.1334,
+     "ticker": "TMO",
+     "weightPct": 0.55
+    }
+   ],
+   "value": 100638.66
+  }
+ },
+ "region": "us",
+ "trades": []
+}

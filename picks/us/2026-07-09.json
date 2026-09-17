@@ -1,0 +1,178 @@
+{
+ "date": "2026-07-09",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.57
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.53
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.22
+    },
+    {
+     "shares": 3.6883,
+     "ticker": "REMX",
+     "weightPct": 0.27
+    },
+    {
+     "shares": 78.2719,
+     "ticker": "TIP",
+     "weightPct": 7.76
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.15
+    },
+    {
+     "shares": 81.196,
+     "ticker": "XAR",
+     "weightPct": 20.47
+    },
+    {
+     "shares": 113.9442,
+     "ticker": "XBI",
+     "weightPct": 17.07
+    }
+   ],
+   "value": 109139.65
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 4.4855,
+     "ticker": "NVDA",
+     "weightPct": 0.9
+    },
+    {
+     "shares": 37.1949,
+     "ticker": "QBTS",
+     "weightPct": 0.79
+    },
+    {
+     "shares": 66.4962,
+     "ticker": "RTX",
+     "weightPct": 12.89
+    },
+    {
+     "shares": 67.2135,
+     "ticker": "XOM",
+     "weightPct": 9.23
+    }
+   ],
+   "value": 100436.06
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 29.5269,
+     "ticker": "AMAT",
+     "weightPct": 16.66
+    },
+    {
+     "shares": 14.0196,
+     "ticker": "AMD",
+     "weightPct": 7.26
+    },
+    {
+     "shares": 0.0033,
+     "ticker": "ASML",
+     "weightPct": 0.01
+    },
+    {
+     "shares": 15.9476,
+     "ticker": "CAT",
+     "weightPct": 14.16
+    },
+    {
+     "shares": 146.4592,
+     "ticker": "CSCO",
+     "weightPct": 16
+    },
+    {
+     "shares": 36.799,
+     "ticker": "DELL",
+     "weightPct": 15.41
+    },
+    {
+     "shares": 0.0539,
+     "ticker": "KLAC",
+     "weightPct": 0.01
+    },
+    {
+     "shares": 0.0159,
+     "ticker": "LRCX",
+     "weightPct": 0.01
+    },
+    {
+     "shares": 990.7443,
+     "ticker": "LTHM",
+     "weightPct": 15.15
+    },
+    {
+     "shares": 11.6397,
+     "ticker": "NOC",
+     "weightPct": 5.72
+    },
+    {
+     "shares": 91.8918,
+     "ticker": "UPS",
+     "weightPct": 9.61
+    }
+   ],
+   "value": 107946.36
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-09T10:13:28Z",
+   "book": "suppliers",
+   "price": 79.65,
+   "shares": 94,
+   "side": "sell",
+   "ticker": "REMX"
+  },
+  {
+   "at": "2026-07-09T10:13:29Z",
+   "book": "suppliers",
+   "price": 181.05,
+   "shares": 47,
+   "side": "sell",
+   "ticker": "ANET"
+  },
+  {
+   "at": "2026-07-09T10:13:29Z",
+   "book": "suppliers",
+   "price": 194.91,
+   "shares": 84,
+   "side": "sell",
+   "ticker": "RTX"
+  },
+  {
+   "at": "2026-07-09T10:13:38Z",
+   "book": "suppliers",
+   "price": 16.51,
+   "shares": 991,
+   "side": "buy",
+   "ticker": "LTHM"
+  },
+  {
+   "at": "2026-07-09T10:13:39Z",
+   "book": "suppliers",
+   "price": 431.97,
+   "shares": 37,
+   "side": "buy",
+   "ticker": "DELL"
+  }
+ ]
+}

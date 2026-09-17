@@ -1,0 +1,184 @@
+{
+ "date": "2026-08-02",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 74.9762,
+     "ticker": "ARKW",
+     "weightPct": 9.66
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.73
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.1
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.51
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.93
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 12.27
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 6.91
+    },
+    {
+     "shares": 57.1729,
+     "ticker": "TIP",
+     "weightPct": 5.8
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 14.05
+    },
+    {
+     "shares": 36.2635,
+     "ticker": "XAR",
+     "weightPct": 9.05
+    }
+   ],
+   "value": 106081.94
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 84.6969,
+     "ticker": "BG",
+     "weightPct": 8.79
+    },
+    {
+     "shares": 73.6726,
+     "ticker": "CRWV",
+     "weightPct": 5.17
+    },
+    {
+     "shares": 98.5853,
+     "ticker": "CWCO",
+     "weightPct": 2.81
+    },
+    {
+     "shares": 650.2081,
+     "ticker": "ERAS",
+     "weightPct": 11.53
+    },
+    {
+     "shares": 27.6303,
+     "ticker": "HD",
+     "weightPct": 8.96
+    },
+    {
+     "shares": 52.1863,
+     "ticker": "LEU",
+     "weightPct": 9.02
+    },
+    {
+     "shares": 16.0525,
+     "ticker": "NOC",
+     "weightPct": 8.51
+    },
+    {
+     "shares": 186.0348,
+     "ticker": "UBER",
+     "weightPct": 12.79
+    },
+    {
+     "shares": 31.4747,
+     "ticker": "UNP",
+     "weightPct": 8.99
+    },
+    {
+     "shares": 24.7317,
+     "ticker": "XOM",
+     "weightPct": 3.76
+    }
+   ],
+   "value": 102321.7
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 8.3774,
+     "ticker": "ADSK",
+     "weightPct": 1.84
+    },
+    {
+     "shares": 3.5198,
+     "ticker": "AMAT",
+     "weightPct": 1.67
+    },
+    {
+     "shares": 0.5732,
+     "ticker": "ASML",
+     "weightPct": 0.87
+    },
+    {
+     "shares": 4.3481,
+     "ticker": "DELL",
+     "weightPct": 1.65
+    },
+    {
+     "shares": 72.4801,
+     "ticker": "DHR",
+     "weightPct": 13.24
+    },
+    {
+     "shares": 1.8607,
+     "ticker": "GE",
+     "weightPct": 0.63
+    },
+    {
+     "shares": 10.3894,
+     "ticker": "LRCX",
+     "weightPct": 2.85
+    },
+    {
+     "shares": 20.887,
+     "ticker": "MCK",
+     "weightPct": 16.75
+    },
+    {
+     "shares": 4.1152,
+     "ticker": "SNPS",
+     "weightPct": 1.5
+    }
+   ],
+   "value": 106765.38
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-08-02T10:21:28Z",
+   "book": "single-stocks",
+   "price": 292.13,
+   "shares": 11,
+   "side": "buy",
+   "ticker": "UNP"
+  },
+  {
+   "at": "2026-08-02T10:21:28Z",
+   "book": "single-stocks",
+   "price": 176.93,
+   "shares": 9,
+   "side": "buy",
+   "ticker": "LEU"
+  }
+ ]
+}

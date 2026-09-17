@@ -1,0 +1,166 @@
+{
+ "date": "2026-07-30",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 47.1763,
+     "ticker": "ARKW",
+     "weightPct": 6.11
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.73
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.68
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.51
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.89
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 12.16
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 6.92
+    },
+    {
+     "shares": 57.1729,
+     "ticker": "TIP",
+     "weightPct": 5.81
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.69
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 12.35
+    }
+   ],
+   "value": 106132.46
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 112.9292,
+     "ticker": "BG",
+     "weightPct": 11.75
+    },
+    {
+     "shares": 73.6726,
+     "ticker": "CRWV",
+     "weightPct": 5.4
+    },
+    {
+     "shares": 131.447,
+     "ticker": "CWCO",
+     "weightPct": 3.81
+    },
+    {
+     "shares": 650.2081,
+     "ticker": "ERAS",
+     "weightPct": 11.66
+    },
+    {
+     "shares": 36.8405,
+     "ticker": "HD",
+     "weightPct": 11.92
+    },
+    {
+     "shares": 23.1874,
+     "ticker": "NOC",
+     "weightPct": 11.89
+    },
+    {
+     "shares": 186.0348,
+     "ticker": "UBER",
+     "weightPct": 12.52
+    },
+    {
+     "shares": 32.9756,
+     "ticker": "XOM",
+     "weightPct": 5
+    }
+   ],
+   "value": 102619.37
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 11.1698,
+     "ticker": "ADSK",
+     "weightPct": 2.44
+    },
+    {
+     "shares": 4.693,
+     "ticker": "AMAT",
+     "weightPct": 2.18
+    },
+    {
+     "shares": 0.7643,
+     "ticker": "ASML",
+     "weightPct": 1.18
+    },
+    {
+     "shares": 5.7975,
+     "ticker": "DELL",
+     "weightPct": 2.21
+    },
+    {
+     "shares": 72.4801,
+     "ticker": "DHR",
+     "weightPct": 13.27
+    },
+    {
+     "shares": 2.4809,
+     "ticker": "GE",
+     "weightPct": 0.82
+    },
+    {
+     "shares": 13.8525,
+     "ticker": "LRCX",
+     "weightPct": 3.86
+    },
+    {
+     "shares": 20.887,
+     "ticker": "MCK",
+     "weightPct": 16.91
+    },
+    {
+     "shares": 5.4869,
+     "ticker": "SNPS",
+     "weightPct": 1.91
+    }
+   ],
+   "value": 107014.27
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-30T14:36:41Z",
+   "book": "single-stocks",
+   "price": 522.6,
+   "shares": 23,
+   "side": "buy",
+   "ticker": "NOC"
+  }
+ ]
+}

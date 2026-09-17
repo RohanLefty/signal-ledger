@@ -1,0 +1,683 @@
+{
+ "date": "2026-06-04",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 0
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 0
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 0
+    },
+    {
+     "shares": 200.9874,
+     "ticker": "XBI",
+     "weightPct": 0
+    }
+   ],
+   "value": 102055.72
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 115.8128,
+     "ticker": "A",
+     "weightPct": 0
+    },
+    {
+     "shares": 16.5963,
+     "ticker": "BAH",
+     "weightPct": 0
+    },
+    {
+     "shares": 18.9661,
+     "ticker": "DHR",
+     "weightPct": 0
+    },
+    {
+     "shares": 19.8469,
+     "ticker": "ILMN",
+     "weightPct": 0
+    },
+    {
+     "shares": 9.4553,
+     "ticker": "LHX",
+     "weightPct": 0
+    },
+    {
+     "shares": 7.1167,
+     "ticker": "LMT",
+     "weightPct": 0
+    },
+    {
+     "shares": 30.3426,
+     "ticker": "NOC",
+     "weightPct": 0
+    },
+    {
+     "shares": 7.5842,
+     "ticker": "TMO",
+     "weightPct": 0
+    },
+    {
+     "shares": 42.3146,
+     "ticker": "WAT",
+     "weightPct": 0
+    }
+   ],
+   "value": 102363.94
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-04T14:34:12Z",
+   "book": "etf-core",
+   "price": 133.39,
+   "shares": 23,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:34:12Z",
+   "book": "etf-core",
+   "price": 278.41,
+   "shares": 7,
+   "side": "sell",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-04T14:34:12Z",
+   "book": "etf-core",
+   "price": 133.39,
+   "shares": 24,
+   "side": "sell",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:34:12Z",
+   "book": "etf-core",
+   "price": 229.39,
+   "shares": 16,
+   "side": "buy",
+   "ticker": "ITA"
+  },
+  {
+   "at": "2026-06-04T14:34:12Z",
+   "book": "etf-core",
+   "price": 133.39,
+   "shares": 23,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:34:12Z",
+   "book": "etf-core",
+   "price": 278.41,
+   "shares": 6,
+   "side": "sell",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-04T14:34:12Z",
+   "book": "etf-core",
+   "price": 229.39,
+   "shares": 16,
+   "side": "buy",
+   "ticker": "ITA"
+  },
+  {
+   "at": "2026-06-04T14:34:12Z",
+   "book": "etf-core",
+   "price": 133.39,
+   "shares": 24,
+   "side": "sell",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:43:43Z",
+   "book": "etf-core",
+   "price": 133.86,
+   "shares": 31,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:43:43Z",
+   "book": "etf-core",
+   "price": 278.94,
+   "shares": 21,
+   "side": "buy",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-04T14:43:43Z",
+   "book": "etf-core",
+   "price": 133.86,
+   "shares": 41,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:43:43Z",
+   "book": "etf-core",
+   "price": 229.8431,
+   "shares": 104,
+   "side": "sell",
+   "ticker": "ITA"
+  },
+  {
+   "at": "2026-06-04T14:43:43Z",
+   "book": "suppliers",
+   "price": 176.16,
+   "shares": 11,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-04T14:43:44Z",
+   "book": "suppliers",
+   "price": 185.905,
+   "shares": 9,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-04T14:43:44Z",
+   "book": "suppliers",
+   "price": 483.91,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-04T14:43:45Z",
+   "book": "suppliers",
+   "price": 381.05,
+   "shares": 20,
+   "side": "sell",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-04T14:43:45Z",
+   "book": "suppliers",
+   "price": 139.785,
+   "shares": 61,
+   "side": "sell",
+   "ticker": "A"
+  },
+  {
+   "at": "2026-06-04T14:43:45Z",
+   "book": "suppliers",
+   "price": 185.19,
+   "shares": 29,
+   "side": "sell",
+   "ticker": "CRL"
+  },
+  {
+   "at": "2026-06-04T14:43:46Z",
+   "book": "suppliers",
+   "price": 318.625,
+   "shares": 17,
+   "side": "sell",
+   "ticker": "WST"
+  },
+  {
+   "at": "2026-06-04T14:44:59Z",
+   "book": "etf-core",
+   "price": 133.86,
+   "shares": 52,
+   "side": "sell",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:44:59Z",
+   "book": "etf-core",
+   "price": 133.86,
+   "shares": 42,
+   "side": "sell",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:44:59Z",
+   "book": "etf-core",
+   "price": 278.82,
+   "shares": 27,
+   "side": "sell",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-04T14:44:59Z",
+   "book": "etf-core",
+   "price": 229.8668,
+   "shares": 89,
+   "side": "buy",
+   "ticker": "ITA"
+  },
+  {
+   "at": "2026-06-04T14:44:59Z",
+   "book": "suppliers",
+   "price": 380.36,
+   "shares": 54,
+   "side": "buy",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-04T14:45:00Z",
+   "book": "suppliers",
+   "price": 139.79,
+   "shares": 121,
+   "side": "buy",
+   "ticker": "A"
+  },
+  {
+   "at": "2026-06-04T14:45:01Z",
+   "book": "suppliers",
+   "price": 176.4,
+   "shares": 9,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-04T14:45:01Z",
+   "book": "suppliers",
+   "price": 484.255,
+   "shares": 3,
+   "side": "sell",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-04T14:45:01Z",
+   "book": "suppliers",
+   "price": 185.91,
+   "shares": 7,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-04T14:45:02Z",
+   "book": "suppliers",
+   "price": 534.615,
+   "shares": 3,
+   "side": "sell",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-04T14:45:02Z",
+   "book": "suppliers",
+   "price": 187.35,
+   "shares": 33,
+   "side": "sell",
+   "ticker": "IQV"
+  },
+  {
+   "at": "2026-06-04T14:45:02Z",
+   "book": "suppliers",
+   "price": 307.48,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "LHX"
+  },
+  {
+   "at": "2026-06-04T14:58:24Z",
+   "book": "etf-core",
+   "price": 133.94,
+   "shares": 49,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:58:24Z",
+   "book": "etf-core",
+   "price": 278.75,
+   "shares": 27,
+   "side": "buy",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-04T14:58:24Z",
+   "book": "etf-core",
+   "price": 133.94,
+   "shares": 49,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:58:24Z",
+   "book": "etf-core",
+   "price": 229.66,
+   "shares": 89,
+   "side": "sell",
+   "ticker": "ITA"
+  },
+  {
+   "at": "2026-06-04T14:58:25Z",
+   "book": "suppliers",
+   "price": 344.57,
+   "shares": 40,
+   "side": "buy",
+   "ticker": "AMGN"
+  },
+  {
+   "at": "2026-06-04T14:58:25Z",
+   "book": "suppliers",
+   "price": 175.58,
+   "shares": 7,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-04T14:58:25Z",
+   "book": "suppliers",
+   "price": 483.98,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-04T14:58:26Z",
+   "book": "suppliers",
+   "price": 185.61,
+   "shares": 6,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-04T14:58:26Z",
+   "book": "suppliers",
+   "price": 382.535,
+   "shares": 11,
+   "side": "sell",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-04T14:58:27Z",
+   "book": "suppliers",
+   "price": 139.97,
+   "shares": 24,
+   "side": "sell",
+   "ticker": "A"
+  },
+  {
+   "at": "2026-06-04T14:58:27Z",
+   "book": "suppliers",
+   "price": 308.76,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "LHX"
+  },
+  {
+   "at": "2026-06-04T14:58:27Z",
+   "book": "suppliers",
+   "price": 534.75,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-04T14:58:28Z",
+   "book": "suppliers",
+   "price": 179.6,
+   "shares": 8,
+   "side": "sell",
+   "ticker": "RTX"
+  },
+  {
+   "at": "2026-06-04T14:58:28Z",
+   "book": "suppliers",
+   "price": 516.842,
+   "shares": 3,
+   "side": "sell",
+   "ticker": "LMT"
+  },
+  {
+   "at": "2026-06-04T14:58:29Z",
+   "book": "suppliers",
+   "price": 221.54,
+   "shares": 6,
+   "side": "sell",
+   "ticker": "HON"
+  },
+  {
+   "at": "2026-06-04T14:59:30Z",
+   "book": "etf-core",
+   "price": 133.85,
+   "shares": 64,
+   "side": "sell",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T14:59:30Z",
+   "book": "etf-core",
+   "price": 229.65,
+   "shares": 89,
+   "side": "buy",
+   "ticker": "ITA"
+  },
+  {
+   "at": "2026-06-04T14:59:30Z",
+   "book": "etf-core",
+   "price": 278.79,
+   "shares": 14,
+   "side": "sell",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-04T14:59:30Z",
+   "book": "etf-core",
+   "price": 133.85,
+   "shares": 50,
+   "side": "sell",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T15:00:30Z",
+   "book": "etf-core",
+   "price": 133.82,
+   "shares": 56,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T15:00:30Z",
+   "book": "etf-core",
+   "price": 278.57,
+   "shares": 14,
+   "side": "buy",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-04T15:00:30Z",
+   "book": "etf-core",
+   "price": 133.82,
+   "shares": 56,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T15:01:42Z",
+   "book": "etf-core",
+   "price": 133.74,
+   "shares": 43,
+   "side": "sell",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T15:01:42Z",
+   "book": "etf-core",
+   "price": 278.97,
+   "shares": 19,
+   "side": "buy",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-04T15:01:42Z",
+   "book": "etf-core",
+   "price": 133.74,
+   "shares": 36,
+   "side": "sell",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-04T15:01:43Z",
+   "book": "suppliers",
+   "price": 51.455,
+   "shares": 398,
+   "side": "buy",
+   "ticker": "MRNA"
+  },
+  {
+   "at": "2026-06-04T15:01:43Z",
+   "book": "suppliers",
+   "price": 176.085,
+   "shares": 6,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-04T15:01:44Z",
+   "book": "suppliers",
+   "price": 485.08,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-04T15:01:44Z",
+   "book": "suppliers",
+   "price": 185.94,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-04T15:01:44Z",
+   "book": "suppliers",
+   "price": 309.12,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "LHX"
+  },
+  {
+   "at": "2026-06-04T15:01:44Z",
+   "book": "suppliers",
+   "price": 140.255,
+   "shares": 97,
+   "side": "sell",
+   "ticker": "A"
+  },
+  {
+   "at": "2026-06-04T15:01:45Z",
+   "book": "suppliers",
+   "price": 222.05,
+   "shares": 16,
+   "side": "sell",
+   "ticker": "HON"
+  },
+  {
+   "at": "2026-06-04T15:01:45Z",
+   "book": "suppliers",
+   "price": 383.55,
+   "shares": 43,
+   "side": "sell",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-04T15:01:45Z",
+   "book": "suppliers",
+   "price": 535.41,
+   "shares": 7,
+   "side": "sell",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-04T15:01:45Z",
+   "book": "suppliers",
+   "price": 179.76,
+   "shares": 21,
+   "side": "sell",
+   "ticker": "RTX"
+  },
+  {
+   "at": "2026-06-04T15:04:02Z",
+   "book": "etf-core",
+   "price": 278.68,
+   "shares": 13,
+   "side": "sell",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-04T15:04:03Z",
+   "book": "suppliers",
+   "price": 383.145,
+   "shares": 42,
+   "side": "buy",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-04T15:04:03Z",
+   "book": "suppliers",
+   "price": 139.99,
+   "shares": 116,
+   "side": "buy",
+   "ticker": "A"
+  },
+  {
+   "at": "2026-06-04T15:04:04Z",
+   "book": "suppliers",
+   "price": 534.32,
+   "shares": 30,
+   "side": "buy",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-04T15:04:04Z",
+   "book": "suppliers",
+   "price": 81.02,
+   "shares": 17,
+   "side": "buy",
+   "ticker": "BAH"
+  },
+  {
+   "at": "2026-06-04T15:04:05Z",
+   "book": "suppliers",
+   "price": 176.01,
+   "shares": 3,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-04T15:04:05Z",
+   "book": "suppliers",
+   "price": 51.33,
+   "shares": 398,
+   "side": "sell",
+   "ticker": "MRNA"
+  },
+  {
+   "at": "2026-06-04T15:04:05Z",
+   "book": "suppliers",
+   "price": 516.825,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "LMT"
+  },
+  {
+   "at": "2026-06-04T15:04:05Z",
+   "book": "suppliers",
+   "price": 343.96,
+   "shares": 40,
+   "side": "sell",
+   "ticker": "AMGN"
+  }
+ ]
+}

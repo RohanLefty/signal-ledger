@@ -1,0 +1,203 @@
+{
+ "date": "2026-07-15",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.73
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.52
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.8
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.99
+    },
+    {
+     "shares": 78.2719,
+     "ticker": "TIP",
+     "weightPct": 7.93
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.66
+    },
+    {
+     "shares": 50.7245,
+     "ticker": "XAR",
+     "weightPct": 12.67
+    },
+    {
+     "shares": 113.9365,
+     "ticker": "XBI",
+     "weightPct": 16.69
+    }
+   ],
+   "value": 106613.92
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 37.1949,
+     "ticker": "QBTS",
+     "weightPct": 0.67
+    },
+    {
+     "shares": 67.2135,
+     "ticker": "XOM",
+     "weightPct": 9.64
+    }
+   ],
+   "value": 100787.77
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 54.034,
+     "ticker": "ADSK",
+     "weightPct": 10.56
+    },
+    {
+     "shares": 115.6197,
+     "ticker": "ALB",
+     "weightPct": 13.49
+    },
+    {
+     "shares": 19.7065,
+     "ticker": "AMAT",
+     "weightPct": 10.68
+    },
+    {
+     "shares": 0.0008,
+     "ticker": "ASML",
+     "weightPct": 0
+    },
+    {
+     "shares": 28.0452,
+     "ticker": "DELL",
+     "weightPct": 10.82
+    },
+    {
+     "shares": 0.0128,
+     "ticker": "KLAC",
+     "weightPct": 0
+    },
+    {
+     "shares": 34.1913,
+     "ticker": "LRCX",
+     "weightPct": 10.72
+    },
+    {
+     "shares": 154.5706,
+     "ticker": "MP",
+     "weightPct": 7.15
+    },
+    {
+     "shares": 26.5428,
+     "ticker": "SNPS",
+     "weightPct": 10.56
+    },
+    {
+     "shares": 33.5248,
+     "ticker": "TER",
+     "weightPct": 10.73
+    }
+   ],
+   "value": 106939.62
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-15T10:50:34Z",
+   "book": "suppliers",
+   "price": 353.23,
+   "shares": 41,
+   "side": "sell",
+   "ticker": "TER"
+  },
+  {
+   "at": "2026-07-15T10:50:35Z",
+   "book": "suppliers",
+   "price": 220.78,
+   "shares": 65,
+   "side": "sell",
+   "ticker": "ADBE"
+  },
+  {
+   "at": "2026-07-15T15:49:00Z",
+   "book": "suppliers",
+   "price": 372.69,
+   "shares": 38,
+   "side": "sell",
+   "ticker": "CDNS"
+  },
+  {
+   "at": "2026-07-15T15:49:27Z",
+   "book": "suppliers",
+   "price": 208.79,
+   "shares": 54,
+   "side": "buy",
+   "ticker": "ADSK"
+  },
+  {
+   "at": "2026-07-15T15:49:27Z",
+   "book": "suppliers",
+   "price": 425.04,
+   "shares": 27,
+   "side": "buy",
+   "ticker": "SNPS"
+  },
+  {
+   "at": "2026-07-15T15:49:28Z",
+   "book": "suppliers",
+   "price": 329.96,
+   "shares": 34,
+   "side": "buy",
+   "ticker": "LRCX"
+  },
+  {
+   "at": "2026-07-15T15:49:28Z",
+   "book": "suppliers",
+   "price": 402.27,
+   "shares": 28,
+   "side": "buy",
+   "ticker": "DELL"
+  },
+  {
+   "at": "2026-07-15T15:49:29Z",
+   "book": "suppliers",
+   "price": 572.49,
+   "shares": 20,
+   "side": "buy",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-07-15T15:49:29Z",
+   "book": "suppliers",
+   "price": 336.52,
+   "shares": 34,
+   "side": "buy",
+   "ticker": "TER"
+  },
+  {
+   "at": "2026-07-15T15:49:29Z",
+   "book": "suppliers",
+   "price": 49.11,
+   "shares": 155,
+   "side": "buy",
+   "ticker": "MP"
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "date": "2026-07-12",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.77
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.54
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21
+    },
+    {
+     "shares": 20.501,
+     "ticker": "REMX",
+     "weightPct": 1.52
+    },
+    {
+     "shares": 78.2719,
+     "ticker": "TIP",
+     "weightPct": 7.87
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.22
+    },
+    {
+     "shares": 51.1713,
+     "ticker": "XAR",
+     "weightPct": 12.91
+    },
+    {
+     "shares": 113.9366,
+     "ticker": "XBI",
+     "weightPct": 16.85
+    }
+   ],
+   "value": 107552.94
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 37.1949,
+     "ticker": "QBTS",
+     "weightPct": 0.74
+    },
+    {
+     "shares": 67.2135,
+     "ticker": "XOM",
+     "weightPct": 9.29
+    }
+   ],
+   "value": 100477.05
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 65.1666,
+     "ticker": "ADBE",
+     "weightPct": 13.57
+    },
+    {
+     "shares": 115.6197,
+     "ticker": "ALB",
+     "weightPct": 13.57
+    },
+    {
+     "shares": 0.0014,
+     "ticker": "ASML",
+     "weightPct": 0
+    },
+    {
+     "shares": 37.936,
+     "ticker": "CDNS",
+     "weightPct": 13.57
+    },
+    {
+     "shares": 36.799,
+     "ticker": "DELL",
+     "weightPct": 14.91
+    },
+    {
+     "shares": 0.0227,
+     "ticker": "KLAC",
+     "weightPct": 0
+    },
+    {
+     "shares": 990.7443,
+     "ticker": "LTHM",
+     "weightPct": 15.23
+    },
+    {
+     "shares": 40.528,
+     "ticker": "TER",
+     "weightPct": 13.57
+    }
+   ],
+   "value": 107386.31
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-12T10:11:59Z",
+   "book": "suppliers",
+   "price": 121.31,
+   "shares": 146,
+   "side": "sell",
+   "ticker": "CSCO"
+  },
+  {
+   "at": "2026-07-12T10:12:14Z",
+   "book": "suppliers",
+   "price": 223.64,
+   "shares": 65,
+   "side": "buy",
+   "ticker": "ADBE"
+  },
+  {
+   "at": "2026-07-12T10:12:15Z",
+   "book": "suppliers",
+   "price": 384.17,
+   "shares": 38,
+   "side": "buy",
+   "ticker": "CDNS"
+  },
+  {
+   "at": "2026-07-12T10:12:15Z",
+   "book": "suppliers",
+   "price": 359.6,
+   "shares": 41,
+   "side": "buy",
+   "ticker": "TER"
+  },
+  {
+   "at": "2026-07-12T10:12:16Z",
+   "book": "suppliers",
+   "price": 126.05,
+   "shares": 116,
+   "side": "buy",
+   "ticker": "ALB"
+  }
+ ]
+}

@@ -1,0 +1,319 @@
+{
+ "date": "2026-09-14",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 18.744,
+     "ticker": "ARKW",
+     "weightPct": 2.77
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.84
+    },
+    {
+     "shares": 26.9536,
+     "ticker": "ITA",
+     "weightPct": 5.47
+    },
+    {
+     "shares": 32.4608,
+     "ticker": "NLR",
+     "weightPct": 3.34
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 21.67
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 11.9
+    },
+    {
+     "shares": 100.1454,
+     "ticker": "REMX",
+     "weightPct": 6.48
+    },
+    {
+     "shares": 69,
+     "ticker": "SRVR",
+     "weightPct": 1.91
+    },
+    {
+     "shares": 17.1729,
+     "ticker": "TIP",
+     "weightPct": 1.7
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 16.17
+    },
+    {
+     "shares": 36.2635,
+     "ticker": "XAR",
+     "weightPct": 8.28
+    },
+    {
+     "shares": 174,
+     "ticker": "XLB",
+     "weightPct": 8.23
+    },
+    {
+     "shares": 95,
+     "ticker": "XLF",
+     "weightPct": 5.08
+    },
+    {
+     "shares": 65.1463,
+     "ticker": "XTN",
+     "weightPct": 6.27
+    }
+   ],
+   "value": 106995.32
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 1,
+     "ticker": "AMRZ",
+     "weightPct": 0.04
+    },
+    {
+     "shares": 1424,
+     "ticker": "AOMR",
+     "weightPct": 12.11
+    },
+    {
+     "shares": 6,
+     "ticker": "ASML",
+     "weightPct": 10.06
+    },
+    {
+     "shares": 65,
+     "ticker": "SBAC",
+     "weightPct": 12.51
+    },
+    {
+     "shares": 21,
+     "ticker": "SMH",
+     "weightPct": 12.02
+    },
+    {
+     "shares": 508,
+     "ticker": "SPH",
+     "weightPct": 9.13
+    },
+    {
+     "shares": 378,
+     "ticker": "SRVR",
+     "weightPct": 11.75
+    },
+    {
+     "shares": 38,
+     "ticker": "UNP",
+     "weightPct": 11.37
+    },
+    {
+     "shares": 99,
+     "ticker": "XLF",
+     "weightPct": 5.95
+    },
+    {
+     "shares": 84,
+     "ticker": "XLU",
+     "weightPct": 3.7
+    },
+    {
+     "shares": 110,
+     "ticker": "XTN",
+     "weightPct": 11.9
+    }
+   ],
+   "value": 95217.68
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 283,
+     "ticker": "AMRZ",
+     "weightPct": 11.2
+    },
+    {
+     "shares": 990,
+     "ticker": "AOMR",
+     "weightPct": 7.99
+    },
+    {
+     "shares": 5.8738,
+     "ticker": "ASML",
+     "weightPct": 9.35
+    },
+    {
+     "shares": 142,
+     "ticker": "AVT",
+     "weightPct": 13.27
+    },
+    {
+     "shares": 178,
+     "ticker": "BAC",
+     "weightPct": 10.93
+    },
+    {
+     "shares": 55.2545,
+     "ticker": "CRWV",
+     "weightPct": 4.63
+    },
+    {
+     "shares": 98.5853,
+     "ticker": "CWCO",
+     "weightPct": 2.74
+    },
+    {
+     "shares": 27.6303,
+     "ticker": "HD",
+     "weightPct": 8.55
+    },
+    {
+     "shares": 237,
+     "ticker": "JEF",
+     "weightPct": 11.94
+    },
+    {
+     "shares": 24,
+     "ticker": "RBRK",
+     "weightPct": 2.36
+    },
+    {
+     "shares": 10,
+     "ticker": "RKLB",
+     "weightPct": 0.63
+    },
+    {
+     "shares": 46.5246,
+     "ticker": "SBAC",
+     "weightPct": 8.5
+    },
+    {
+     "shares": 3,
+     "ticker": "SMR",
+     "weightPct": 0.03
+    },
+    {
+     "shares": 41.39,
+     "ticker": "SPH",
+     "weightPct": 0.71
+    },
+    {
+     "shares": 28.3722,
+     "ticker": "UNP",
+     "weightPct": 8.06
+    }
+   ],
+   "value": 100321.2
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 16,
+     "ticker": "AMAT",
+     "weightPct": 6.39
+    },
+    {
+     "shares": 46,
+     "ticker": "BWXT",
+     "weightPct": 6.36
+    },
+    {
+     "shares": 58,
+     "ticker": "CCJ",
+     "weightPct": 5.08
+    },
+    {
+     "shares": 46,
+     "ticker": "EMR",
+     "weightPct": 6.37
+    },
+    {
+     "shares": 16,
+     "ticker": "ETN",
+     "weightPct": 5.88
+    },
+    {
+     "shares": 130,
+     "ticker": "FLR",
+     "weightPct": 6.41
+    },
+    {
+     "shares": 15,
+     "ticker": "GD",
+     "weightPct": 5
+    },
+    {
+     "shares": 6,
+     "ticker": "GEV",
+     "weightPct": 4.89
+    },
+    {
+     "shares": 22,
+     "ticker": "HEI",
+     "weightPct": 6.25
+    },
+    {
+     "shares": 43,
+     "ticker": "KLAC",
+     "weightPct": 6.8
+    },
+    {
+     "shares": 28,
+     "ticker": "LHX",
+     "weightPct": 6.5
+    },
+    {
+     "shares": 25,
+     "ticker": "LRCX",
+     "weightPct": 6.45
+    },
+    {
+     "shares": 16,
+     "ticker": "PANW",
+     "weightPct": 5.6
+    },
+    {
+     "shares": 11,
+     "ticker": "PWR",
+     "weightPct": 6.39
+    },
+    {
+     "shares": 28,
+     "ticker": "VRT",
+     "weightPct": 6.22
+    }
+   ],
+   "value": 107258.14
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-09-14T10:30:39Z",
+   "book": "single-stocks",
+   "price": 9.8597,
+   "shares": 2,
+   "side": "buy",
+   "ticker": "SMPL"
+  },
+  {
+   "at": "2026-09-14T17:09:59Z",
+   "book": "single-stocks",
+   "price": 63.0305,
+   "shares": 10,
+   "side": "buy",
+   "ticker": "RKLB"
+  }
+ ]
+}

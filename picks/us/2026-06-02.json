@@ -1,0 +1,247 @@
+{
+ "date": "2026-06-02",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 71.9388,
+     "ticker": "ITA",
+     "weightPct": 0
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 0
+    },
+    {
+     "shares": 56.0397,
+     "ticker": "XAR",
+     "weightPct": 0
+    },
+    {
+     "shares": 207.4437,
+     "ticker": "XBI",
+     "weightPct": 0
+    }
+   ],
+   "value": 100000
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 60.6813,
+     "ticker": "A",
+     "weightPct": 0
+    },
+    {
+     "shares": 29.4669,
+     "ticker": "CRL",
+     "weightPct": 0
+    },
+    {
+     "shares": 46.3038,
+     "ticker": "DHR",
+     "weightPct": 0
+    },
+    {
+     "shares": 28.6105,
+     "ticker": "HON",
+     "weightPct": 0
+    },
+    {
+     "shares": 55.0618,
+     "ticker": "ILMN",
+     "weightPct": 0
+    },
+    {
+     "shares": 32.6218,
+     "ticker": "IQV",
+     "weightPct": 0
+    },
+    {
+     "shares": 26.3821,
+     "ticker": "LHX",
+     "weightPct": 0
+    },
+    {
+     "shares": 14.4414,
+     "ticker": "LMT",
+     "weightPct": 0
+    },
+    {
+     "shares": 15.2554,
+     "ticker": "NOC",
+     "weightPct": 0
+    },
+    {
+     "shares": 38.3791,
+     "ticker": "RTX",
+     "weightPct": 0
+    },
+    {
+     "shares": 18.5161,
+     "ticker": "TMO",
+     "weightPct": 0
+    },
+    {
+     "shares": 20.0034,
+     "ticker": "WAT",
+     "weightPct": 0
+    },
+    {
+     "shares": 16.6239,
+     "ticker": "WST",
+     "weightPct": 0
+    }
+   ],
+   "value": 100000
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-02T16:44:46Z",
+   "book": "etf-core",
+   "price": 80.73,
+   "shares": 248,
+   "side": "buy",
+   "ticker": "PBE"
+  },
+  {
+   "at": "2026-06-02T16:44:46Z",
+   "book": "etf-core",
+   "price": 279.305,
+   "shares": 56,
+   "side": "buy",
+   "ticker": "XAR"
+  },
+  {
+   "at": "2026-06-02T16:44:46Z",
+   "book": "etf-core",
+   "price": 128.2695,
+   "shares": 122,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-02T16:44:46Z",
+   "book": "etf-core",
+   "price": 128.2695,
+   "shares": 85,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-02T16:44:46Z",
+   "book": "etf-core",
+   "price": 228.455,
+   "shares": 72,
+   "side": "buy",
+   "ticker": "ITA"
+  },
+  {
+   "at": "2026-06-02T16:44:46Z",
+   "book": "suppliers",
+   "price": 161.75,
+   "shares": 55,
+   "side": "buy",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-02T16:44:47Z",
+   "book": "suppliers",
+   "price": 481,
+   "shares": 19,
+   "side": "buy",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-02T16:44:47Z",
+   "book": "suppliers",
+   "price": 176.315,
+   "shares": 46,
+   "side": "buy",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-02T16:44:47Z",
+   "book": "suppliers",
+   "price": 134.54,
+   "shares": 61,
+   "side": "buy",
+   "ticker": "A"
+  },
+  {
+   "at": "2026-06-02T16:44:48Z",
+   "book": "suppliers",
+   "price": 371.03,
+   "shares": 20,
+   "side": "buy",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-02T16:44:48Z",
+   "book": "suppliers",
+   "price": 309.455,
+   "shares": 26,
+   "side": "buy",
+   "ticker": "LHX"
+  },
+  {
+   "at": "2026-06-02T16:44:49Z",
+   "book": "suppliers",
+   "price": 513.93,
+   "shares": 14,
+   "side": "buy",
+   "ticker": "LMT"
+  },
+  {
+   "at": "2026-06-02T16:44:49Z",
+   "book": "suppliers",
+   "price": 535.16,
+   "shares": 15,
+   "side": "buy",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-02T16:44:49Z",
+   "book": "suppliers",
+   "price": 174.045,
+   "shares": 38,
+   "side": "buy",
+   "ticker": "RTX"
+  },
+  {
+   "at": "2026-06-02T16:44:50Z",
+   "book": "suppliers",
+   "price": 182.01,
+   "shares": 33,
+   "side": "buy",
+   "ticker": "IQV"
+  },
+  {
+   "at": "2026-06-02T16:44:50Z",
+   "book": "suppliers",
+   "price": 233.47,
+   "shares": 29,
+   "side": "buy",
+   "ticker": "HON"
+  },
+  {
+   "at": "2026-06-02T16:44:51Z",
+   "book": "suppliers",
+   "price": 176.31,
+   "shares": 29,
+   "side": "buy",
+   "ticker": "CRL"
+  },
+  {
+   "at": "2026-06-02T16:44:51Z",
+   "book": "suppliers",
+   "price": 312.52,
+   "shares": 17,
+   "side": "buy",
+   "ticker": "WST"
+  }
+ ]
+}

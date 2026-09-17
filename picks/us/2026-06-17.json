@@ -1,0 +1,145 @@
+{
+ "date": "2026-06-17",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 21.19
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.65
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 12.44
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 14.26
+    },
+    {
+     "shares": 145.6672,
+     "ticker": "XBI",
+     "weightPct": 20.04
+    }
+   ],
+   "value": 102779.34
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 2.9803,
+     "ticker": "AMAT",
+     "weightPct": 1.72
+    },
+    {
+     "shares": 1.0357,
+     "ticker": "ASML",
+     "weightPct": 1.88
+    },
+    {
+     "shares": 18.6985,
+     "ticker": "DHR",
+     "weightPct": 3.19
+    },
+    {
+     "shares": 36.2724,
+     "ticker": "GD",
+     "weightPct": 12.56
+    },
+    {
+     "shares": 9.033,
+     "ticker": "ILMN",
+     "weightPct": 1.4
+    },
+    {
+     "shares": 44.687,
+     "ticker": "IQV",
+     "weightPct": 7.33
+    },
+    {
+     "shares": 16.9857,
+     "ticker": "KLAC",
+     "weightPct": 3.88
+    },
+    {
+     "shares": 67.3797,
+     "ticker": "LHX",
+     "weightPct": 20.23
+    },
+    {
+     "shares": 5.0075,
+     "ticker": "LRCX",
+     "weightPct": 1.82
+    },
+    {
+     "shares": 36.5647,
+     "ticker": "NOC",
+     "weightPct": 19.22
+    },
+    {
+     "shares": 110.5508,
+     "ticker": "RTX",
+     "weightPct": 20.23
+    },
+    {
+     "shares": 4.1736,
+     "ticker": "TER",
+     "weightPct": 1.66
+    },
+    {
+     "shares": 6.3682,
+     "ticker": "TMO",
+     "weightPct": 2.84
+    },
+    {
+     "shares": 8.8288,
+     "ticker": "WAT",
+     "weightPct": 3.01
+    }
+   ],
+   "value": 105482.95
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-17T17:31:44Z",
+   "book": "suppliers",
+   "price": 193.05,
+   "shares": 111,
+   "side": "buy",
+   "ticker": "RTX"
+  },
+  {
+   "at": "2026-06-17T17:31:45Z",
+   "book": "suppliers",
+   "price": 316.74,
+   "shares": 67,
+   "side": "buy",
+   "ticker": "LHX"
+  },
+  {
+   "at": "2026-06-17T17:31:45Z",
+   "book": "suppliers",
+   "price": 554.49,
+   "shares": 37,
+   "side": "buy",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-17T17:31:46Z",
+   "book": "suppliers",
+   "price": 365.21,
+   "shares": 36,
+   "side": "buy",
+   "ticker": "GD"
+  }
+ ]
+}

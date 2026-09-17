@@ -1,0 +1,51 @@
+{
+ "date": "2026-09-11",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 591.0003,
+     "ticker": "ZFL.TO",
+     "weightPct": 6.69
+    }
+   ],
+   "value": 99718.5
+  },
+  "long-hold": {
+   "positions": [],
+   "value": 100000
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 557.7155,
+     "ticker": "AQN.TO",
+     "weightPct": 4.24
+    }
+   ],
+   "value": 99461.5
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 156.1153,
+     "ticker": "AIF.TO",
+     "weightPct": 6.99
+    },
+    {
+     "shares": 52.8745,
+     "ticker": "CIGI.TO",
+     "weightPct": 6.78
+    },
+    {
+     "shares": 51.6888,
+     "ticker": "EQB.TO",
+     "weightPct": 6.69
+    }
+   ],
+   "value": 98893.89
+  }
+ },
+ "region": "ca",
+ "trades": []
+}

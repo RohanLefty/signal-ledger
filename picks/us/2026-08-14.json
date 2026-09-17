@@ -1,0 +1,161 @@
+{
+ "date": "2026-08-14",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 18.744,
+     "ticker": "ARKW",
+     "weightPct": 2.5
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.72
+    },
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.56
+    },
+    {
+     "shares": 32.4608,
+     "ticker": "NLR",
+     "weightPct": 3.38
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.21
+    },
+    {
+     "shares": 185.5164,
+     "ticker": "PHO",
+     "weightPct": 11.67
+    },
+    {
+     "shares": 111.1454,
+     "ticker": "REMX",
+     "weightPct": 7.66
+    },
+    {
+     "shares": 57.1729,
+     "ticker": "TIP",
+     "weightPct": 5.35
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 15.07
+    },
+    {
+     "shares": 36.2635,
+     "ticker": "XAR",
+     "weightPct": 9.35
+    },
+    {
+     "shares": 45.1463,
+     "ticker": "XTN",
+     "weightPct": 4.41
+    }
+   ],
+   "value": 114378.24
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 55.2545,
+     "ticker": "CRWV",
+     "weightPct": 5.41
+    },
+    {
+     "shares": 98.5853,
+     "ticker": "CWCO",
+     "weightPct": 2.89
+    },
+    {
+     "shares": 27.6303,
+     "ticker": "HD",
+     "weightPct": 8.71
+    },
+    {
+     "shares": 633.39,
+     "ticker": "SPH",
+     "weightPct": 10.52
+    },
+    {
+     "shares": 37.3722,
+     "ticker": "UNP",
+     "weightPct": 10.35
+    },
+    {
+     "shares": 24.7317,
+     "ticker": "XOM",
+     "weightPct": 3.71
+    }
+   ],
+   "value": 107282.61
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 8.3774,
+     "ticker": "ADSK",
+     "weightPct": 1.96
+    },
+    {
+     "shares": 3.5198,
+     "ticker": "AMAT",
+     "weightPct": 1.63
+    },
+    {
+     "shares": 0.5732,
+     "ticker": "ASML",
+     "weightPct": 0.96
+    },
+    {
+     "shares": 4.3481,
+     "ticker": "DELL",
+     "weightPct": 1.96
+    },
+    {
+     "shares": 54.36,
+     "ticker": "DHR",
+     "weightPct": 10.16
+    },
+    {
+     "shares": 1.8607,
+     "ticker": "GE",
+     "weightPct": 0.62
+    },
+    {
+     "shares": 10.3894,
+     "ticker": "LRCX",
+     "weightPct": 3.13
+    },
+    {
+     "shares": 15.6652,
+     "ticker": "MCK",
+     "weightPct": 12.46
+    },
+    {
+     "shares": 4.1152,
+     "ticker": "SNPS",
+     "weightPct": 1.59
+    }
+   ],
+   "value": 108823.88
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-08-14T15:28:45Z",
+   "book": "single-stocks",
+   "price": 17.76,
+   "shares": 488,
+   "side": "sell",
+   "ticker": "ERAS"
+  }
+ ]
+}

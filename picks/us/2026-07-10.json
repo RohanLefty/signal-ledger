@@ -1,0 +1,129 @@
+{
+ "date": "2026-07-10",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.72
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.53
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.87
+    },
+    {
+     "shares": 3.7002,
+     "ticker": "REMX",
+     "weightPct": 0.27
+    },
+    {
+     "shares": 78.2719,
+     "ticker": "TIP",
+     "weightPct": 7.87
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.27
+    },
+    {
+     "shares": 58.3201,
+     "ticker": "XAR",
+     "weightPct": 14.69
+    },
+    {
+     "shares": 113.9384,
+     "ticker": "XBI",
+     "weightPct": 16.69
+    }
+   ],
+   "value": 107552.94
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 37.1949,
+     "ticker": "QBTS",
+     "weightPct": 0.75
+    },
+    {
+     "shares": 67.2135,
+     "ticker": "XOM",
+     "weightPct": 9.22
+    }
+   ],
+   "value": 100477.05
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 0.0025,
+     "ticker": "ASML",
+     "weightPct": 0
+    },
+    {
+     "shares": 15.9476,
+     "ticker": "CAT",
+     "weightPct": 14.12
+    },
+    {
+     "shares": 146.4592,
+     "ticker": "CSCO",
+     "weightPct": 16.4
+    },
+    {
+     "shares": 36.799,
+     "ticker": "DELL",
+     "weightPct": 15.2
+    },
+    {
+     "shares": 0.0404,
+     "ticker": "KLAC",
+     "weightPct": 0.01
+    },
+    {
+     "shares": 0.0119,
+     "ticker": "LRCX",
+     "weightPct": 0
+    },
+    {
+     "shares": 990.7443,
+     "ticker": "LTHM",
+     "weightPct": 15.19
+    },
+    {
+     "shares": 91.8918,
+     "ticker": "UPS",
+     "weightPct": 9.62
+    }
+   ],
+   "value": 107674.02
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-10T10:14:06Z",
+   "book": "suppliers",
+   "price": 546.72,
+   "shares": 14,
+   "side": "sell",
+   "ticker": "AMD"
+  },
+  {
+   "at": "2026-07-10T10:14:17Z",
+   "book": "suppliers",
+   "price": 184.69,
+   "shares": 42,
+   "side": "buy",
+   "ticker": "ANET"
+  }
+ ]
+}

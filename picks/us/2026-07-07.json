@@ -1,0 +1,146 @@
+{
+ "date": "2026-07-07",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 19.86
+    },
+    {
+     "shares": 5.0511,
+     "ticker": "NLR",
+     "weightPct": 0.51
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.9
+    },
+    {
+     "shares": 3.4528,
+     "ticker": "REMX",
+     "weightPct": 0.25
+    },
+    {
+     "shares": 78.2719,
+     "ticker": "TIP",
+     "weightPct": 7.7
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.37
+    },
+    {
+     "shares": 81.196,
+     "ticker": "XAR",
+     "weightPct": 20.69
+    },
+    {
+     "shares": 114.0604,
+     "ticker": "XBI",
+     "weightPct": 16.87
+    }
+   ],
+   "value": 110027.57
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 4.4855,
+     "ticker": "NVDA",
+     "weightPct": 0.87
+    },
+    {
+     "shares": 37.1949,
+     "ticker": "QBTS",
+     "weightPct": 0.78
+    },
+    {
+     "shares": 66.4962,
+     "ticker": "RTX",
+     "weightPct": 13.28
+    },
+    {
+     "shares": 67.2135,
+     "ticker": "XOM",
+     "weightPct": 9.32
+    }
+   ],
+   "value": 101066.11
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 14.0196,
+     "ticker": "AMD",
+     "weightPct": 6.98
+    },
+    {
+     "shares": 46.9415,
+     "ticker": "ANET",
+     "weightPct": 7.59
+    },
+    {
+     "shares": 0.0058,
+     "ticker": "ASML",
+     "weightPct": 0.01
+    },
+    {
+     "shares": 15.9476,
+     "ticker": "CAT",
+     "weightPct": 14.04
+    },
+    {
+     "shares": 49.3837,
+     "ticker": "DELL",
+     "weightPct": 19.72
+    },
+    {
+     "shares": 0.0958,
+     "ticker": "KLAC",
+     "weightPct": 0.02
+    },
+    {
+     "shares": 0.0282,
+     "ticker": "LRCX",
+     "weightPct": 0.01
+    },
+    {
+     "shares": 11.6397,
+     "ticker": "NOC",
+     "weightPct": 6.14
+    },
+    {
+     "shares": 43.4253,
+     "ticker": "NVDA",
+     "weightPct": 8.15
+    },
+    {
+     "shares": 83.5445,
+     "ticker": "RTX",
+     "weightPct": 16.23
+    },
+    {
+     "shares": 91.8918,
+     "ticker": "UPS",
+     "weightPct": 9.9
+    }
+   ],
+   "value": 103871.67
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-07-07T10:13:27Z",
+   "book": "etf-core",
+   "price": 85.34,
+   "shares": 1,
+   "side": "buy",
+   "ticker": "REMX"
+  }
+ ]
+}

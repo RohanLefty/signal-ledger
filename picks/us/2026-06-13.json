@@ -1,0 +1,160 @@
+{
+ "date": "2026-06-13",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.55
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.59
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 12.7
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 14.02
+    },
+    {
+     "shares": 145.6672,
+     "ticker": "XBI",
+     "weightPct": 19.26
+    }
+   ],
+   "value": 101209.6
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 11.774,
+     "ticker": "AMAT",
+     "weightPct": 6.25
+    },
+    {
+     "shares": 4.0916,
+     "ticker": "ASML",
+     "weightPct": 7.14
+    },
+    {
+     "shares": 69.2536,
+     "ticker": "DHR",
+     "weightPct": 11.68
+    },
+    {
+     "shares": 32.6396,
+     "ticker": "ILMN",
+     "weightPct": 4.92
+    },
+    {
+     "shares": 67.1039,
+     "ticker": "KLAC",
+     "weightPct": 16
+    },
+    {
+     "shares": 19.7827,
+     "ticker": "LRCX",
+     "weightPct": 6.8
+    },
+    {
+     "shares": 16.4882,
+     "ticker": "TER",
+     "weightPct": 6.23
+    },
+    {
+     "shares": 23.5857,
+     "ticker": "TMO",
+     "weightPct": 10.37
+    },
+    {
+     "shares": 31.9017,
+     "ticker": "WAT",
+     "weightPct": 10.62
+    }
+   ],
+   "value": 106783.89
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-13T15:33:59Z",
+   "book": "suppliers",
+   "price": 567.25,
+   "shares": 3,
+   "side": "sell",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-06-13T15:33:59Z",
+   "book": "suppliers",
+   "price": 366.81,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "LRCX"
+  },
+  {
+   "at": "2026-06-13T15:34:00Z",
+   "book": "suppliers",
+   "price": 254.54,
+   "shares": 17,
+   "side": "sell",
+   "ticker": "KLAC"
+  },
+  {
+   "at": "2026-06-13T15:34:00Z",
+   "book": "suppliers",
+   "price": 1863.55,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "ASML"
+  },
+  {
+   "at": "2026-06-13T15:34:01Z",
+   "book": "suppliers",
+   "price": 469.34,
+   "shares": 6,
+   "side": "sell",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-13T15:34:01Z",
+   "book": "suppliers",
+   "price": 403.2,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "TER"
+  },
+  {
+   "at": "2026-06-13T15:34:01Z",
+   "book": "suppliers",
+   "price": 180.1,
+   "shares": 17,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-13T15:34:02Z",
+   "book": "suppliers",
+   "price": 160.97,
+   "shares": 8,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-13T15:34:02Z",
+   "book": "suppliers",
+   "price": 355.53,
+   "shares": 8,
+   "side": "sell",
+   "ticker": "WAT"
+  }
+ ]
+}

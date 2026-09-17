@@ -1,0 +1,147 @@
+{
+ "date": "2026-06-09",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.11
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.57
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.29
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 13.67
+    },
+    {
+     "shares": 206.446,
+     "ticker": "XBI",
+     "weightPct": 26.37
+    }
+   ],
+   "value": 100529.89
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 48.8585,
+     "ticker": "A",
+     "weightPct": 6.35
+    },
+    {
+     "shares": 0.7009,
+     "ticker": "BAH",
+     "weightPct": 0.05
+    },
+    {
+     "shares": 7.4519,
+     "ticker": "ILMN",
+     "weightPct": 1.15
+    },
+    {
+     "shares": 0.3993,
+     "ticker": "LHX",
+     "weightPct": 0.12
+    },
+    {
+     "shares": 0.3006,
+     "ticker": "LMT",
+     "weightPct": 0.15
+    },
+    {
+     "shares": 44.1363,
+     "ticker": "LRCX",
+     "weightPct": 13.11
+    },
+    {
+     "shares": 7.2004,
+     "ticker": "NOC",
+     "weightPct": 3.81
+    },
+    {
+     "shares": 28.245,
+     "ticker": "WAT",
+     "weightPct": 10.1
+    }
+   ],
+   "value": 102130.79
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-09T12:54:35Z",
+   "book": "suppliers",
+   "price": 158.04,
+   "shares": 3,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-09T12:54:38Z",
+   "book": "etf-core",
+   "price": 128.43,
+   "shares": 40,
+   "side": "buy",
+   "ticker": "XBI"
+  },
+  {
+   "at": "2026-06-09T12:54:38Z",
+   "book": "suppliers",
+   "price": 492.17,
+   "shares": 40,
+   "side": "buy",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-06-09T12:54:42Z",
+   "book": "suppliers",
+   "price": 469.63,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-09T12:54:42Z",
+   "book": "suppliers",
+   "price": 183.53,
+   "shares": 11,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-09T12:54:42Z",
+   "book": "suppliers",
+   "price": 492.17,
+   "shares": 40,
+   "side": "sell",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-06-09T16:16:05Z",
+   "book": "suppliers",
+   "price": 1749.04,
+   "shares": 9,
+   "side": "sell",
+   "ticker": "ASML"
+  },
+  {
+   "at": "2026-06-09T16:16:07Z",
+   "book": "suppliers",
+   "price": 2108.06,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "KLAC"
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "date": "2026-06-10",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 88.9536,
+     "ticker": "ITA",
+     "weightPct": 20.72
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 20.9
+    },
+    {
+     "shares": 419.9232,
+     "ticker": "WCLD",
+     "weightPct": 13.23
+    },
+    {
+     "shares": 50.6948,
+     "ticker": "XAR",
+     "weightPct": 14.01
+    },
+    {
+     "shares": 159.2661,
+     "ticker": "XBI",
+     "weightPct": 21.15
+    }
+   ],
+   "value": 98928.48
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 21.9863,
+     "ticker": "A",
+     "weightPct": 2.96
+    },
+    {
+     "shares": 27.3762,
+     "ticker": "AMAT",
+     "weightPct": 13.58
+    },
+    {
+     "shares": 54.4018,
+     "ticker": "DHR",
+     "weightPct": 10.18
+    },
+    {
+     "shares": 7.4519,
+     "ticker": "ILMN",
+     "weightPct": 1.17
+    },
+    {
+     "shares": 55.0328,
+     "ticker": "IQV",
+     "weightPct": 10.18
+    },
+    {
+     "shares": 37.0154,
+     "ticker": "TER",
+     "weightPct": 13.58
+    },
+    {
+     "shares": 7.1495,
+     "ticker": "WAT",
+     "weightPct": 2.64
+    }
+   ],
+   "value": 100662.04
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-06-10T20:05:27Z",
+   "book": "suppliers",
+   "price": 371.15,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-10T20:05:29Z",
+   "book": "suppliers",
+   "price": 371.15,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-10T20:05:29Z",
+   "book": "suppliers",
+   "price": 327.16,
+   "shares": 44,
+   "side": "sell",
+   "ticker": "LRCX"
+  },
+  {
+   "at": "2026-06-10T20:05:30Z",
+   "book": "suppliers",
+   "price": 135.48,
+   "shares": 12,
+   "side": "sell",
+   "ticker": "A"
+  },
+  {
+   "at": "2026-06-10T20:05:31Z",
+   "book": "suppliers",
+   "price": 548.67,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-10T20:05:33Z",
+   "book": "suppliers",
+   "price": 499.21,
+   "shares": 27,
+   "side": "buy",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-06-10T20:05:34Z",
+   "book": "suppliers",
+   "price": 369.21,
+   "shares": 37,
+   "side": "buy",
+   "ticker": "TER"
+  },
+  {
+   "at": "2026-06-10T20:05:35Z",
+   "book": "suppliers",
+   "price": 188.41,
+   "shares": 73,
+   "side": "buy",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-10T20:05:37Z",
+   "book": "suppliers",
+   "price": 186.25,
+   "shares": 73,
+   "side": "buy",
+   "ticker": "IQV"
+  },
+  {
+   "at": "2026-06-10T20:05:37Z",
+   "book": "suppliers",
+   "price": 371.15,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-10T20:05:37Z",
+   "book": "suppliers",
+   "price": 78.94,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "BAH"
+  },
+  {
+   "at": "2026-06-10T20:05:37Z",
+   "book": "suppliers",
+   "price": 135.48,
+   "shares": 7,
+   "side": "sell",
+   "ticker": "A"
+  },
+  {
+   "at": "2026-06-10T20:05:38Z",
+   "book": "suppliers",
+   "price": 548.67,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "NOC"
+  },
+  {
+   "at": "2026-06-11T01:07:59Z",
+   "book": "suppliers",
+   "price": 162.47,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-11T01:08:00Z",
+   "book": "suppliers",
+   "price": 1734.19,
+   "shares": 8,
+   "side": "buy",
+   "ticker": "ASML"
+  },
+  {
+   "at": "2026-06-11T01:08:02Z",
+   "book": "suppliers",
+   "price": 162.47,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-11T01:08:02Z",
+   "book": "suppliers",
+   "price": 482.04,
+   "shares": 29,
+   "side": "buy",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-11T01:08:02Z",
+   "book": "suppliers",
+   "price": 162.47,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "ILMN"
+  },
+  {
+   "at": "2026-06-11T01:08:03Z",
+   "book": "suppliers",
+   "price": 183.63,
+   "shares": 14,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-11T01:08:03Z",
+   "book": "suppliers",
+   "price": 482.04,
+   "shares": 34,
+   "side": "buy",
+   "ticker": "TMO"
+  },
+  {
+   "at": "2026-06-11T01:08:05Z",
+   "book": "suppliers",
+   "price": 321.8,
+   "shares": 31,
+   "side": "buy",
+   "ticker": "LRCX"
+  },
+  {
+   "at": "2026-06-11T01:08:07Z",
+   "book": "suppliers",
+   "price": 363.18,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "WAT"
+  },
+  {
+   "at": "2026-06-11T01:08:07Z",
+   "book": "suppliers",
+   "price": 131.62,
+   "shares": 2,
+   "side": "sell",
+   "ticker": "A"
+  },
+  {
+   "at": "2026-06-11T01:08:08Z",
+   "book": "suppliers",
+   "price": 183.63,
+   "shares": 7,
+   "side": "sell",
+   "ticker": "DHR"
+  },
+  {
+   "at": "2026-06-11T01:08:08Z",
+   "book": "suppliers",
+   "price": 347.59,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "TER"
+  },
+  {
+   "at": "2026-06-11T01:08:08Z",
+   "book": "suppliers",
+   "price": 182.17,
+   "shares": 6,
+   "side": "sell",
+   "ticker": "IQV"
+  }
+ ]
+}
