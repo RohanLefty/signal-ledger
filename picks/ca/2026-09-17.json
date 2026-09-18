@@ -1,5 +1,5 @@
 {
- "date": "2026-09-18",
+ "date": "2026-09-17",
  "holdings": {
   "etf-core": {
    "positions": [
@@ -9,7 +9,7 @@
      "weightPct": 6.77
     }
    ],
-   "value": 99813.06
+   "value": 99842.61
   },
   "long-hold": {
    "positions": [],
@@ -20,30 +20,30 @@
     {
      "shares": 557.7155,
      "ticker": "AQN.TO",
-     "weightPct": 4.18
+     "weightPct": 4.21
     }
    ],
-   "value": 99528.43
+   "value": 99567.47
   },
   "suppliers": {
    "positions": [
     {
      "shares": 156.1153,
      "ticker": "AIF.TO",
-     "weightPct": 7.15
+     "weightPct": 7.16
     },
     {
      "shares": 52.8745,
      "ticker": "CIGI.TO",
-     "weightPct": 6.64
+     "weightPct": 6.67
     },
     {
      "shares": 51.6888,
      "ticker": "EQB.TO",
-     "weightPct": 6.54
+     "weightPct": 6.66
     }
    ],
-   "value": 98191.29
+   "value": 98309.38
   }
  },
  "region": "ca",

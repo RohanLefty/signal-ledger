@@ -1,5 +1,5 @@
 {
- "date": "2026-09-18",
+ "date": "2026-09-17",
  "holdings": {
   "etf-core": {
    "positions": [
@@ -11,7 +11,7 @@
     {
      "shares": 14.2144,
      "ticker": "GNOM",
-     "weightPct": 0.88
+     "weightPct": 0.89
     },
     {
      "shares": 39,
@@ -41,7 +41,7 @@
     {
      "shares": 84.5164,
      "ticker": "PHO",
-     "weightPct": 5.4
+     "weightPct": 5.39
     },
     {
      "shares": 100.1454,
@@ -84,7 +84,7 @@
      "weightPct": 6.15
     }
    ],
-   "value": 107227.21
+   "value": 107238.58
   },
   "long-hold": {
    "positions": [
@@ -151,17 +151,17 @@
     {
      "shares": 283,
      "ticker": "AMRZ",
-     "weightPct": 10.95
+     "weightPct": 10.92
     },
     {
      "shares": 990,
      "ticker": "AOMR",
-     "weightPct": 8.11
+     "weightPct": 8.09
     },
     {
      "shares": 5.8738,
      "ticker": "ASML",
-     "weightPct": 9.57
+     "weightPct": 9.55
     },
     {
      "shares": 14,
@@ -171,57 +171,47 @@
     {
      "shares": 178,
      "ticker": "BAC",
-     "weightPct": 10.44
+     "weightPct": 10.41
     },
     {
      "shares": 55.2545,
      "ticker": "CRWV",
-     "weightPct": 4.47
+     "weightPct": 4.46
     },
     {
      "shares": 98.5853,
      "ticker": "CWCO",
-     "weightPct": 2.84
+     "weightPct": 2.83
     },
     {
      "shares": 27.6303,
      "ticker": "HD",
-     "weightPct": 8.45
+     "weightPct": 8.43
     },
     {
-     "shares": 1,
-     "ticker": "ITRI",
-     "weightPct": 0.09
-    },
-    {
-     "shares": 126,
+     "shares": 237,
      "ticker": "JEF",
-     "weightPct": 6
-    },
-    {
-     "shares": 5,
-     "ticker": "MBLY",
-     "weightPct": 0.04
+     "weightPct": 11.44
     },
     {
      "shares": 124,
      "ticker": "MP",
-     "weightPct": 6.24
+     "weightPct": 6.22
     },
     {
      "shares": 10,
      "ticker": "RKLB",
-     "weightPct": 0.68
+     "weightPct": 0.67
     },
     {
      "shares": 46.5246,
      "ticker": "SBAC",
-     "weightPct": 8.52
+     "weightPct": 8.5
     },
     {
-     "shares": 642,
+     "shares": 210,
      "ticker": "SMPL",
-     "weightPct": 6.38
+     "weightPct": 2.13
     },
     {
      "shares": 41.39,
@@ -231,27 +221,27 @@
     {
      "shares": 28.3722,
      "ticker": "UNP",
-     "weightPct": 8.01
+     "weightPct": 7.99
     },
     {
      "shares": 26,
      "ticker": "VRT",
-     "weightPct": 6.33
-    },
-    {
-     "shares": 3,
-     "ticker": "WAB",
-     "weightPct": 0.84
+     "weightPct": 6.31
     }
    ],
-   "value": 99392.12
+   "value": 99646.1
   },
   "suppliers": {
    "positions": [
     {
+     "shares": 2,
+     "ticker": "AMAT",
+     "weightPct": 0.77
+    },
+    {
      "shares": 46,
      "ticker": "BWXT",
-     "weightPct": 6.28
+     "weightPct": 6.29
     },
     {
      "shares": 58,
@@ -261,7 +251,7 @@
     {
      "shares": 46,
      "ticker": "EMR",
-     "weightPct": 6.32
+     "weightPct": 6.33
     },
     {
      "shares": 16,
@@ -271,7 +261,7 @@
     {
      "shares": 130,
      "ticker": "FLR",
-     "weightPct": 6.51
+     "weightPct": 6.52
     },
     {
      "shares": 15,
@@ -289,94 +279,88 @@
      "weightPct": 3.57
     },
     {
+     "shares": 5,
+     "ticker": "KLAC",
+     "weightPct": 0.78
+    },
+    {
      "shares": 16,
      "ticker": "LHX",
      "weightPct": 3.69
     },
     {
+     "shares": 3,
+     "ticker": "LRCX",
+     "weightPct": 0.75
+    },
+    {
      "shares": 16,
      "ticker": "PANW",
-     "weightPct": 5.59
+     "weightPct": 5.6
     },
     {
      "shares": 11,
      "ticker": "PWR",
-     "weightPct": 6.32
+     "weightPct": 6.33
     },
     {
      "shares": 28,
      "ticker": "VRT",
-     "weightPct": 6.3
+     "weightPct": 6.31
     }
    ],
-   "value": 107540.63
+   "value": 107430.65
   }
  },
  "region": "us",
  "trades": [
   {
-   "at": "2026-09-18T15:33:37Z",
+   "at": "2026-09-17T11:13:28Z",
    "book": "suppliers",
-   "price": 435.8194,
+   "price": 250.4816,
+   "shares": 5,
+   "side": "sell",
+   "ticker": "LHX"
+  },
+  {
+   "at": "2026-09-17T11:13:28Z",
+   "book": "suppliers",
+   "price": 299.1212,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "HEI"
+  },
+  {
+   "at": "2026-09-17T11:13:28Z",
+   "book": "single-stocks",
+   "price": 10.2104,
    "shares": 2,
-   "side": "sell",
-   "ticker": "AMAT"
-  },
-  {
-   "at": "2026-09-18T15:33:38Z",
-   "book": "single-stocks",
-   "price": 47.2517,
-   "shares": 111,
-   "side": "sell",
-   "ticker": "JEF"
-  },
-  {
-   "at": "2026-09-18T15:33:38Z",
-   "book": "single-stocks",
-   "price": 9.9001,
-   "shares": 432,
    "side": "buy",
    "ticker": "SMPL"
   },
   {
-   "at": "2026-09-18T15:33:38Z",
+   "at": "2026-09-17T16:13:46Z",
    "book": "single-stocks",
-   "price": 91.3823,
-   "shares": 1,
+   "price": 242.2293,
+   "shares": 16,
    "side": "buy",
-   "ticker": "ITRI"
+   "ticker": "VRT"
   },
   {
-   "at": "2026-09-18T15:33:38Z",
+   "at": "2026-09-17T16:13:46Z",
    "book": "single-stocks",
-   "price": 278.4613,
-   "shares": 3,
+   "price": 50.0316,
+   "shares": 122,
    "side": "buy",
-   "ticker": "WAB"
+   "ticker": "MP"
   },
   {
-   "at": "2026-09-18T15:33:38Z",
+   "at": "2026-09-17T16:13:46Z",
    "book": "single-stocks",
-   "price": 7.9258,
-   "shares": 5,
+   "price": 10.1204,
+   "shares": 210,
    "side": "buy",
-   "ticker": "MBLY"
-  },
-  {
-   "at": "2026-09-18T15:33:38Z",
-   "book": "suppliers",
-   "price": 282.7841,
-   "shares": 3,
-   "side": "sell",
-   "ticker": "LRCX"
-  },
-  {
-   "at": "2026-09-18T15:33:38Z",
-   "book": "suppliers",
-   "price": 173.4446,
-   "shares": 5,
-   "side": "sell",
-   "ticker": "KLAC"
+   "ticker": "SMPL"
   }
  ]
 }
