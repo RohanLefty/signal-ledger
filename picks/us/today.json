@@ -1,6 +1,23 @@
 {
- "date": "2026-09-19",
+ "date": "2026-09-20",
  "holdings": {},
  "region": "us",
- "trades": []
+ "trades": [
+  {
+   "at": "2026-09-20T10:27:41Z",
+   "book": "suppliers",
+   "price": 445.0191,
+   "shares": 15,
+   "side": "buy",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-09-20T10:27:41Z",
+   "book": "suppliers",
+   "price": 298.5217,
+   "shares": 9,
+   "side": "buy",
+   "ticker": "HEI"
+  }
+ ]
 }
