@@ -1,6 +1,57 @@
 {
  "date": "2026-09-25",
- "holdings": {},
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 11.8
+    }
+   ],
+   "value": 99316.93
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 12.39
+    }
+   ],
+   "value": 100440.08
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 16932,
+     "ticker": "RCK.V",
+     "weightPct": 12.39
+    }
+   ],
+   "value": 99749.86
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 156.1153,
+     "ticker": "AIF.TO",
+     "weightPct": 7.11
+    },
+    {
+     "shares": 52.8745,
+     "ticker": "CIGI.TO",
+     "weightPct": 6.93
+    },
+    {
+     "shares": 51.6888,
+     "ticker": "EQB.TO",
+     "weightPct": 6.63
+    }
+   ],
+   "value": 98621.96
+  }
+ },
  "region": "ca",
  "trades": [
   {
