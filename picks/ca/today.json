@@ -1,6 +1,47 @@
 {
- "date": "2026-09-24",
+ "date": "2026-09-25",
  "holdings": {},
  "region": "ca",
- "trades": []
+ "trades": [
+  {
+   "at": "2026-09-25T11:51:24Z",
+   "book": "etf-core",
+   "price": 11.2717,
+   "shares": 591.0002962808045,
+   "side": "sell",
+   "ticker": "ZFL.TO"
+  },
+  {
+   "at": "2026-09-25T11:51:25Z",
+   "book": "long-hold",
+   "price": 0.7007,
+   "shares": 17041,
+   "side": "buy",
+   "ticker": "RCK.V"
+  },
+  {
+   "at": "2026-09-25T11:51:25Z",
+   "book": "etf-core",
+   "price": 20.5928,
+   "shares": 581,
+   "side": "buy",
+   "ticker": "HLIT.TO"
+  },
+  {
+   "at": "2026-09-25T11:51:25Z",
+   "book": "single-stocks",
+   "price": 0.7007,
+   "shares": 16932,
+   "side": "buy",
+   "ticker": "RCK.V"
+  },
+  {
+   "at": "2026-09-25T11:51:25Z",
+   "book": "single-stocks",
+   "price": 7.093,
+   "shares": 557.7155247686128,
+   "side": "sell",
+   "ticker": "AQN.TO"
+  }
+ ]
 }
