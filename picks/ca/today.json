@@ -2,5 +2,30 @@
  "date": "2026-09-26",
  "holdings": {},
  "region": "ca",
- "trades": []
+ "trades": [
+  {
+   "at": "2026-09-26T11:31:29Z",
+   "book": "long-hold",
+   "price": 4.5737,
+   "shares": 2629,
+   "side": "buy",
+   "ticker": "PNG.V"
+  },
+  {
+   "at": "2026-09-26T11:31:29Z",
+   "book": "etf-core",
+   "price": 69.8302,
+   "shares": 170,
+   "side": "buy",
+   "ticker": "XGI.TO"
+  },
+  {
+   "at": "2026-09-26T11:31:29Z",
+   "book": "single-stocks",
+   "price": 4.5737,
+   "shares": 2611,
+   "side": "buy",
+   "ticker": "PNG.V"
+  }
+ ]
 }
