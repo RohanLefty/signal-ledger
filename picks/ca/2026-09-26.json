@@ -1,67 +1,57 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-26",
  "holdings": {
   "etf-core": {
    "positions": [
     {
      "shares": 581,
      "ticker": "HLIT.TO",
-     "weightPct": 11.65
+     "weightPct": 11.79
     },
     {
      "shares": 170,
      "ticker": "XGI.TO",
-     "weightPct": 11.77
+     "weightPct": 11.86
     }
    ],
-   "value": 98954.19
+   "value": 99378.86
   },
   "long-hold": {
    "positions": [
     {
      "shares": 2629,
      "ticker": "PNG.V",
-     "weightPct": 11.57
+     "weightPct": 11.99
     },
     {
      "shares": 17041,
      "ticker": "RCK.V",
-     "weightPct": 11.14
-    },
-    {
-     "shares": 229,
-     "ticker": "XGI.TO",
-     "weightPct": 16.02
+     "weightPct": 12.24
     }
    ],
-   "value": 97917.71
+   "value": 100233.77
   },
   "single-stocks": {
    "positions": [
     {
      "shares": 2611,
      "ticker": "PNG.V",
-     "weightPct": 11.5
+     "weightPct": 11.99
     },
     {
      "shares": 12699,
      "ticker": "RCK.V",
-     "weightPct": 8.31
-    },
-    {
-     "shares": 65,
-     "ticker": "WSP.TO",
-     "weightPct": 12.12
+     "weightPct": 9.19
     }
    ],
-   "value": 97825.24
+   "value": 99494.08
   },
   "suppliers": {
    "positions": [
     {
      "shares": 156.1153,
      "ticker": "AIF.TO",
-     "weightPct": 7.09
+     "weightPct": 7.22
     },
     {
      "shares": 52.8745,
@@ -71,29 +61,45 @@
     {
      "shares": 51.6888,
      "ticker": "EQB.TO",
-     "weightPct": 6.65
+     "weightPct": 6.61
     }
    ],
-   "value": 98492.15
+   "value": 98635.74
   }
  },
  "region": "ca",
  "trades": [
   {
-   "at": "2026-09-28T13:46:05Z",
+   "at": "2026-09-26T11:31:29Z",
    "book": "long-hold",
-   "price": 69.9657,
-   "shares": 229,
+   "price": 4.5737,
+   "shares": 2629,
+   "side": "buy",
+   "ticker": "PNG.V"
+  },
+  {
+   "at": "2026-09-26T11:31:29Z",
+   "book": "etf-core",
+   "price": 69.8302,
+   "shares": 170,
    "side": "buy",
    "ticker": "XGI.TO"
   },
   {
-   "at": "2026-09-28T13:46:05Z",
+   "at": "2026-09-26T11:31:29Z",
    "book": "single-stocks",
-   "price": 182.0555,
-   "shares": 65,
+   "price": 4.5737,
+   "shares": 2611,
    "side": "buy",
-   "ticker": "WSP.TO"
+   "ticker": "PNG.V"
+  },
+  {
+   "at": "2026-09-26T17:02:00Z",
+   "book": "single-stocks",
+   "price": 0.7116,
+   "shares": 4233,
+   "side": "sell",
+   "ticker": "RCK.V"
   }
  ]
 }
