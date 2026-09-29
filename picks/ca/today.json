@@ -2,5 +2,30 @@
  "date": "2026-09-29",
  "holdings": {},
  "region": "ca",
- "trades": []
+ "trades": [
+  {
+   "at": "2026-09-29T11:32:51Z",
+   "book": "long-hold",
+   "price": 46.167,
+   "shares": 339,
+   "side": "buy",
+   "ticker": "XMA.TO"
+  },
+  {
+   "at": "2026-09-29T11:32:51Z",
+   "book": "etf-core",
+   "price": 46.1643,
+   "shares": 257,
+   "side": "buy",
+   "ticker": "XMA.TO"
+  },
+  {
+   "at": "2026-09-29T11:32:51Z",
+   "book": "single-stocks",
+   "price": 86.0888,
+   "shares": 136,
+   "side": "buy",
+   "ticker": "ATRL.TO"
+  }
+ ]
 }
