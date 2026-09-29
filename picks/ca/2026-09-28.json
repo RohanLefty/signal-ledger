@@ -1,5 +1,5 @@
 {
- "date": "2026-09-29",
+ "date": "2026-09-28",
  "holdings": {
   "etf-core": {
    "positions": [
@@ -12,14 +12,9 @@
      "shares": 170,
      "ticker": "XGI.TO",
      "weightPct": 11.76
-    },
-    {
-     "shares": 257,
-     "ticker": "XMA.TO",
-     "weightPct": 11.97
     }
    ],
-   "value": 99032.06
+   "value": 99016.27
   },
   "long-hold": {
    "positions": [
@@ -37,22 +32,12 @@
      "shares": 229,
      "ticker": "XGI.TO",
      "weightPct": 16.04
-    },
-    {
-     "shares": 339,
-     "ticker": "XMA.TO",
-     "weightPct": 15.98
     }
    ],
-   "value": 97834.27
+   "value": 97807.88
   },
   "single-stocks": {
    "positions": [
-    {
-     "shares": 136,
-     "ticker": "ATRL.TO",
-     "weightPct": 11.96
-    },
     {
      "shares": 2611,
      "ticker": "PNG.V",
@@ -66,10 +51,10 @@
     {
      "shares": 65,
      "ticker": "WSP.TO",
-     "weightPct": 12.12
+     "weightPct": 12.13
     }
    ],
-   "value": 97806.08
+   "value": 97747.67
   },
   "suppliers": {
    "positions": [
@@ -86,37 +71,29 @@
     {
      "shares": 51.6888,
      "ticker": "EQB.TO",
-     "weightPct": 6.64
+     "weightPct": 6.65
     }
    ],
-   "value": 98503.77
+   "value": 98482.83
   }
  },
  "region": "ca",
  "trades": [
   {
-   "at": "2026-09-29T11:32:51Z",
+   "at": "2026-09-28T13:46:05Z",
    "book": "long-hold",
-   "price": 46.167,
-   "shares": 339,
+   "price": 69.9657,
+   "shares": 229,
    "side": "buy",
-   "ticker": "XMA.TO"
+   "ticker": "XGI.TO"
   },
   {
-   "at": "2026-09-29T11:32:51Z",
-   "book": "etf-core",
-   "price": 46.1643,
-   "shares": 257,
-   "side": "buy",
-   "ticker": "XMA.TO"
-  },
-  {
-   "at": "2026-09-29T11:32:51Z",
+   "at": "2026-09-28T13:46:05Z",
    "book": "single-stocks",
-   "price": 86.0888,
-   "shares": 136,
+   "price": 182.0555,
+   "shares": 65,
    "side": "buy",
-   "ticker": "ATRL.TO"
+   "ticker": "WSP.TO"
   }
  ]
 }
