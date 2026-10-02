@@ -1,0 +1,122 @@
+{
+ "date": "2026-09-29",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 11.62
+    },
+    {
+     "shares": 170,
+     "ticker": "XGI.TO",
+     "weightPct": 11.75
+    },
+    {
+     "shares": 257,
+     "ticker": "XMA.TO",
+     "weightPct": 11.95
+    }
+   ],
+   "value": 99166.35
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 2629,
+     "ticker": "PNG.V",
+     "weightPct": 11.63
+    },
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 11.2
+    },
+    {
+     "shares": 229,
+     "ticker": "XGI.TO",
+     "weightPct": 16.11
+    },
+    {
+     "shares": 339,
+     "ticker": "XMA.TO",
+     "weightPct": 16.05
+    }
+   ],
+   "value": 97396.49
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 136,
+     "ticker": "ATRL.TO",
+     "weightPct": 12.13
+    },
+    {
+     "shares": 2611,
+     "ticker": "PNG.V",
+     "weightPct": 11.66
+    },
+    {
+     "shares": 12699,
+     "ticker": "RCK.V",
+     "weightPct": 8.42
+    },
+    {
+     "shares": 65,
+     "ticker": "WSP.TO",
+     "weightPct": 12.28
+    }
+   ],
+   "value": 96478.92
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 156.1153,
+     "ticker": "AIF.TO",
+     "weightPct": 7.09
+    },
+    {
+     "shares": 52.8745,
+     "ticker": "CIGI.TO",
+     "weightPct": 6.86
+    },
+    {
+     "shares": 51.6888,
+     "ticker": "EQB.TO",
+     "weightPct": 6.65
+    }
+   ],
+   "value": 98427.36
+  }
+ },
+ "region": "ca",
+ "trades": [
+  {
+   "at": "2026-09-29T11:32:51Z",
+   "book": "long-hold",
+   "price": 46.167,
+   "shares": 339,
+   "side": "buy",
+   "ticker": "XMA.TO"
+  },
+  {
+   "at": "2026-09-29T11:32:51Z",
+   "book": "etf-core",
+   "price": 46.1643,
+   "shares": 257,
+   "side": "buy",
+   "ticker": "XMA.TO"
+  },
+  {
+   "at": "2026-09-29T11:32:51Z",
+   "book": "single-stocks",
+   "price": 86.0888,
+   "shares": 136,
+   "side": "buy",
+   "ticker": "ATRL.TO"
+  }
+ ]
+}

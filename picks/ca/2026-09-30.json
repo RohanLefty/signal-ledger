@@ -1,0 +1,97 @@
+{
+ "date": "2026-09-30",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 11.73
+    },
+    {
+     "shares": 170,
+     "ticker": "XGI.TO",
+     "weightPct": 11.8
+    },
+    {
+     "shares": 257,
+     "ticker": "XMA.TO",
+     "weightPct": 11.92
+    }
+   ],
+   "value": 98800.7
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 2629,
+     "ticker": "PNG.V",
+     "weightPct": 11.62
+    },
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 11.19
+    },
+    {
+     "shares": 229,
+     "ticker": "XGI.TO",
+     "weightPct": 16.1
+    },
+    {
+     "shares": 339,
+     "ticker": "XMA.TO",
+     "weightPct": 15.94
+    }
+   ],
+   "value": 97499.59
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 136,
+     "ticker": "ATRL.TO",
+     "weightPct": 12.02
+    },
+    {
+     "shares": 2611,
+     "ticker": "PNG.V",
+     "weightPct": 11.56
+    },
+    {
+     "shares": 12699,
+     "ticker": "RCK.V",
+     "weightPct": 8.35
+    },
+    {
+     "shares": 65,
+     "ticker": "WSP.TO",
+     "weightPct": 12.18
+    }
+   ],
+   "value": 97338.63
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 156.1153,
+     "ticker": "AIF.TO",
+     "weightPct": 7.1
+    },
+    {
+     "shares": 52.8745,
+     "ticker": "CIGI.TO",
+     "weightPct": 6.86
+    },
+    {
+     "shares": 51.6888,
+     "ticker": "EQB.TO",
+     "weightPct": 6.65
+    }
+   ],
+   "value": 98366.04
+  }
+ },
+ "region": "ca",
+ "trades": []
+}

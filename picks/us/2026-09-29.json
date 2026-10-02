@@ -1,0 +1,372 @@
+{
+ "date": "2026-09-29",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 18.744,
+     "ticker": "ARKW",
+     "weightPct": 2.86
+    },
+    {
+     "shares": 183,
+     "ticker": "FINX",
+     "weightPct": 4.29
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.94
+    },
+    {
+     "shares": 39,
+     "ticker": "GRID",
+     "weightPct": 6.57
+    },
+    {
+     "shares": 26.9536,
+     "ticker": "ITA",
+     "weightPct": 5.34
+    },
+    {
+     "shares": 26,
+     "ticker": "IYT",
+     "weightPct": 1.95
+    },
+    {
+     "shares": 32.4608,
+     "ticker": "NLR",
+     "weightPct": 3.19
+    },
+    {
+     "shares": 247.7394,
+     "ticker": "PBE",
+     "weightPct": 22.61
+    },
+    {
+     "shares": 84.5164,
+     "ticker": "PHO",
+     "weightPct": 5.46
+    },
+    {
+     "shares": 44,
+     "ticker": "QTUM",
+     "weightPct": 6.34
+    },
+    {
+     "shares": 100.1454,
+     "ticker": "REMX",
+     "weightPct": 6.11
+    },
+    {
+     "shares": 69,
+     "ticker": "SRVR",
+     "weightPct": 1.86
+    },
+    {
+     "shares": 17.1729,
+     "ticker": "TIP",
+     "weightPct": 1.69
+    },
+    {
+     "shares": 44,
+     "ticker": "UFO",
+     "weightPct": 1.77
+    },
+    {
+     "shares": 126.9232,
+     "ticker": "WCLD",
+     "weightPct": 4.77
+    },
+    {
+     "shares": 22.2635,
+     "ticker": "XAR",
+     "weightPct": 4.92
+    },
+    {
+     "shares": 53,
+     "ticker": "XLB",
+     "weightPct": 2.46
+    },
+    {
+     "shares": 29,
+     "ticker": "XLF",
+     "weightPct": 1.48
+    },
+    {
+     "shares": 40,
+     "ticker": "XLI",
+     "weightPct": 6.39
+    },
+    {
+     "shares": 32,
+     "ticker": "XLP",
+     "weightPct": 2.47
+    },
+    {
+     "shares": 65.1463,
+     "ticker": "XTN",
+     "weightPct": 6.1
+    }
+   ],
+   "value": 105490.09
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 69,
+     "ticker": "ALB",
+     "weightPct": 8.01
+    },
+    {
+     "shares": 10,
+     "ticker": "AMRZ",
+     "weightPct": 0.41
+    },
+    {
+     "shares": 134,
+     "ticker": "AOMR",
+     "weightPct": 1.1
+    },
+    {
+     "shares": 6,
+     "ticker": "ASML",
+     "weightPct": 11.89
+    },
+    {
+     "shares": 125,
+     "ticker": "ASTS",
+     "weightPct": 8.17
+    },
+    {
+     "shares": 217,
+     "ticker": "BOTZ",
+     "weightPct": 8.27
+    },
+    {
+     "shares": 85,
+     "ticker": "CRCL",
+     "weightPct": 7.8
+    },
+    {
+     "shares": 7,
+     "ticker": "MU",
+     "weightPct": 8.15
+    },
+    {
+     "shares": 31,
+     "ticker": "NUE",
+     "weightPct": 7.96
+    },
+    {
+     "shares": 65,
+     "ticker": "SBAC",
+     "weightPct": 11.47
+    },
+    {
+     "shares": 48,
+     "ticker": "SPH",
+     "weightPct": 0.86
+    },
+    {
+     "shares": 38,
+     "ticker": "UNP",
+     "weightPct": 11.29
+    },
+    {
+     "shares": 48,
+     "ticker": "USAR",
+     "weightPct": 0.73
+    },
+    {
+     "shares": 109,
+     "ticker": "WMB",
+     "weightPct": 8.09
+    },
+    {
+     "shares": 30,
+     "ticker": "XLF",
+     "weightPct": 1.75
+    },
+    {
+     "shares": 84,
+     "ticker": "XLU",
+     "weightPct": 3.6
+    }
+   ],
+   "value": 92043.77
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 14,
+     "ticker": "AMRZ",
+     "weightPct": 0.54
+    },
+    {
+     "shares": 94,
+     "ticker": "AOMR",
+     "weightPct": 0.72
+    },
+    {
+     "shares": 2.8738,
+     "ticker": "ASML",
+     "weightPct": 5.35
+    },
+    {
+     "shares": 14,
+     "ticker": "AVT",
+     "weightPct": 1.45
+    },
+    {
+     "shares": 17,
+     "ticker": "BAC",
+     "weightPct": 0.95
+    },
+    {
+     "shares": 2343,
+     "ticker": "COTY",
+     "weightPct": 6.39
+    },
+    {
+     "shares": 59,
+     "ticker": "CRCL",
+     "weightPct": 5.09
+    },
+    {
+     "shares": 55.2545,
+     "ticker": "CRWV",
+     "weightPct": 4.9
+    },
+    {
+     "shares": 31,
+     "ticker": "DHI",
+     "weightPct": 4.39
+    },
+    {
+     "shares": 27.6303,
+     "ticker": "HD",
+     "weightPct": 8.14
+    },
+    {
+     "shares": 144,
+     "ticker": "IONQ",
+     "weightPct": 6.51
+    },
+    {
+     "shares": 66,
+     "ticker": "ITRI",
+     "weightPct": 5.94
+    },
+    {
+     "shares": 12,
+     "ticker": "JEF",
+     "weightPct": 0.58
+    },
+    {
+     "shares": 10,
+     "ticker": "LMT",
+     "weightPct": 5.25
+    },
+    {
+     "shares": 53,
+     "ticker": "LNN",
+     "weightPct": 6.16
+    },
+    {
+     "shares": 124,
+     "ticker": "MP",
+     "weightPct": 5.7
+    },
+    {
+     "shares": 216,
+     "ticker": "MWA",
+     "weightPct": 4.73
+    },
+    {
+     "shares": 20,
+     "ticker": "NUE",
+     "weightPct": 4.83
+    },
+    {
+     "shares": 46.5246,
+     "ticker": "SBAC",
+     "weightPct": 7.72
+    },
+    {
+     "shares": 41.39,
+     "ticker": "SPH",
+     "weightPct": 0.69
+    },
+    {
+     "shares": 28.3722,
+     "ticker": "UNP",
+     "weightPct": 7.93
+    },
+    {
+     "shares": 20,
+     "ticker": "VRT",
+     "weightPct": 5.09
+    },
+    {
+     "shares": 3,
+     "ticker": "WAB",
+     "weightPct": 0.89
+    }
+   ],
+   "value": 97875.99
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 15,
+     "ticker": "AMAT",
+     "weightPct": 6.97
+    },
+    {
+     "shares": 58,
+     "ticker": "CCJ",
+     "weightPct": 4.62
+    },
+    {
+     "shares": 15,
+     "ticker": "GD",
+     "weightPct": 4.6
+    },
+    {
+     "shares": 6,
+     "ticker": "GEV",
+     "weightPct": 5.3
+    },
+    {
+     "shares": 22,
+     "ticker": "HEI",
+     "weightPct": 6.16
+    },
+    {
+     "shares": 16,
+     "ticker": "LHX",
+     "weightPct": 3.5
+    },
+    {
+     "shares": 9,
+     "ticker": "PWR",
+     "weightPct": 5.38
+    },
+    {
+     "shares": 21,
+     "ticker": "VRT",
+     "weightPct": 4.83
+    },
+    {
+     "shares": 60,
+     "ticker": "WMS",
+     "weightPct": 7.14
+    }
+   ],
+   "value": 108224.29
+  }
+ },
+ "region": "us",
+ "trades": []
+}
