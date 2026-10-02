@@ -1,42 +1,42 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-01",
  "holdings": {
   "etf-core": {
    "positions": [
     {
      "shares": 581,
      "ticker": "HLIT.TO",
-     "weightPct": 11.42
+     "weightPct": 11.52
     },
     {
      "shares": 170,
      "ticker": "XGI.TO",
-     "weightPct": 11.76
+     "weightPct": 11.67
     },
     {
      "shares": 257,
      "ticker": "XMA.TO",
-     "weightPct": 11.88
+     "weightPct": 11.86
     }
    ],
-   "value": 98557.11
+   "value": 98541.11
   },
   "long-hold": {
    "positions": [
     {
      "shares": 2629,
      "ticker": "PNG.V",
-     "weightPct": 11.59
+     "weightPct": 11.6
     },
     {
      "shares": 17041,
      "ticker": "RCK.V",
-     "weightPct": 11.03
+     "weightPct": 11.05
     },
     {
      "shares": 229,
      "ticker": "XGI.TO",
-     "weightPct": 16.04
+     "weightPct": 15.94
     },
     {
      "shares": 339,
@@ -44,7 +44,7 @@
      "weightPct": 15.86
     }
    ],
-   "value": 97335.61
+   "value": 97189.41
   },
   "single-stocks": {
    "positions": [
