@@ -1,0 +1,14 @@
+{
+ "chainLines": {
+  "chain/ca.jsonl": "{\"chainHash\":\"ec3775b2f1756060c9fc3933ee00a2f47b180585ff69fc8e0e13de042acfd2f1\",\"date\":\"2026-10-02\",\"events\":17,\"prevHash\":\"f69ed7d83c352165123d31be188647b1b4511d410cd0e89f03abe49f7456cd2c\",\"recordHash\":\"b3f3235ce3be7ded453bbdb596a3acf6878a39f31532533d1445f18befb08a6b\",\"themes\":0}",
+  "chain/us.jsonl": "{\"chainHash\":\"746c17b3166e37c7df852d7ac81a1df549493244ee6379d9c5e642e072541c07\",\"date\":\"2026-10-02\",\"events\":76,\"prevHash\":\"f9350c34d173ff97c6d23dc40da4afe4ec4792fd28ae3730b08e57c661f002be\",\"recordHash\":\"e1f5a42af43529e6d68df1f3f7f8ac224372296a37c2b96e9722991c9f23838e\",\"themes\":0}"
+ },
+ "date": "2026-10-02",
+ "files": {
+  "chain/ca.jsonl": "754c5880e104274750d86f0bfec36013128709767c0705977f28954373701941",
+  "chain/us.jsonl": "49b0c9df595b5f492a585df27ad7fb393395b464aa86a01c84841529b73c721e",
+  "picks/ca/2026-10-02.json": "226abf8caed6c84acd3577b3bf7c716e910252937953806cbb7f53b0f029481a",
+  "picks/us/2026-10-02.json": "64e89ce06f181d7e0f7329b91790bec0471aad5fcd4b04f0d4bdf92ed43a7c42"
+ },
+ "prev": "acd61929f91b226f70b02e1ea7db690d0906c97414556d8673432aaf2bdbcc82"
+}
