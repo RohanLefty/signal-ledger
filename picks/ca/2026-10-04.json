@@ -1,95 +1,95 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-04",
  "holdings": {
   "etf-core": {
    "positions": [
     {
      "shares": 581,
      "ticker": "HLIT.TO",
-     "weightPct": 11.53
+     "weightPct": 11.4
     },
     {
      "shares": 170,
      "ticker": "XGI.TO",
-     "weightPct": 11.86
+     "weightPct": 11.87
     },
     {
      "shares": 257,
      "ticker": "XMA.TO",
-     "weightPct": 11.89
+     "weightPct": 11.95
     }
    ],
-   "value": 98888.89
+   "value": 98786.5
   },
   "long-hold": {
    "positions": [
     {
      "shares": 2629,
      "ticker": "PNG.V",
-     "weightPct": 11.72
+     "weightPct": 11.17
     },
     {
      "shares": 17041,
      "ticker": "RCK.V",
-     "weightPct": 10.83
+     "weightPct": 11.04
     },
     {
      "shares": 229,
      "ticker": "XGI.TO",
-     "weightPct": 16.19
+     "weightPct": 16.24
     },
     {
      "shares": 339,
      "ticker": "XMA.TO",
-     "weightPct": 15.89
+     "weightPct": 16.01
     }
    ],
-   "value": 97572.84
+   "value": 97221.31
   },
   "single-stocks": {
    "positions": [
     {
      "shares": 136,
      "ticker": "ATRL.TO",
-     "weightPct": 12.01
+     "weightPct": 12.17
     },
     {
      "shares": 2611,
      "ticker": "PNG.V",
-     "weightPct": 11.76
+     "weightPct": 11.16
     },
     {
      "shares": 12699,
      "ticker": "RCK.V",
-     "weightPct": 8.15
+     "weightPct": 8.28
     },
     {
      "shares": 65,
      "ticker": "WSP.TO",
-     "weightPct": 11.29
+     "weightPct": 11.57
     }
    ],
-   "value": 96621.03
+   "value": 96589.4
   },
   "suppliers": {
    "positions": [
     {
      "shares": 156.1153,
      "ticker": "AIF.TO",
-     "weightPct": 7.05
+     "weightPct": 7
     },
     {
      "shares": 52.8745,
      "ticker": "CIGI.TO",
-     "weightPct": 6.89
+     "weightPct": 6.88
     },
     {
      "shares": 51.6888,
      "ticker": "EQB.TO",
-     "weightPct": 6.51
+     "weightPct": 6.54
     }
    ],
-   "value": 98335.03
+   "value": 98300.81
   }
  },
  "region": "ca",
