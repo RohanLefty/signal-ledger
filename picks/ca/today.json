@@ -1,97 +1,15 @@
 {
- "date": "2026-10-05",
- "holdings": {
-  "etf-core": {
-   "positions": [
-    {
-     "shares": 581,
-     "ticker": "HLIT.TO",
-     "weightPct": 11.53
-    },
-    {
-     "shares": 170,
-     "ticker": "XGI.TO",
-     "weightPct": 11.86
-    },
-    {
-     "shares": 257,
-     "ticker": "XMA.TO",
-     "weightPct": 11.89
-    }
-   ],
-   "value": 98888.89
-  },
-  "long-hold": {
-   "positions": [
-    {
-     "shares": 2629,
-     "ticker": "PNG.V",
-     "weightPct": 11.72
-    },
-    {
-     "shares": 17041,
-     "ticker": "RCK.V",
-     "weightPct": 10.83
-    },
-    {
-     "shares": 229,
-     "ticker": "XGI.TO",
-     "weightPct": 16.19
-    },
-    {
-     "shares": 339,
-     "ticker": "XMA.TO",
-     "weightPct": 15.89
-    }
-   ],
-   "value": 97572.84
-  },
-  "single-stocks": {
-   "positions": [
-    {
-     "shares": 136,
-     "ticker": "ATRL.TO",
-     "weightPct": 12.01
-    },
-    {
-     "shares": 2611,
-     "ticker": "PNG.V",
-     "weightPct": 11.76
-    },
-    {
-     "shares": 12699,
-     "ticker": "RCK.V",
-     "weightPct": 8.15
-    },
-    {
-     "shares": 65,
-     "ticker": "WSP.TO",
-     "weightPct": 11.29
-    }
-   ],
-   "value": 96621.03
-  },
-  "suppliers": {
-   "positions": [
-    {
-     "shares": 156.1153,
-     "ticker": "AIF.TO",
-     "weightPct": 7.05
-    },
-    {
-     "shares": 52.8745,
-     "ticker": "CIGI.TO",
-     "weightPct": 6.89
-    },
-    {
-     "shares": 51.6888,
-     "ticker": "EQB.TO",
-     "weightPct": 6.51
-    }
-   ],
-   "value": 98335.03
-  }
- },
+ "date": "2026-10-06",
+ "holdings": {},
  "region": "ca",
- "trades": []
+ "trades": [
+  {
+   "at": "2026-10-06T12:48:02Z",
+   "book": "single-stocks",
+   "price": 42.0836,
+   "shares": 275,
+   "side": "buy",
+   "ticker": "MDA.TO"
+  }
+ ]
 }
