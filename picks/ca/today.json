@@ -1,15 +1,6 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "holdings": {},
  "region": "ca",
- "trades": [
-  {
-   "at": "2026-10-06T12:48:02Z",
-   "book": "single-stocks",
-   "price": 42.0836,
-   "shares": 275,
-   "side": "buy",
-   "ticker": "MDA.TO"
-  }
- ]
+ "trades": []
 }
