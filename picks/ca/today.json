@@ -1,31 +1,6 @@
 {
- "date": "2026-10-08",
+ "date": "2026-10-09",
  "holdings": {},
  "region": "ca",
- "trades": [
-  {
-   "at": "2026-10-08T15:34:57Z",
-   "book": "etf-core",
-   "price": 55.7491,
-   "shares": 211,
-   "side": "buy",
-   "ticker": "ZGI.TO"
-  },
-  {
-   "at": "2026-10-08T15:34:57Z",
-   "book": "single-stocks",
-   "price": 4.586,
-   "shares": 887,
-   "side": "sell",
-   "ticker": "PNG.V"
-  },
-  {
-   "at": "2026-10-08T15:34:57Z",
-   "book": "single-stocks",
-   "price": 3.3927,
-   "shares": 1193,
-   "side": "buy",
-   "ticker": "NOU.V"
-  }
- ]
+ "trades": []
 }
