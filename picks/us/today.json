@@ -1,5 +1,5 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "holdings": {
   "etf-core": {
    "positions": [
@@ -49,9 +49,9 @@
      "weightPct": 5.47
     },
     {
-     "shares": 44,
+     "shares": 14,
      "ticker": "QTUM",
-     "weightPct": 6.31
+     "weightPct": 2.01
     },
     {
      "shares": 100.1454,
@@ -109,7 +109,7 @@
      "weightPct": 6.13
     }
    ],
-   "value": 105987.38
+   "value": 105982.87
   },
   "long-hold": {
    "positions": [
@@ -164,9 +164,9 @@
      "weightPct": 0.44
     },
     {
-     "shares": 113,
+     "shares": 11,
      "ticker": "IONQ",
-     "weightPct": 4.85
+     "weightPct": 0.47
     },
     {
      "shares": 13,
@@ -224,7 +224,7 @@
      "weightPct": 3.74
     }
    ],
-   "value": 92966.9
+   "value": 92962.8
   },
   "single-stocks": {
    "positions": [
@@ -289,9 +289,9 @@
      "weightPct": 4.07
     },
     {
-     "shares": 144,
+     "shares": 14,
      "ticker": "IONQ",
-     "weightPct": 5.89
+     "weightPct": 0.57
     },
     {
      "shares": 66,
@@ -356,7 +356,7 @@
     {
      "shares": 20,
      "ticker": "VRT",
-     "weightPct": 4.97
+     "weightPct": 4.98
     },
     {
      "shares": 3,
@@ -364,7 +364,7 @@
      "weightPct": 0.88
     }
    ],
-   "value": 97603.38
+   "value": 97598.43
   },
   "suppliers": {
    "positions": [
@@ -379,9 +379,9 @@
      "weightPct": 6.06
     },
     {
-     "shares": 40,
+     "shares": 4,
      "ticker": "KLAC",
-     "weightPct": 7.22
+     "weightPct": 0.72
     },
     {
      "shares": 16,
@@ -404,34 +404,42 @@
      "weightPct": 6.97
     }
    ],
-   "value": 108300.39
+   "value": 108294.04
   }
  },
  "region": "us",
  "trades": [
   {
-   "at": "2026-10-10T16:06:58Z",
+   "at": "2026-10-11T16:05:51Z",
    "book": "single-stocks",
-   "price": 509.2026,
-   "shares": 2,
+   "price": 39.8597,
+   "shares": 130,
    "side": "sell",
-   "ticker": "LMT"
+   "ticker": "IONQ"
   },
   {
-   "at": "2026-10-10T16:06:58Z",
-   "book": "single-stocks",
-   "price": 134.7774,
-   "shares": 28,
+   "at": "2026-10-11T16:05:51Z",
+   "book": "long-hold",
+   "price": 39.8597,
+   "shares": 102,
    "side": "sell",
-   "ticker": "DHI"
+   "ticker": "IONQ"
   },
   {
-   "at": "2026-10-10T16:06:58Z",
-   "book": "single-stocks",
-   "price": 264.5986,
-   "shares": 4,
+   "at": "2026-10-11T16:05:51Z",
+   "book": "etf-core",
+   "price": 151.9429,
+   "shares": 30,
    "side": "sell",
-   "ticker": "HII"
+   "ticker": "QTUM"
+  },
+  {
+   "at": "2026-10-11T16:05:51Z",
+   "book": "suppliers",
+   "price": 195.4213,
+   "shares": 36,
+   "side": "sell",
+   "ticker": "KLAC"
   }
  ]
 }
