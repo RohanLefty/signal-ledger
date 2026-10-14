@@ -1,0 +1,598 @@
+{
+ "date": "2026-10-12",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 45.744,
+     "ticker": "ARKW",
+     "weightPct": 7.27
+    },
+    {
+     "shares": 194,
+     "ticker": "BOTZ",
+     "weightPct": 6.47
+    },
+    {
+     "shares": 17,
+     "ticker": "FINX",
+     "weightPct": 0.4
+    },
+    {
+     "shares": 14.2144,
+     "ticker": "GNOM",
+     "weightPct": 0.91
+    },
+    {
+     "shares": 39,
+     "ticker": "GRID",
+     "weightPct": 6.68
+    },
+    {
+     "shares": 26.9536,
+     "ticker": "ITA",
+     "weightPct": 5.31
+    },
+    {
+     "shares": 61,
+     "ticker": "IYT",
+     "weightPct": 4.65
+    },
+    {
+     "shares": 61.4608,
+     "ticker": "NLR",
+     "weightPct": 5.91
+    },
+    {
+     "shares": 84.5164,
+     "ticker": "PHO",
+     "weightPct": 5.55
+    },
+    {
+     "shares": 14,
+     "ticker": "QTUM",
+     "weightPct": 1.99
+    },
+    {
+     "shares": 30.1454,
+     "ticker": "REMX",
+     "weightPct": 1.67
+    },
+    {
+     "shares": 11,
+     "ticker": "SMH",
+     "weightPct": 6.21
+    },
+    {
+     "shares": 69,
+     "ticker": "SRVR",
+     "weightPct": 1.9
+    },
+    {
+     "shares": 17.1729,
+     "ticker": "TIP",
+     "weightPct": 1.71
+    },
+    {
+     "shares": 44,
+     "ticker": "UFO",
+     "weightPct": 1.75
+    },
+    {
+     "shares": 126.9232,
+     "ticker": "WCLD",
+     "weightPct": 5.24
+    },
+    {
+     "shares": 22.2635,
+     "ticker": "XAR",
+     "weightPct": 4.82
+    },
+    {
+     "shares": 53,
+     "ticker": "XLB",
+     "weightPct": 2.51
+    },
+    {
+     "shares": 103,
+     "ticker": "XLE",
+     "weightPct": 6.47
+    },
+    {
+     "shares": 62,
+     "ticker": "XLF",
+     "weightPct": 3.25
+    },
+    {
+     "shares": 4,
+     "ticker": "XLI",
+     "weightPct": 0.65
+    },
+    {
+     "shares": 81,
+     "ticker": "XLP",
+     "weightPct": 6.47
+    },
+    {
+     "shares": 13,
+     "ticker": "XSD",
+     "weightPct": 6.35
+    },
+    {
+     "shares": 65.1463,
+     "ticker": "XTN",
+     "weightPct": 6.17
+    }
+   ],
+   "value": 104997.03
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 65,
+     "ticker": "AIR",
+     "weightPct": 7.17
+    },
+    {
+     "shares": 7,
+     "ticker": "ALB",
+     "weightPct": 0.74
+    },
+    {
+     "shares": 9,
+     "ticker": "AMAT",
+     "weightPct": 4.84
+    },
+    {
+     "shares": 10,
+     "ticker": "AMRZ",
+     "weightPct": 0.39
+    },
+    {
+     "shares": 134,
+     "ticker": "AOMR",
+     "weightPct": 1.04
+    },
+    {
+     "shares": 6,
+     "ticker": "ASML",
+     "weightPct": 11.41
+    },
+    {
+     "shares": 12,
+     "ticker": "ASTS",
+     "weightPct": 0.7
+    },
+    {
+     "shares": 213,
+     "ticker": "BOTZ",
+     "weightPct": 8.05
+    },
+    {
+     "shares": 775,
+     "ticker": "COHN",
+     "weightPct": 8.78
+    },
+    {
+     "shares": 8,
+     "ticker": "CRCL",
+     "weightPct": 0.73
+    },
+    {
+     "shares": 57,
+     "ticker": "DUOT",
+     "weightPct": 0.41
+    },
+    {
+     "shares": 11,
+     "ticker": "IONQ",
+     "weightPct": 0.43
+    },
+    {
+     "shares": 13,
+     "ticker": "LMT",
+     "weightPct": 7.2
+    },
+    {
+     "shares": 1,
+     "ticker": "MU",
+     "weightPct": 1.08
+    },
+    {
+     "shares": 31,
+     "ticker": "NUE",
+     "weightPct": 8.48
+    },
+    {
+     "shares": 65,
+     "ticker": "SBAC",
+     "weightPct": 12.84
+    },
+    {
+     "shares": 3,
+     "ticker": "SMH",
+     "weightPct": 1.92
+    },
+    {
+     "shares": 48,
+     "ticker": "SPH",
+     "weightPct": 0.89
+    },
+    {
+     "shares": 38,
+     "ticker": "UNP",
+     "weightPct": 11.47
+    },
+    {
+     "shares": 48,
+     "ticker": "USAR",
+     "weightPct": 0.62
+    },
+    {
+     "shares": 11,
+     "ticker": "WMB",
+     "weightPct": 0.87
+    },
+    {
+     "shares": 98,
+     "ticker": "XLF",
+     "weightPct": 5.83
+    },
+    {
+     "shares": 84,
+     "ticker": "XLU",
+     "weightPct": 3.77
+    }
+   ],
+   "value": 92632.48
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 57,
+     "ticker": "AIR",
+     "weightPct": 6
+    },
+    {
+     "shares": 14,
+     "ticker": "AMRZ",
+     "weightPct": 0.53
+    },
+    {
+     "shares": 94,
+     "ticker": "AOMR",
+     "weightPct": 0.7
+    },
+    {
+     "shares": 2.8738,
+     "ticker": "ASML",
+     "weightPct": 5.22
+    },
+    {
+     "shares": 14,
+     "ticker": "AVT",
+     "weightPct": 1.41
+    },
+    {
+     "shares": 17,
+     "ticker": "BAC",
+     "weightPct": 0.95
+    },
+    {
+     "shares": 264,
+     "ticker": "BKV",
+     "weightPct": 6.59
+    },
+    {
+     "shares": 247,
+     "ticker": "CAE",
+     "weightPct": 6.05
+    },
+    {
+     "shares": 145,
+     "ticker": "CNM",
+     "weightPct": 6.1
+    },
+    {
+     "shares": 2343,
+     "ticker": "COTY",
+     "weightPct": 6.96
+    },
+    {
+     "shares": 4,
+     "ticker": "CRCL",
+     "weightPct": 0.35
+    },
+    {
+     "shares": 55.2545,
+     "ticker": "CRWV",
+     "weightPct": 4.58
+    },
+    {
+     "shares": 3,
+     "ticker": "DHI",
+     "weightPct": 0.42
+    },
+    {
+     "shares": 110,
+     "ticker": "EQT",
+     "weightPct": 6.03
+    },
+    {
+     "shares": 14,
+     "ticker": "IONQ",
+     "weightPct": 0.52
+    },
+    {
+     "shares": 66,
+     "ticker": "ITRI",
+     "weightPct": 5.82
+    },
+    {
+     "shares": 12,
+     "ticker": "JEF",
+     "weightPct": 0.56
+    },
+    {
+     "shares": 1,
+     "ticker": "LNN",
+     "weightPct": 0.12
+    },
+    {
+     "shares": 122,
+     "ticker": "MP",
+     "weightPct": 5.52
+    },
+    {
+     "shares": 1,
+     "ticker": "MU",
+     "weightPct": 1.03
+    },
+    {
+     "shares": 21,
+     "ticker": "MWA",
+     "weightPct": 0.48
+    },
+    {
+     "shares": 474,
+     "ticker": "NMG",
+     "weightPct": 0.5
+    },
+    {
+     "shares": 18,
+     "ticker": "NUE",
+     "weightPct": 4.7
+    },
+    {
+     "shares": 83,
+     "ticker": "RKLB",
+     "weightPct": 5.65
+    },
+    {
+     "shares": 46.5246,
+     "ticker": "SBAC",
+     "weightPct": 8.77
+    },
+    {
+     "shares": 8,
+     "ticker": "UBER",
+     "weightPct": 0.58
+    },
+    {
+     "shares": 28.3722,
+     "ticker": "UNP",
+     "weightPct": 8.18
+    },
+    {
+     "shares": 20,
+     "ticker": "VRT",
+     "weightPct": 4.97
+    },
+    {
+     "shares": 3,
+     "ticker": "WAB",
+     "weightPct": 0.89
+    }
+   ],
+   "value": 97012.09
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 2,
+     "ticker": "AMAT",
+     "weightPct": 0.92
+    },
+    {
+     "shares": 22,
+     "ticker": "HEI",
+     "weightPct": 6.09
+    },
+    {
+     "shares": 16,
+     "ticker": "LHX",
+     "weightPct": 3.51
+    },
+    {
+     "shares": 9,
+     "ticker": "PWR",
+     "weightPct": 5.85
+    },
+    {
+     "shares": 32,
+     "ticker": "VRT",
+     "weightPct": 7.14
+    },
+    {
+     "shares": 60,
+     "ticker": "WMS",
+     "weightPct": 7.06
+    }
+   ],
+   "value": 107923.47
+  }
+ },
+ "region": "us",
+ "trades": [
+  {
+   "at": "2026-10-12T16:06:53Z",
+   "book": "etf-core",
+   "price": 58.2301,
+   "shares": 70,
+   "side": "sell",
+   "ticker": "REMX"
+  },
+  {
+   "at": "2026-10-12T16:06:54Z",
+   "book": "suppliers",
+   "price": 497.3316,
+   "shares": 13,
+   "side": "sell",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-10-12T16:06:54Z",
+   "book": "long-hold",
+   "price": 996.4421,
+   "shares": 6,
+   "side": "sell",
+   "ticker": "MU"
+  },
+  {
+   "at": "2026-10-12T16:06:54Z",
+   "book": "single-stocks",
+   "price": 996.4421,
+   "shares": 3,
+   "side": "sell",
+   "ticker": "MU"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "long-hold",
+   "price": 35.0518,
+   "shares": 147,
+   "side": "buy",
+   "ticker": "BOTZ"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "long-hold",
+   "price": 498.0883,
+   "shares": 9,
+   "side": "buy",
+   "ticker": "AMAT"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "etf-core",
+   "price": 96.3673,
+   "shares": 247.73937817416078,
+   "side": "sell",
+   "ticker": "PBE"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "etf-core",
+   "price": 101.0875,
+   "shares": 29,
+   "side": "buy",
+   "ticker": "NLR"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "etf-core",
+   "price": 35.0521,
+   "shares": 194,
+   "side": "buy",
+   "ticker": "BOTZ"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "etf-core",
+   "price": 592.8303,
+   "shares": 11,
+   "side": "buy",
+   "ticker": "SMH"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "etf-core",
+   "price": 513.1946,
+   "shares": 13,
+   "side": "buy",
+   "ticker": "XSD"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "etf-core",
+   "price": 80.036,
+   "shares": 35,
+   "side": "buy",
+   "ticker": "IYT"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "etf-core",
+   "price": 66.0402,
+   "shares": 103,
+   "side": "buy",
+   "ticker": "XLE"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "single-stocks",
+   "price": 512.9295,
+   "shares": 8,
+   "side": "sell",
+   "ticker": "LMT"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "single-stocks",
+   "price": 265.6273,
+   "shares": 15,
+   "side": "sell",
+   "ticker": "HII"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "single-stocks",
+   "price": 53.2305,
+   "shares": 110,
+   "side": "buy",
+   "ticker": "EQT"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "single-stocks",
+   "price": 66.0352,
+   "shares": 83,
+   "side": "buy",
+   "ticker": "RKLB"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "single-stocks",
+   "price": 102.1984,
+   "shares": 57,
+   "side": "buy",
+   "ticker": "AIR"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "single-stocks",
+   "price": 23.7837,
+   "shares": 247,
+   "side": "buy",
+   "ticker": "CAE"
+  },
+  {
+   "at": "2026-10-12T16:07:29Z",
+   "book": "suppliers",
+   "price": 191.4694,
+   "shares": 4,
+   "side": "sell",
+   "ticker": "KLAC"
+  }
+ ]
+}

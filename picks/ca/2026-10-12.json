@@ -1,0 +1,147 @@
+{
+ "date": "2026-10-12",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 11.33
+    },
+    {
+     "shares": 43,
+     "ticker": "XGI.TO",
+     "weightPct": 2.95
+    },
+    {
+     "shares": 140,
+     "ticker": "XIT.TO",
+     "weightPct": 12.05
+    },
+    {
+     "shares": 257,
+     "ticker": "XMA.TO",
+     "weightPct": 12.05
+    },
+    {
+     "shares": 343,
+     "ticker": "XUT.TO",
+     "weightPct": 12.01
+    },
+    {
+     "shares": 211,
+     "ticker": "ZGI.TO",
+     "weightPct": 12.17
+    },
+    {
+     "shares": 414,
+     "ticker": "ZUT.TO",
+     "weightPct": 11.96
+    }
+   ],
+   "value": 98756.89
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 117,
+     "ticker": "CGY.TO",
+     "weightPct": 9.67
+    },
+    {
+     "shares": 2213,
+     "ticker": "CVO.TO",
+     "weightPct": 10.72
+    },
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 10.49
+    },
+    {
+     "shares": 3927,
+     "ticker": "SYZ.TO",
+     "weightPct": 9.51
+    },
+    {
+     "shares": 229,
+     "ticker": "XGI.TO",
+     "weightPct": 15.93
+    },
+    {
+     "shares": 115,
+     "ticker": "XIT.TO",
+     "weightPct": 10.03
+    },
+    {
+     "shares": 339,
+     "ticker": "XMA.TO",
+     "weightPct": 16.11
+    },
+    {
+     "shares": 185,
+     "ticker": "ZUT.TO",
+     "weightPct": 5.42
+    }
+   ],
+   "value": 97455.51
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 136,
+     "ticker": "ATRL.TO",
+     "weightPct": 12.5
+    },
+    {
+     "shares": 141,
+     "ticker": "CGY.TO",
+     "weightPct": 11.84
+    },
+    {
+     "shares": 2660,
+     "ticker": "CVO.TO",
+     "weightPct": 13.09
+    },
+    {
+     "shares": 2373,
+     "ticker": "NOU.V",
+     "weightPct": 8.39
+    },
+    {
+     "shares": 504,
+     "ticker": "NPI.TO",
+     "weightPct": 11.71
+    },
+    {
+     "shares": 12699,
+     "ticker": "RCK.V",
+     "weightPct": 7.94
+    },
+    {
+     "shares": 3303,
+     "ticker": "SYZ.TO",
+     "weightPct": 8.13
+    },
+    {
+     "shares": 39,
+     "ticker": "WSP.TO",
+     "weightPct": 6.65
+    }
+   ],
+   "value": 95937.03
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 3,
+     "ticker": "CSU.TO",
+     "weightPct": 9.19
+    }
+   ],
+   "value": 98054.59
+  }
+ },
+ "region": "ca",
+ "trades": []
+}
