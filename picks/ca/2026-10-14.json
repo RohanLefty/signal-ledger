@@ -1,0 +1,252 @@
+{
+ "date": "2026-10-14",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 10.75
+    },
+    {
+     "shares": 173,
+     "ticker": "XGI.TO",
+     "weightPct": 11.99
+    },
+    {
+     "shares": 140,
+     "ticker": "XIT.TO",
+     "weightPct": 12.31
+    },
+    {
+     "shares": 259,
+     "ticker": "XMA.TO",
+     "weightPct": 11.98
+    },
+    {
+     "shares": 343,
+     "ticker": "XUT.TO",
+     "weightPct": 12.04
+    },
+    {
+     "shares": 211,
+     "ticker": "ZGI.TO",
+     "weightPct": 12.38
+    },
+    {
+     "shares": 414,
+     "ticker": "ZUT.TO",
+     "weightPct": 11.96
+    }
+   ],
+   "value": 98274.52
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 1325,
+     "ticker": "ASTL.TO",
+     "weightPct": 8.34
+    },
+    {
+     "shares": 117,
+     "ticker": "CGY.TO",
+     "weightPct": 9.78
+    },
+    {
+     "shares": 82,
+     "ticker": "CJT.TO",
+     "weightPct": 7.27
+    },
+    {
+     "shares": 2213,
+     "ticker": "CVO.TO",
+     "weightPct": 10.86
+    },
+    {
+     "shares": 11284,
+     "ticker": "ELBM.V",
+     "weightPct": 8.03
+    },
+    {
+     "shares": 3103,
+     "ticker": "ETMC.V",
+     "weightPct": 8.35
+    },
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 10.54
+    },
+    {
+     "shares": 3927,
+     "ticker": "SYZ.TO",
+     "weightPct": 9.51
+    },
+    {
+     "shares": 58,
+     "ticker": "XGI.TO",
+     "weightPct": 4.07
+    },
+    {
+     "shares": 115,
+     "ticker": "XIT.TO",
+     "weightPct": 10.25
+    },
+    {
+     "shares": 85,
+     "ticker": "XMA.TO",
+     "weightPct": 3.98
+    },
+    {
+     "shares": 185,
+     "ticker": "ZUT.TO",
+     "weightPct": 5.41
+    }
+   ],
+   "value": 97015.03
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 1497,
+     "ticker": "ASTL.TO",
+     "weightPct": 10.08
+    },
+    {
+     "shares": 50,
+     "ticker": "ATRL.TO",
+     "weightPct": 4.81
+    },
+    {
+     "shares": 141,
+     "ticker": "CGY.TO",
+     "weightPct": 12.59
+    },
+    {
+     "shares": 87,
+     "ticker": "CJT.TO",
+     "weightPct": 8.25
+    },
+    {
+     "shares": 2660,
+     "ticker": "CVO.TO",
+     "weightPct": 13.95
+    },
+    {
+     "shares": 10501,
+     "ticker": "ELBM.V",
+     "weightPct": 7.98
+    },
+    {
+     "shares": 2363,
+     "ticker": "ETMC.V",
+     "weightPct": 6.79
+    },
+    {
+     "shares": 2373,
+     "ticker": "NOU.V",
+     "weightPct": 3.76
+    },
+    {
+     "shares": 504,
+     "ticker": "NPI.TO",
+     "weightPct": 12.33
+    },
+    {
+     "shares": 12699,
+     "ticker": "RCK.V",
+     "weightPct": 8.39
+    },
+    {
+     "shares": 3303,
+     "ticker": "SYZ.TO",
+     "weightPct": 8.55
+    }
+   ],
+   "value": 90777.19
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 3,
+     "ticker": "CSU.TO",
+     "weightPct": 9.44
+    },
+    {
+     "shares": 71,
+     "ticker": "FTT.TO",
+     "weightPct": 7.57
+    }
+   ],
+   "value": 98316.17
+  }
+ },
+ "region": "ca",
+ "trades": [
+  {
+   "at": "2026-10-14T17:02:14Z",
+   "book": "single-stocks",
+   "price": 163.2977,
+   "shares": 39,
+   "side": "sell",
+   "ticker": "WSP.TO"
+  },
+  {
+   "at": "2026-10-14T17:02:16Z",
+   "book": "single-stocks",
+   "price": 87.2494,
+   "shares": 36,
+   "side": "sell",
+   "ticker": "ATRL.TO"
+  },
+  {
+   "at": "2026-10-14T17:02:16Z",
+   "book": "long-hold",
+   "price": 67.6386,
+   "shares": 171,
+   "side": "sell",
+   "ticker": "XGI.TO"
+  },
+  {
+   "at": "2026-10-14T17:02:33Z",
+   "book": "long-hold",
+   "price": 2.6121,
+   "shares": 3103,
+   "side": "buy",
+   "ticker": "ETMC.V"
+  },
+  {
+   "at": "2026-10-14T17:02:33Z",
+   "book": "etf-core",
+   "price": 45.4809,
+   "shares": 194,
+   "side": "buy",
+   "ticker": "XMA.TO"
+  },
+  {
+   "at": "2026-10-14T17:02:33Z",
+   "book": "single-stocks",
+   "price": 87.391,
+   "shares": 50,
+   "side": "buy",
+   "ticker": "ATRL.TO"
+  },
+  {
+   "at": "2026-10-14T17:02:33Z",
+   "book": "single-stocks",
+   "price": 2.6121,
+   "shares": 2363,
+   "side": "buy",
+   "ticker": "ETMC.V"
+  },
+  {
+   "at": "2026-10-14T17:02:33Z",
+   "book": "suppliers",
+   "price": 104.9139,
+   "shares": 71,
+   "side": "buy",
+   "ticker": "FTT.TO"
+  }
+ ]
+}
