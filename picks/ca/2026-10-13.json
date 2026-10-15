@@ -1,0 +1,282 @@
+{
+ "date": "2026-10-13",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 11.39
+    },
+    {
+     "shares": 173,
+     "ticker": "XGI.TO",
+     "weightPct": 12
+    },
+    {
+     "shares": 140,
+     "ticker": "XIT.TO",
+     "weightPct": 12.11
+    },
+    {
+     "shares": 65,
+     "ticker": "XMA.TO",
+     "weightPct": 3.06
+    },
+    {
+     "shares": 343,
+     "ticker": "XUT.TO",
+     "weightPct": 12.07
+    },
+    {
+     "shares": 211,
+     "ticker": "ZGI.TO",
+     "weightPct": 12.22
+    },
+    {
+     "shares": 414,
+     "ticker": "ZUT.TO",
+     "weightPct": 12.02
+    }
+   ],
+   "value": 98284.39
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 1325,
+     "ticker": "ASTL.TO",
+     "weightPct": 8.39
+    },
+    {
+     "shares": 117,
+     "ticker": "CGY.TO",
+     "weightPct": 9.7
+    },
+    {
+     "shares": 82,
+     "ticker": "CJT.TO",
+     "weightPct": 7.35
+    },
+    {
+     "shares": 2213,
+     "ticker": "CVO.TO",
+     "weightPct": 10.75
+    },
+    {
+     "shares": 11284,
+     "ticker": "ELBM.V",
+     "weightPct": 8.36
+    },
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 10.53
+    },
+    {
+     "shares": 3927,
+     "ticker": "SYZ.TO",
+     "weightPct": 9.54
+    },
+    {
+     "shares": 229,
+     "ticker": "XGI.TO",
+     "weightPct": 16.07
+    },
+    {
+     "shares": 115,
+     "ticker": "XIT.TO",
+     "weightPct": 10.06
+    },
+    {
+     "shares": 85,
+     "ticker": "XMA.TO",
+     "weightPct": 4.05
+    },
+    {
+     "shares": 185,
+     "ticker": "ZUT.TO",
+     "weightPct": 5.43
+    }
+   ],
+   "value": 97133.15
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 1497,
+     "ticker": "ASTL.TO",
+     "weightPct": 10.14
+    },
+    {
+     "shares": 36,
+     "ticker": "ATRL.TO",
+     "weightPct": 3.5
+    },
+    {
+     "shares": 141,
+     "ticker": "CGY.TO",
+     "weightPct": 12.5
+    },
+    {
+     "shares": 87,
+     "ticker": "CJT.TO",
+     "weightPct": 8.34
+    },
+    {
+     "shares": 2660,
+     "ticker": "CVO.TO",
+     "weightPct": 13.82
+    },
+    {
+     "shares": 10501,
+     "ticker": "ELBM.V",
+     "weightPct": 8.32
+    },
+    {
+     "shares": 2373,
+     "ticker": "NOU.V",
+     "weightPct": 3.89
+    },
+    {
+     "shares": 504,
+     "ticker": "NPI.TO",
+     "weightPct": 12.37
+    },
+    {
+     "shares": 12699,
+     "ticker": "RCK.V",
+     "weightPct": 8.39
+    },
+    {
+     "shares": 3303,
+     "ticker": "SYZ.TO",
+     "weightPct": 8.58
+    },
+    {
+     "shares": 39,
+     "ticker": "WSP.TO",
+     "weightPct": 7.03
+    }
+   ],
+   "value": 90820.01
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 3,
+     "ticker": "CSU.TO",
+     "weightPct": 9.17
+    }
+   ],
+   "value": 98323.12
+  }
+ },
+ "region": "ca",
+ "trades": [
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "long-hold",
+   "price": 0.7206,
+   "shares": 11284,
+   "side": "buy",
+   "ticker": "ELBM.V"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "long-hold",
+   "price": 6.157,
+   "shares": 1325,
+   "side": "buy",
+   "ticker": "ASTL.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "long-hold",
+   "price": 87.1697,
+   "shares": 82,
+   "side": "buy",
+   "ticker": "CJT.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "etf-core",
+   "price": 68.5305,
+   "shares": 130,
+   "side": "buy",
+   "ticker": "XGI.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "etf-core",
+   "price": 46.2589,
+   "shares": 192,
+   "side": "sell",
+   "ticker": "XMA.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "long-hold",
+   "price": 46.257,
+   "shares": 254,
+   "side": "sell",
+   "ticker": "XMA.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "single-stocks",
+   "price": 88.1183,
+   "shares": 49,
+   "side": "sell",
+   "ticker": "ATRL.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "single-stocks",
+   "price": 88.1187,
+   "shares": 30,
+   "side": "sell",
+   "ticker": "ATRL.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "single-stocks",
+   "price": 88.1192,
+   "shares": 12,
+   "side": "sell",
+   "ticker": "ATRL.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "single-stocks",
+   "price": 88.1192,
+   "shares": 9,
+   "side": "sell",
+   "ticker": "ATRL.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "single-stocks",
+   "price": 6.1572,
+   "shares": 1497,
+   "side": "buy",
+   "ticker": "ASTL.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "single-stocks",
+   "price": 87.1697,
+   "shares": 87,
+   "side": "buy",
+   "ticker": "CJT.TO"
+  },
+  {
+   "at": "2026-10-13T17:02:19Z",
+   "book": "single-stocks",
+   "price": 0.7206,
+   "shares": 10501,
+   "side": "buy",
+   "ticker": "ELBM.V"
+  }
+ ]
+}
