@@ -1,0 +1,172 @@
+{
+ "date": "2026-10-18",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 10.38
+    },
+    {
+     "shares": 173,
+     "ticker": "XGI.TO",
+     "weightPct": 12
+    },
+    {
+     "shares": 35,
+     "ticker": "XIT.TO",
+     "weightPct": 2.99
+    },
+    {
+     "shares": 259,
+     "ticker": "XMA.TO",
+     "weightPct": 11.95
+    },
+    {
+     "shares": 343,
+     "ticker": "XUT.TO",
+     "weightPct": 12.36
+    },
+    {
+     "shares": 211,
+     "ticker": "ZGI.TO",
+     "weightPct": 12.53
+    },
+    {
+     "shares": 414,
+     "ticker": "ZUT.TO",
+     "weightPct": 12.18
+    }
+   ],
+   "value": 97510.75
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 1325,
+     "ticker": "ASTL.TO",
+     "weightPct": 7.62
+    },
+    {
+     "shares": 82,
+     "ticker": "CJT.TO",
+     "weightPct": 7.07
+    },
+    {
+     "shares": 2213,
+     "ticker": "CVO.TO",
+     "weightPct": 10.56
+    },
+    {
+     "shares": 11284,
+     "ticker": "ELBM.V",
+     "weightPct": 7.61
+    },
+    {
+     "shares": 3103,
+     "ticker": "ETMC.V",
+     "weightPct": 8.15
+    },
+    {
+     "shares": 2237,
+     "ticker": "NOU.V",
+     "weightPct": 7.64
+    },
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 13.56
+    },
+    {
+     "shares": 58,
+     "ticker": "XGI.TO",
+     "weightPct": 3.95
+    },
+    {
+     "shares": 29,
+     "ticker": "XIT.TO",
+     "weightPct": 2.43
+    },
+    {
+     "shares": 85,
+     "ticker": "XMA.TO",
+     "weightPct": 3.85
+    },
+    {
+     "shares": 138,
+     "ticker": "ZGI.TO",
+     "weightPct": 8.04
+    },
+    {
+     "shares": 185,
+     "ticker": "ZUT.TO",
+     "weightPct": 5.34
+    }
+   ],
+   "value": 99313.79
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 1497,
+     "ticker": "ASTL.TO",
+     "weightPct": 8.8
+    },
+    {
+     "shares": 50,
+     "ticker": "ATRL.TO",
+     "weightPct": 4.43
+    },
+    {
+     "shares": 87,
+     "ticker": "CJT.TO",
+     "weightPct": 7.67
+    },
+    {
+     "shares": 2660,
+     "ticker": "CVO.TO",
+     "weightPct": 12.98
+    },
+    {
+     "shares": 10501,
+     "ticker": "ELBM.V",
+     "weightPct": 7.24
+    },
+    {
+     "shares": 2363,
+     "ticker": "ETMC.V",
+     "weightPct": 6.35
+    },
+    {
+     "shares": 504,
+     "ticker": "NPI.TO",
+     "weightPct": 11.51
+    },
+    {
+     "shares": 12699,
+     "ticker": "RCK.V",
+     "weightPct": 10.33
+    },
+    {
+     "shares": 37,
+     "ticker": "WSP.TO",
+     "weightPct": 6.33
+    }
+   ],
+   "value": 97139.98
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 71,
+     "ticker": "FTT.TO",
+     "weightPct": 7.33
+    }
+   ],
+   "value": 98275.22
+  }
+ },
+ "region": "ca",
+ "trades": []
+}
