@@ -1,6 +1,175 @@
 {
  "date": "2026-10-21",
- "holdings": {},
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 10.41
+    },
+    {
+     "shares": 173,
+     "ticker": "XGI.TO",
+     "weightPct": 11.99
+    },
+    {
+     "shares": 140,
+     "ticker": "XIT.TO",
+     "weightPct": 12.22
+    },
+    {
+     "shares": 259,
+     "ticker": "XMA.TO",
+     "weightPct": 11.77
+    },
+    {
+     "shares": 86,
+     "ticker": "XUT.TO",
+     "weightPct": 3.08
+    },
+    {
+     "shares": 202,
+     "ticker": "ZGI.TO",
+     "weightPct": 11.96
+    },
+    {
+     "shares": 414,
+     "ticker": "ZUT.TO",
+     "weightPct": 12.13
+    }
+   ],
+   "value": 97047.57
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 2085,
+     "ticker": "ASTL.TO",
+     "weightPct": 13.1
+    },
+    {
+     "shares": 2213,
+     "ticker": "CVO.TO",
+     "weightPct": 11.61
+    },
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 11.87
+    },
+    {
+     "shares": 224,
+     "ticker": "XGI.TO",
+     "weightPct": 16.4
+    },
+    {
+     "shares": 29,
+     "ticker": "XIT.TO",
+     "weightPct": 2.67
+    },
+    {
+     "shares": 170,
+     "ticker": "XIU.TO",
+     "weightPct": 10.02
+    },
+    {
+     "shares": 85,
+     "ticker": "XMA.TO",
+     "weightPct": 4.08
+    },
+    {
+     "shares": 222,
+     "ticker": "ZGI.TO",
+     "weightPct": 13.88
+    },
+    {
+     "shares": 528,
+     "ticker": "ZUT.TO",
+     "weightPct": 16.35
+    }
+   ],
+   "value": 91863.7
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 1937,
+     "ticker": "ASTL.TO",
+     "weightPct": 11.82
+    },
+    {
+     "shares": 109,
+     "ticker": "ATRL.TO",
+     "weightPct": 9.76
+    },
+    {
+     "shares": 1372,
+     "ticker": "CVO.TO",
+     "weightPct": 6.99
+    },
+    {
+     "shares": 396,
+     "ticker": "NPI.TO",
+     "weightPct": 9.17
+    },
+    {
+     "shares": 18258,
+     "ticker": "RCK.V",
+     "weightPct": 12.35
+    }
+   ],
+   "value": 94588.75
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 71,
+     "ticker": "FTT.TO",
+     "weightPct": 7.19
+    },
+    {
+     "shares": 229,
+     "ticker": "OTEX.TO",
+     "weightPct": 8.7
+    }
+   ],
+   "value": 98116.29
+  }
+ },
  "region": "ca",
- "trades": []
+ "trades": [
+  {
+   "at": "2026-10-21T17:01:41Z",
+   "book": "single-stocks",
+   "price": 21.8921,
+   "shares": 132,
+   "side": "sell",
+   "ticker": "NPI.TO"
+  },
+  {
+   "at": "2026-10-21T17:01:54Z",
+   "book": "etf-core",
+   "price": 57.6201,
+   "shares": 149,
+   "side": "buy",
+   "ticker": "ZGI.TO"
+  },
+  {
+   "at": "2026-10-21T17:01:54Z",
+   "book": "single-stocks",
+   "price": 0.6418,
+   "shares": 5559,
+   "side": "buy",
+   "ticker": "RCK.V"
+  },
+  {
+   "at": "2026-10-21T17:01:54Z",
+   "book": "suppliers",
+   "price": 37.2998,
+   "shares": 229,
+   "side": "buy",
+   "ticker": "OTEX.TO"
+  }
+ ]
 }
