@@ -1,63 +1,6 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "holdings": {},
  "region": "ca",
- "trades": [
-  {
-   "at": "2026-10-20T14:28:54Z",
-   "book": "single-stocks",
-   "price": 49.0979,
-   "shares": 229,
-   "side": "sell",
-   "ticker": "CU.TO"
-  },
-  {
-   "at": "2026-10-20T14:28:54Z",
-   "book": "single-stocks",
-   "price": 1.9855,
-   "shares": 5738,
-   "side": "sell",
-   "ticker": "UCU.V"
-  },
-  {
-   "at": "2026-10-20T14:28:54Z",
-   "book": "long-hold",
-   "price": 1.9854,
-   "shares": 5954,
-   "side": "sell",
-   "ticker": "UCU.V"
-  },
-  {
-   "at": "2026-10-20T14:29:23Z",
-   "book": "long-hold",
-   "price": 28.3755,
-   "shares": 102,
-   "side": "buy",
-   "ticker": "ZUT.TO"
-  },
-  {
-   "at": "2026-10-20T14:29:23Z",
-   "book": "long-hold",
-   "price": 67.3014,
-   "shares": 44,
-   "side": "buy",
-   "ticker": "XGI.TO"
-  },
-  {
-   "at": "2026-10-20T14:29:23Z",
-   "book": "long-hold",
-   "price": 53.821,
-   "shares": 170,
-   "side": "buy",
-   "ticker": "XIU.TO"
-  },
-  {
-   "at": "2026-10-20T14:29:23Z",
-   "book": "single-stocks",
-   "price": 21.9791,
-   "shares": 528,
-   "side": "buy",
-   "ticker": "NPI.TO"
-  }
- ]
+ "trades": []
 }
