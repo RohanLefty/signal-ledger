@@ -1,6 +1,31 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "holdings": {},
  "region": "ca",
- "trades": []
+ "trades": [
+  {
+   "at": "2026-10-23T15:14:12Z",
+   "book": "long-hold",
+   "price": 93.1472,
+   "shares": 115,
+   "side": "buy",
+   "ticker": "XFN.TO"
+  },
+  {
+   "at": "2026-10-23T15:14:12Z",
+   "book": "long-hold",
+   "price": 53.8209,
+   "shares": 1,
+   "side": "buy",
+   "ticker": "XIU.TO"
+  },
+  {
+   "at": "2026-10-23T15:14:12Z",
+   "book": "etf-core",
+   "price": 93.1477,
+   "shares": 125,
+   "side": "buy",
+   "ticker": "XFN.TO"
+  }
+ ]
 }
