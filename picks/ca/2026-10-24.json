@@ -1,0 +1,142 @@
+{
+ "date": "2026-10-24",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 9.99
+    },
+    {
+     "shares": 125,
+     "ticker": "XFN.TO",
+     "weightPct": 12.2
+    },
+    {
+     "shares": 173,
+     "ticker": "XGI.TO",
+     "weightPct": 11.97
+    },
+    {
+     "shares": 140,
+     "ticker": "XIT.TO",
+     "weightPct": 12.2
+    },
+    {
+     "shares": 259,
+     "ticker": "XMA.TO",
+     "weightPct": 11.14
+    },
+    {
+     "shares": 86,
+     "ticker": "XUT.TO",
+     "weightPct": 3.16
+    },
+    {
+     "shares": 202,
+     "ticker": "ZGI.TO",
+     "weightPct": 12.35
+    },
+    {
+     "shares": 414,
+     "ticker": "ZUT.TO",
+     "weightPct": 12.34
+    }
+   ],
+   "value": 95692.16
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 2085,
+     "ticker": "ASTL.TO",
+     "weightPct": 14.81
+    },
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 11.5
+    },
+    {
+     "shares": 115,
+     "ticker": "XFN.TO",
+     "weightPct": 11.5
+    },
+    {
+     "shares": 224,
+     "ticker": "XGI.TO",
+     "weightPct": 15.89
+    },
+    {
+     "shares": 29,
+     "ticker": "XIT.TO",
+     "weightPct": 2.59
+    },
+    {
+     "shares": 171,
+     "ticker": "XIU.TO",
+     "weightPct": 9.87
+    },
+    {
+     "shares": 85,
+     "ticker": "XMA.TO",
+     "weightPct": 3.75
+    },
+    {
+     "shares": 222,
+     "ticker": "ZGI.TO",
+     "weightPct": 13.91
+    },
+    {
+     "shares": 528,
+     "ticker": "ZUT.TO",
+     "weightPct": 16.14
+    }
+   ],
+   "value": 93347.53
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 1937,
+     "ticker": "ASTL.TO",
+     "weightPct": 13.37
+    },
+    {
+     "shares": 109,
+     "ticker": "ATRL.TO",
+     "weightPct": 9.67
+    },
+    {
+     "shares": 396,
+     "ticker": "NPI.TO",
+     "weightPct": 8.88
+    },
+    {
+     "shares": 18258,
+     "ticker": "RCK.V",
+     "weightPct": 11.97
+    }
+   ],
+   "value": 96055.82
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 71,
+     "ticker": "FTT.TO",
+     "weightPct": 6.97
+    },
+    {
+     "shares": 229,
+     "ticker": "OTEX.TO",
+     "weightPct": 9.11
+    }
+   ],
+   "value": 98345.72
+  }
+ },
+ "region": "ca",
+ "trades": []
+}
