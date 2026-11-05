@@ -1,5 +1,5 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "holdings": {
   "etf-core": {
    "positions": [
@@ -326,7 +326,7 @@
     {
      "shares": 41,
      "ticker": "DHI",
-     "weightPct": 6.9
+     "weightPct": 6.91
     },
     {
      "shares": 4,
@@ -336,7 +336,7 @@
     {
      "shares": 57,
      "ticker": "FWONK",
-     "weightPct": 6
+     "weightPct": 6.01
     },
     {
      "shares": 14,
@@ -361,12 +361,12 @@
     {
      "shares": 37,
      "ticker": "NVT",
-     "weightPct": 4.43
+     "weightPct": 4.44
     },
     {
-     "shares": 22,
+     "shares": 28,
      "ticker": "OKLO",
-     "weightPct": 0.53
+     "weightPct": 0.6
     },
     {
      "shares": 8,
@@ -376,7 +376,7 @@
     {
      "shares": 46.5246,
      "ticker": "SBAC",
-     "weightPct": 9.99
+     "weightPct": 10
     },
     {
      "shares": 720,
@@ -404,7 +404,7 @@
      "weightPct": 6.44
     }
    ],
-   "value": 93116.11
+   "value": 93063.75
   },
   "suppliers": {
    "positions": [
@@ -445,108 +445,12 @@
  "region": "us",
  "trades": [
   {
-   "at": "2026-11-04T15:21:54Z",
+   "at": "2026-11-05T15:14:27Z",
    "book": "single-stocks",
-   "price": 23.9513,
-   "shares": 240,
-   "side": "sell",
-   "ticker": "MWA"
-  },
-  {
-   "at": "2026-11-04T15:21:54Z",
-   "book": "long-hold",
-   "price": 68.5179,
-   "shares": 11,
-   "side": "sell",
-   "ticker": "WMB"
-  },
-  {
-   "at": "2026-11-04T15:22:19Z",
-   "book": "etf-core",
-   "price": 24.939,
-   "shares": 1,
-   "side": "buy",
-   "ticker": "FINX"
-  },
-  {
-   "at": "2026-11-04T15:22:19Z",
-   "book": "single-stocks",
-   "price": 0.2158,
-   "shares": 16671,
-   "side": "buy",
-   "ticker": "BIOX"
-  },
-  {
-   "at": "2026-11-04T15:22:19Z",
-   "book": "single-stocks",
-   "price": 209.3593,
-   "shares": 32,
-   "side": "buy",
-   "ticker": "FSLR"
-  },
-  {
-   "at": "2026-11-04T15:22:19Z",
-   "book": "single-stocks",
-   "price": 299.1924,
-   "shares": 13,
-   "side": "buy",
-   "ticker": "LNG"
-  },
-  {
-   "at": "2026-11-04T15:22:19Z",
-   "book": "single-stocks",
-   "price": 23.1976,
-   "shares": 1,
+   "price": 19.9448,
+   "shares": 6,
    "side": "buy",
    "ticker": "OKLO"
-  },
-  {
-   "at": "2026-11-04T15:22:19Z",
-   "book": "single-stocks",
-   "price": 6.2923,
-   "shares": 663,
-   "side": "sell",
-   "ticker": "FMC"
-  },
-  {
-   "at": "2026-11-04T15:22:19Z",
-   "book": "single-stocks",
-   "price": 50.0517,
-   "shares": 87,
-   "side": "sell",
-   "ticker": "JEF"
-  },
-  {
-   "at": "2026-11-04T17:11:35Z",
-   "book": "long-hold",
-   "price": 213.597,
-   "shares": 23,
-   "side": "sell",
-   "ticker": "ITA"
-  },
-  {
-   "at": "2026-11-04T17:11:35Z",
-   "book": "single-stocks",
-   "price": 203.9646,
-   "shares": 28,
-   "side": "sell",
-   "ticker": "FSLR"
-  },
-  {
-   "at": "2026-11-04T17:11:48Z",
-   "book": "long-hold",
-   "price": 146.187,
-   "shares": 52,
-   "side": "buy",
-   "ticker": "TJX"
-  },
-  {
-   "at": "2026-11-04T17:11:48Z",
-   "book": "single-stocks",
-   "price": 98.1637,
-   "shares": 57,
-   "side": "buy",
-   "ticker": "FWONK"
   }
  ]
 }
