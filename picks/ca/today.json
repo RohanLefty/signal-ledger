@@ -1,6 +1,127 @@
 {
  "date": "2026-11-09",
- "holdings": {},
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 9.8
+    },
+    {
+     "shares": 173,
+     "ticker": "XGI.TO",
+     "weightPct": 11.72
+    },
+    {
+     "shares": 140,
+     "ticker": "XIT.TO",
+     "weightPct": 11.34
+    },
+    {
+     "shares": 259,
+     "ticker": "XMA.TO",
+     "weightPct": 12.28
+    },
+    {
+     "shares": 86,
+     "ticker": "XUT.TO",
+     "weightPct": 3.27
+    },
+    {
+     "shares": 202,
+     "ticker": "ZGI.TO",
+     "weightPct": 11.98
+    },
+    {
+     "shares": 414,
+     "ticker": "ZUT.TO",
+     "weightPct": 12.8
+    }
+   ],
+   "value": 96601.71
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 2085,
+     "ticker": "ASTL.TO",
+     "weightPct": 16.43
+    },
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 10.96
+    },
+    {
+     "shares": 224,
+     "ticker": "XGI.TO",
+     "weightPct": 15.2
+    },
+    {
+     "shares": 29,
+     "ticker": "XIT.TO",
+     "weightPct": 2.35
+    },
+    {
+     "shares": 818,
+     "ticker": "XIU.TO",
+     "weightPct": 45.66
+    },
+    {
+     "shares": 85,
+     "ticker": "XMA.TO",
+     "weightPct": 4.04
+    },
+    {
+     "shares": 56,
+     "ticker": "ZGI.TO",
+     "weightPct": 3.33
+    }
+   ],
+   "value": 96438.97
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 1680,
+     "ticker": "ASTL.TO",
+     "weightPct": 13.07
+    },
+    {
+     "shares": 109,
+     "ticker": "ATRL.TO",
+     "weightPct": 9.83
+    },
+    {
+     "shares": 18258,
+     "ticker": "RCK.V",
+     "weightPct": 11.58
+    },
+    {
+     "shares": 132,
+     "ticker": "RUS.TO",
+     "weightPct": 10.29
+    }
+   ],
+   "value": 97719.85
+  },
+  "suppliers": {
+   "positions": [
+    {
+     "shares": 1,
+     "ticker": "CSU.TO",
+     "weightPct": 3.62
+    },
+    {
+     "shares": 71,
+     "ticker": "FTT.TO",
+     "weightPct": 6.47
+    }
+   ],
+   "value": 97322.17
+  }
+ },
  "region": "ca",
  "trades": []
 }
