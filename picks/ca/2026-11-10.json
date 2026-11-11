@@ -1,0 +1,139 @@
+{
+ "date": "2026-11-10",
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 9.74
+    },
+    {
+     "shares": 173,
+     "ticker": "XGI.TO",
+     "weightPct": 12.04
+    },
+    {
+     "shares": 140,
+     "ticker": "XIT.TO",
+     "weightPct": 11.3
+    },
+    {
+     "shares": 259,
+     "ticker": "XMA.TO",
+     "weightPct": 11.79
+    },
+    {
+     "shares": 86,
+     "ticker": "XUT.TO",
+     "weightPct": 3.29
+    },
+    {
+     "shares": 202,
+     "ticker": "ZGI.TO",
+     "weightPct": 12.24
+    },
+    {
+     "shares": 414,
+     "ticker": "ZUT.TO",
+     "weightPct": 12.91
+    }
+   ],
+   "value": 96977.3
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 10.73
+    },
+    {
+     "shares": 224,
+     "ticker": "XGI.TO",
+     "weightPct": 15.35
+    },
+    {
+     "shares": 29,
+     "ticker": "XIT.TO",
+     "weightPct": 2.3
+    },
+    {
+     "shares": 818,
+     "ticker": "XIU.TO",
+     "weightPct": 45.15
+    },
+    {
+     "shares": 85,
+     "ticker": "XMA.TO",
+     "weightPct": 3.81
+    },
+    {
+     "shares": 56,
+     "ticker": "ZGI.TO",
+     "weightPct": 3.34
+    }
+   ],
+   "value": 98477.2
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 109,
+     "ticker": "ATRL.TO",
+     "weightPct": 9.99
+    },
+    {
+     "shares": 18258,
+     "ticker": "RCK.V",
+     "weightPct": 11.44
+    },
+    {
+     "shares": 132,
+     "ticker": "RUS.TO",
+     "weightPct": 10.11
+    }
+   ],
+   "value": 98917.69
+  },
+  "suppliers": {
+   "positions": [],
+   "value": 97135.77
+  }
+ },
+ "region": "ca",
+ "trades": [
+  {
+   "at": "2026-11-10T18:01:20Z",
+   "book": "suppliers",
+   "price": 3454.3764,
+   "shares": 1,
+   "side": "sell",
+   "ticker": "CSU.TO"
+  },
+  {
+   "at": "2026-11-10T18:01:21Z",
+   "book": "long-hold",
+   "price": 8.1908,
+   "shares": 2085,
+   "side": "sell",
+   "ticker": "ASTL.TO"
+  },
+  {
+   "at": "2026-11-10T18:01:21Z",
+   "book": "suppliers",
+   "price": 87.0389,
+   "shares": 71,
+   "side": "sell",
+   "ticker": "FTT.TO"
+  },
+  {
+   "at": "2026-11-10T18:01:21Z",
+   "book": "single-stocks",
+   "price": 8.1913,
+   "shares": 1680,
+   "side": "sell",
+   "ticker": "ASTL.TO"
+  }
+ ]
+}
