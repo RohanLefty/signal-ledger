@@ -1,22 +1,22 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "holdings": {
   "etf-core": {
    "positions": [
     {
      "shares": 115,
      "ticker": "ARKG",
-     "weightPct": 5.22
+     "weightPct": 5.24
     },
     {
      "shares": 45.744,
      "ticker": "ARKW",
-     "weightPct": 6.5
+     "weightPct": 6.53
     },
     {
      "shares": 167,
      "ticker": "BOTZ",
-     "weightPct": 5.22
+     "weightPct": 5.25
     },
     {
      "shares": 18,
@@ -26,57 +26,57 @@
     {
      "shares": 14.2144,
      "ticker": "GNOM",
-     "weightPct": 0.9
+     "weightPct": 0.91
     },
     {
      "shares": 14,
      "ticker": "GRID",
-     "weightPct": 2.21
+     "weightPct": 2.22
     },
     {
      "shares": 80.8609,
      "ticker": "ITA",
-     "weightPct": 5.7
+     "weightPct": 5.69
     },
     {
      "shares": 61,
      "ticker": "IYT",
-     "weightPct": 4.96
+     "weightPct": 4.99
     },
     {
      "shares": 61.4608,
      "ticker": "NLR",
-     "weightPct": 5.54
+     "weightPct": 5.41
     },
     {
      "shares": 30,
      "ticker": "PEJ",
-     "weightPct": 1.96
+     "weightPct": 1.97
     },
     {
      "shares": 28.5164,
      "ticker": "PHO",
-     "weightPct": 2.12
+     "weightPct": 2.13
     },
     {
      "shares": 14,
      "ticker": "QTUM",
-     "weightPct": 1.83
+     "weightPct": 1.84
     },
     {
      "shares": 97.1454,
      "ticker": "REMX",
-     "weightPct": 5.02
+     "weightPct": 4.82
     },
     {
      "shares": 9,
      "ticker": "SMH",
-     "weightPct": 4.46
+     "weightPct": 4.49
     },
     {
      "shares": 69,
      "ticker": "SRVR",
-     "weightPct": 1.92
+     "weightPct": 1.93
     },
     {
      "shares": 17.1729,
@@ -86,7 +86,7 @@
     {
      "shares": 44,
      "ticker": "UFO",
-     "weightPct": 1.8
+     "weightPct": 1.81
     },
     {
      "shares": 126.9232,
@@ -96,22 +96,22 @@
     {
      "shares": 25.2635,
      "ticker": "XAR",
-     "weightPct": 5.85
+     "weightPct": 5.81
     },
     {
      "shares": 18,
      "ticker": "XHB",
-     "weightPct": 1.79
+     "weightPct": 1.8
     },
     {
      "shares": 53,
      "ticker": "XLB",
-     "weightPct": 2.71
+     "weightPct": 2.73
     },
     {
      "shares": 63,
      "ticker": "XLF",
-     "weightPct": 3.55
+     "weightPct": 3.57
     },
     {
      "shares": 4,
@@ -121,25 +121,25 @@
     {
      "shares": 25,
      "ticker": "XLP",
-     "weightPct": 2.19
+     "weightPct": 2.2
     },
     {
      "shares": 123,
      "ticker": "XRT",
-     "weightPct": 10.9
+     "weightPct": 10.96
     },
     {
      "shares": 7,
      "ticker": "XSD",
-     "weightPct": 3.15
+     "weightPct": 3.17
     },
     {
      "shares": 65.1463,
      "ticker": "XTN",
-     "weightPct": 6.53
+     "weightPct": 6.56
     }
    ],
-   "value": 103509.3
+   "value": 102963.66
   },
   "long-hold": {
    "positions": [
@@ -196,7 +196,7 @@
     {
      "shares": 36,
      "ticker": "ITA",
-     "weightPct": 2.81
+     "weightPct": 2.79
     },
     {
      "shares": 4,
@@ -231,7 +231,7 @@
     {
      "shares": 52,
      "ticker": "TJX",
-     "weightPct": 7.54
+     "weightPct": 7.55
     },
     {
      "shares": 38,
@@ -241,7 +241,7 @@
     {
      "shares": 98,
      "ticker": "XLF",
-     "weightPct": 6.12
+     "weightPct": 6.13
     },
     {
      "shares": 84,
@@ -249,7 +249,7 @@
      "weightPct": 3.93
     }
    ],
-   "value": 93382.45
+   "value": 93364.45
   },
   "single-stocks": {
    "positions": [
@@ -413,38 +413,5 @@
   }
  },
  "region": "us",
- "trades": [
-  {
-   "at": "2026-11-11T15:24:29Z",
-   "book": "long-hold",
-   "price": 44.8237,
-   "shares": 26,
-   "side": "buy",
-   "ticker": "CRSP"
-  },
-  {
-   "at": "2026-11-11T15:24:29Z",
-   "book": "long-hold",
-   "price": 793.3338,
-   "shares": 1,
-   "side": "sell",
-   "ticker": "MU"
-  },
-  {
-   "at": "2026-11-11T15:24:29Z",
-   "book": "single-stocks",
-   "price": 793.3338,
-   "shares": 1,
-   "side": "sell",
-   "ticker": "MU"
-  },
-  {
-   "at": "2026-11-11T15:24:29Z",
-   "book": "single-stocks",
-   "price": 26.1696,
-   "shares": 30,
-   "side": "buy",
-   "ticker": "OKLO"
-  }
- ]
+ "trades": []
 }
