@@ -1,22 +1,22 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "holdings": {
   "etf-core": {
    "positions": [
     {
      "shares": 581,
      "ticker": "HLIT.TO",
-     "weightPct": 8.93
+     "weightPct": 8.95
     },
     {
      "shares": 173,
      "ticker": "XGI.TO",
-     "weightPct": 12.2
+     "weightPct": 12.02
     },
     {
      "shares": 140,
      "ticker": "XIT.TO",
-     "weightPct": 11.88
+     "weightPct": 11.91
     },
     {
      "shares": 259,
@@ -26,27 +26,27 @@
     {
      "shares": 86,
      "ticker": "XUT.TO",
-     "weightPct": 3.33
+     "weightPct": 3.34
     },
     {
      "shares": 202,
      "ticker": "ZGI.TO",
-     "weightPct": 12.61
+     "weightPct": 12.64
     }
    ],
-   "value": 96202.25
+   "value": 95966.16
   },
   "long-hold": {
    "positions": [
     {
      "shares": 17041,
      "ticker": "RCK.V",
-     "weightPct": 10.3
+     "weightPct": 10.33
     },
     {
      "shares": 224,
      "ticker": "XGI.TO",
-     "weightPct": 15.58
+     "weightPct": 15.34
     },
     {
      "shares": 29,
@@ -56,7 +56,7 @@
     {
      "shares": 1128,
      "ticker": "XIU.TO",
-     "weightPct": 62.6
+     "weightPct": 62.78
     },
     {
      "shares": 85,
@@ -66,10 +66,10 @@
     {
      "shares": 56,
      "ticker": "ZGI.TO",
-     "weightPct": 3.45
+     "weightPct": 3.46
     }
    ],
-   "value": 97576.65
+   "value": 97298.5
   },
   "single-stocks": {
    "positions": [
@@ -92,22 +92,5 @@
   }
  },
  "region": "ca",
- "trades": [
-  {
-   "at": "2026-11-16T18:01:16Z",
-   "book": "single-stocks",
-   "price": 78.9423,
-   "shares": 132,
-   "side": "sell",
-   "ticker": "RUS.TO"
-  },
-  {
-   "at": "2026-11-16T18:01:16Z",
-   "book": "single-stocks",
-   "price": 7.7279,
-   "shares": 1525,
-   "side": "buy",
-   "ticker": "ASTL.TO"
-  }
- ]
+ "trades": []
 }
