@@ -1,6 +1,91 @@
 {
  "date": "2026-11-27",
- "holdings": {},
+ "holdings": {
+  "etf-core": {
+   "positions": [
+    {
+     "shares": 581,
+     "ticker": "HLIT.TO",
+     "weightPct": 8.26
+    },
+    {
+     "shares": 173,
+     "ticker": "XGI.TO",
+     "weightPct": 12.12
+    },
+    {
+     "shares": 140,
+     "ticker": "XIT.TO",
+     "weightPct": 11.21
+    },
+    {
+     "shares": 259,
+     "ticker": "XMA.TO",
+     "weightPct": 11.13
+    },
+    {
+     "shares": 86,
+     "ticker": "XUT.TO",
+     "weightPct": 3.49
+    },
+    {
+     "shares": 202,
+     "ticker": "ZGI.TO",
+     "weightPct": 12.78
+    }
+   ],
+   "value": 93693.73
+  },
+  "long-hold": {
+   "positions": [
+    {
+     "shares": 17041,
+     "ticker": "RCK.V",
+     "weightPct": 9.83
+    },
+    {
+     "shares": 224,
+     "ticker": "XGI.TO",
+     "weightPct": 15.7
+    },
+    {
+     "shares": 29,
+     "ticker": "XIT.TO",
+     "weightPct": 2.32
+    },
+    {
+     "shares": 1128,
+     "ticker": "XIU.TO",
+     "weightPct": 62.81
+    },
+    {
+     "shares": 85,
+     "ticker": "XMA.TO",
+     "weightPct": 3.65
+    },
+    {
+     "shares": 56,
+     "ticker": "ZGI.TO",
+     "weightPct": 3.55
+    }
+   ],
+   "value": 93642.14
+  },
+  "single-stocks": {
+   "positions": [
+    {
+     "shares": 18258,
+     "ticker": "RCK.V",
+     "weightPct": 10.16
+    }
+   ],
+   "value": 97034.68
+  },
+  "suppliers": {
+   "positions": [],
+   "value": 97135.77
+  }
+ },
  "region": "ca",
  "trades": []
 }
